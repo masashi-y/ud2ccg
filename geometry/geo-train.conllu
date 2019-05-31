@@ -1,0 +1,1073 @@
+1	In	_	ADP	_	_	4	case	_	_
+2	the	_	DET	_	_	4	det	_	_
+3	accompanying	_	VERB	_	_	4	amod	_	_
+4	diagram	_	NOUN	_	_	10	nmod	_	_
+5	,	_	PUNCT	_	_	10	punct	_	_
+6	ABC	_	NOUN	_	_	10	nsubj	_	_
+7	is	_	VERB	_	_	10	cop	_	_
+8	an	_	DET	_	_	10	det	_	_
+9	equilateral	_	ADJ	_	_	10	amod	_	_
+10	triangle	_	NOUN	_	_	0	root	_	_
+11	with	_	ADP	_	_	13	case	_	_
+12	a	_	DET	_	_	13	det	_	_
+13	perimeter	_	NOUN	_	_	10	nmod	_	_
+14	of	_	ADP	_	_	15	case	_	_
+15	30	_	NUM	_	_	13	nmod	_	_
+16	.	_	PUNCT	_	_	10	punct	_	_
+
+
+1	What	_	PRON	NOUN	_	4	nsubj	_	_
+2	is	_	VERB	VERB	_	4	cop	_	_
+3	the	_	DET	DET	_	4	det	_	_
+4	value	_	NOUN	NOUN	_	0	root	_	_
+5	of	_	ADP	ADP	_	6	case	_	_
+6	y	_	NOUN	PRON	_	4	nmod	_	_
+7	+	_	SYM	CONJ	_	8	case	_	_
+8	z	_	NOUN	NOUN	_	6	nmod	_	_
+9	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+
+1	The	_	DET	DET	_	3	det	_	_
+2	square	_	NOUN	ADJ	_	3	amod	_	_
+3	ABCD	_	NOUN	NOUN	_	4	nsubj	_	_
+4	touches	_	VERB	VERB	_	0	root	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	circle	_	NOUN	NOUN	_	4	dobj	_	_
+7	at	_	ADP	ADP	_	9	case	_	_
+8	4	_	NUM	NUM	_	9	nummod	_	_
+9	points	_	NOUN	NOUN	_	4	nmod	_	_
+10	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+
+1	Points	_	NOUN	NOUN	_	2	amod	_	_
+2	A	_	NOUN	NOUN	_	11	nsubj	_	_
+3	,	_	PUNCT	PUNCT	_	2	punct	_	_
+4	B	_	NOUN	NOUN	_	2	conj	_	_
+5	,	_	PUNCT	PUNCT	_	2	punct	_	_
+6	C	_	NOUN	NOUN	_	2	conj	_	_
+7	,	_	PUNCT	PUNCT	_	2	punct	_	_
+8	and	_	CONJ	CONJ	_	2	cc	_	_
+9	D	_	NOUN	NOUN	_	2	conj	_	_
+10	are	_	VERB	VERB	_	11	cop	_	_
+11	midpoints	_	NOUN	NOUN	_	0	root	_	_
+12	of	_	ADP	ADP	_	14	case	_	_
+13	the	_	DET	DET	_	14	det	_	_
+14	sides	_	NOUN	NOUN	_	11	nmod	_	_
+15	of	_	ADP	ADP	_	17	case	_	_
+16	square	_	NOUN	ADJ	_	17	amod	_	_
+17	JETS	_	NOUN	NOUN	_	14	nmod	_	_
+18	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+
+1	What	_	PRON	NOUN	_	4	nsubj	_	_
+2	is	_	VERB	VERB	_	4	cop	_	_
+3	the	_	DET	DET	_	4	det	_	_
+4	area	_	NOUN	NOUN	_	0	root	_	_
+5	of	_	ADP	ADP	_	7	case	_	_
+6	triangle	_	NOUN	NOUN	_	7	amod	_	_
+7	ADE	_	NOUN	NOUN	_	4	nmod	_	_
+8	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+
+1	What	_	NOUN	NOUN	_	4	nsubj	_	_
+2	is	_	VERB	VERB	_	4	cop	_	_
+3	the	_	DET	DET	_	4	det	_	_
+4	perimeter	_	NOUN	NOUN	_	0	root	_	_
+5	of	_	ADP	ADP	_	7	case	_	_
+6	the	_	DET	DET	_	7	det	_	_
+7	part	_	NOUN	NOUN	_	4	nmod	_	_
+8	of	_	ADP	ADP	_	10	case	_	_
+9	the	_	DET	DET	_	10	det	_	_
+10	figure	_	NOUN	NOUN	_	7	nmod	_	_
+11	that	_	PRON	ADJ	_	14	nsubj	_	_
+12	is	_	VERB	VERB	_	14	cop	_	_
+13	not	_	PART	ADV	_	14	neg	_	_
+14	shaded	_	VERB	VERB	_	10	acl:relcl	_	_
+15	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+
+1	The	_	DET	DET	_	3	det	_	_
+2	half	_	ADJ	ADJ	_	3	amod	_	_
+3	circle	_	NOUN	NOUN	_	7	nsubj	_	_
+4	with	_	ADP	ADP	_	6	case	_	_
+5	diameter	_	NOUN	NOUN	_	6	amod	_	_
+6	AD	_	NOUN	NOUN	_	3	nmod	_	_
+7	has	_	VERB	VERB	_	0	root	_	_
+8	an	_	DET	DET	_	9	det	_	_
+9	area	_	NOUN	NOUN	_	7	dobj	_	_
+10	of	_	ADP	ADP	_	11	case	_	_
+11	8	_	NUM	NUM	_	9	nmod	_	_
+12	*	_	SYM	PUNCT	_	13	case	_	_
+13	pi	_	NOUN	NOUN	_	11	nmod	_	_
+14	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+
+1	The	_	DET	DET	_	2	det	_	_
+2	diagram	_	NOUN	NOUN	_	6	nsubj	_	_
+3	at	_	ADP	ADP	_	5	case	_	_
+4	the	_	DET	DET	_	5	det	_	_
+5	right	_	NOUN	NOUN	_	2	nmod	_	_
+6	shows	_	VERB	VERB	_	0	root	_	_
+7	the	_	DET	DET	_	8	det	_	_
+8	construction	_	NOUN	NOUN	_	6	dobj	_	_
+9	of	_	ADP	ADP	_	12	case	_	_
+10	the	_	DET	DET	_	12	det	_	_
+11	perpendicular	_	ADJ	ADJ	_	12	amod	_	_
+12	bisector	_	NOUN	NOUN	_	8	nmod	_	_
+13	of	_	ADP	ADP	_	14	case	_	_
+14	AB	_	NOUN	NOUN	_	12	nmod	_	_
+15	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	diagram	_	NOUN	NOUN	_	9	nmod	_	_
+4	at	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	right	_	NOUN	NOUN	_	3	nmod	_	_
+7	,	_	PUNCT	PUNCT	_	9	punct	_	_
+8	AC	_	NOUN	NOUN	_	9	nsubj	_	_
+9	=	_	SYM	SYM	_	0	root	_	_
+10	DC	_	NOUN	NOUN	_	9	dobj	_	_
+11	=	_	SYM	SYM	_	9	advcl	_	_
+12	DB	_	NOUN	NOUN	_	11	dobj	_	_
+13	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+
+1	If	_	SCONJ	ADP	_	7	mark	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	area	_	NOUN	NOUN	_	7	nsubj	_	_
+4	of	_	ADP	ADP	_	5	case	_	_
+5	JETS	_	NOUN	NOUN	_	3	nmod	_	_
+6	is	_	VERB	VERB	_	7	root	_	_
+7	36	_	NUM	NUM	_	12	advcl	_	_
+8	,	_	PUNCT	PUNCT	_	12	punct	_	_
+9	what	_	PRON	NOUN	_	12	nsubj	_	_
+10	is	_	VERB	VERB	_	12	cop	_	_
+11	the	_	DET	DET	_	12	det	_	_
+12	area	_	NOUN	NOUN	_	0	root	_	_
+13	of	_	ADP	ADP	_	14	case	_	_
+14	ABCD	_	NOUN	NOUN	_	12	nmod	_	_
+15	?	_	PUNCT	PUNCT	_	12	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	diagram	_	NOUN	NOUN	_	14	nmod	_	_
+4	at	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	right	_	NOUN	ADJ	_	3	nmod	_	_
+7	,	_	PUNCT	PUNCT	_	14	punct	_	_
+8	parallel	_	ADJ	ADJ	_	9	amod	_	_
+9	lines	_	NOUN	NOUN	_	10	amod	_	_
+10	a	_	NOUN	DET	_	14	nsubj	_	_
+11	and	_	CONJ	CONJ	_	12	cc	_	_
+12	m	_	NOUN	NOUN	_	10	conj	_	_
+13	are	_	VERB	VERB	_	14	cop	_	_
+14	cut	_	VERB	VERB	_	0	root	_	_
+15	by	_	ADP	ADP	_	17	case	_	_
+16	transversal	_	NOUN	NOUN	_	17	amod	_	_
+17	t	_	NOUN	NOUN	_	14	nmod	_	_
+18	,	_	PUNCT	PUNCT	_	14	punct	_	_
+19	1	_	NUM	NUM	_	20	nsubj	_	_
+20	=	_	SYM	SYM	_	14	conj	_	_
+21	4x	_	NUM	NUM	_	20	dobj	_	_
+22	+	_	SYM	SYM	_	23	case	_	_
+23	16	_	NUM	NUM	_	21	nmod	_	_
+24	and	_	CONJ	CONJ	_	14	cc	_	_
+25	2	_	NUM	NUM	_	26	nsubj	_	_
+26	=	_	SYM	SYM	_	14	conj	_	_
+27	2x	_	NUM	NUM	_	26	dobj	_	_
+28	-	_	SYM	SYM	_	29	case	_	_
+29	22	_	NUM	NUM	_	27	nmod	_	_
+30	.	_	PUNCT	PUNCT	_	14	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	diagram	_	NOUN	NOUN	_	10	nmod	_	_
+4	at	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	right	_	NOUN	NOUN	_	3	nmod	_	_
+7	,	_	PUNCT	PUNCT	_	10	punct	_	_
+8	circle	_	NOUN	NOUN	_	9	amod	_	_
+9	O	_	NOUN	NOUN	_	10	nsubj	_	_
+10	has	_	VERB	VERB	_	0	root	_	_
+11	a	_	DET	DET	_	12	det	_	_
+12	radius	_	NOUN	NOUN	_	10	dobj	_	_
+13	of	_	ADP	ADP	_	14	case	_	_
+14	5	_	NUM	NUM	_	12	nmod	_	_
+15	,	_	PUNCT	PUNCT	_	10	punct	_	_
+16	and	_	CONJ	CONJ	_	10	cc	_	_
+17	CE	_	NOUN	NOUN	_	18	nsubj	_	_
+18	=	_	SYM	SYM	_	10	conj	_	_
+19	2	_	NUM	NUM	_	18	dobj	_	_
+20	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	diagram	_	NOUN	NOUN	_	13	nmod	_	_
+4	at	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	right	_	NOUN	NOUN	_	3	nmod	_	_
+7	,	_	PUNCT	PUNCT	_	13	punct	_	_
+8	lines	_	NOUN	VERB	_	9	amod	_	_
+9	a	_	NOUN	DET	_	13	nsubj	_	_
+10	and	_	CONJ	CONJ	_	9	cc	_	_
+11	m	_	NOUN	NOUN	_	9	conj	_	_
+12	are	_	VERB	VERB	_	13	cop	_	_
+13	parallel	_	ADJ	ADJ	_	0	root	_	_
+14	with	_	ADP	ADP	_	16	case	_	_
+15	transversal	_	NOUN	NOUN	_	16	amod	_	_
+16	t	_	NOUN	NOUN	_	13	nmod	_	_
+17	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	figure	_	NOUN	NOUN	_	7	nmod	_	_
+4	above	_	ADV	ADP	_	3	advmod	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	square	_	NOUN	NOUN	_	7	nsubj	_	_
+7	has	_	VERB	VERB	_	0	root	_	_
+8	two	_	NUM	NUM	_	9	nummod	_	_
+9	sides	_	NOUN	NOUN	_	7	dobj	_	_
+10	which	_	PRON	ADJ	_	12	nsubj	_	_
+11	are	_	VERB	VERB	_	12	cop	_	_
+12	tangent	_	ADJ	ADJ	_	9	acl:relcl	_	_
+13	to	_	ADP	ADP	_	15	case	_	_
+14	the	_	DET	DET	_	15	det	_	_
+15	circle	_	NOUN	NOUN	_	12	nmod	_	_
+16	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+
+1	What	_	PRON	NOUN	_	5	nsubj	_	_
+2	is	_	VERB	VERB	_	5	root	_	_
+3	the	_	DET	DET	_	5	det	_	_
+4	approximate	_	ADJ	ADJ	_	5	amod	_	_
+5	area	_	NOUN	NOUN	_	0	root	_	_
+6	of	_	ADP	ADP	_	8	case	_	_
+7	the	_	DET	DET	_	8	det	_	_
+8	paper	_	NOUN	NOUN	_	5	nmod	_	_
+9	remaining	_	VERB	VERB	_	8	acl	_	_
+10	after	_	ADP	ADP	_	15	mark	_	_
+11	the	_	DET	DET	_	12	det	_	_
+12	circles	_	NOUN	NOUN	_	15	nsubjpass	_	_
+13	have	_	AUX	VERB	_	15	aux	_	_
+14	been	_	AUX	VERB	_	15	auxpass	_	_
+15	cut	_	VERB	VERB	_	9	advcl	_	_
+16	out	_	ADP	PART	_	15	compound:prt	_	_
+17	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	figure	_	NOUN	NOUN	_	7	nmod	_	_
+4	above	_	ADV	ADV	_	3	advmod	_	_
+5	,	_	PUNCT	PUNCT	_	7	punct	_	_
+6	AD	_	NOUN	NOUN	_	7	nsubj	_	_
+7	=	_	SYM	SYM	_	0	root	_	_
+8	4	_	NUM	NUM	_	7	dobj	_	_
+9	,	_	PUNCT	PUNCT	_	7	punct	_	_
+10	AB	_	NOUN	NOUN	_	11	nsubj	_	_
+11	=	_	SYM	SYM	_	7	conj	_	_
+12	3	_	NUM	NUM	_	11	dobj	_	_
+13	and	_	CONJ	CONJ	_	7	cc	_	_
+14	CD	_	NOUN	NOUN	_	15	nsubj	_	_
+15	=	_	SYM	SYM	_	7	conj	_	_
+16	9	_	NUM	NUM	_	15	dobj	_	_
+17	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	diagram	_	NOUN	NOUN	_	13	nmod	_	_
+4	at	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	right	_	NOUN	NOUN	_	3	nmod	_	_
+7	,	_	PUNCT	PUNCT	_	13	punct	_	_
+8	lines	_	NOUN	VERB	_	9	amod	_	_
+9	a	_	NOUN	DET	_	13	nsubj	_	_
+10	and	_	CONJ	CONJ	_	9	cc	_	_
+11	m	_	NOUN	NOUN	_	9	conj	_	_
+12	are	_	VERB	VERB	_	13	cop	_	_
+13	parallel	_	ADJ	ADJ	_	0	root	_	_
+14	and	_	CONJ	CONJ	_	13	cc	_	_
+15	are	_	VERB	VERB	_	16	cop	_	_
+16	cut	_	VERB	VERB	_	13	conj	_	_
+17	by	_	ADP	ADP	_	19	case	_	_
+18	transversal	_	NOUN	NOUN	_	19	amod	_	_
+19	t	_	NOUN	NOUN	_	16	nmod	_	_
+20	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+
+1	Find	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	measure	_	NOUN	NOUN	_	1	dobj	_	_
+4	of	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	angle	_	NOUN	NOUN	_	3	nmod	_	_
+7	designated	_	VERB	VERB	_	6	acl	_	_
+8	by	_	ADP	ADP	_	9	case	_	_
+9	x	_	NOUN	SYM	_	7	nmod	_	_
+10	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	The	_	DET	DET	_	2	det	_	_
+2	angles	_	NOUN	NOUN	_	8	nsubj	_	_
+3	of	_	ADP	ADP	_	5	case	_	_
+4	triangle	_	NOUN	NOUN	_	5	amod	_	_
+5	BCD	_	NOUN	NOUN	_	2	nmod	_	_
+6	are	_	VERB	VERB	_	8	cop	_	_
+7	all	_	ADV	ADV	_	8	advmod	_	_
+8	equal	_	ADJ	ADJ	_	0	root	_	_
+9	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+
+1	Find	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	area	_	NOUN	NOUN	_	1	dobj	_	_
+4	of	_	ADP	ADP	_	7	case	_	_
+5	the	_	DET	DET	_	7	det	_	_
+6	shaded	_	VERB	VERB	_	7	amod	_	_
+7	region	_	NOUN	NOUN	_	3	nmod	_	_
+8	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	What	_	PRON	NOUN	_	3	nsubj	_	_
+2	is	_	VERB	VERB	_	3	cop	_	_
+3	measure	_	NOUN	NOUN	_	0	root	_	_
+4	of	_	ADP	ADP	_	7	case	_	_
+5	the	_	DET	DET	_	7	det	_	_
+6	angle	_	NOUN	NOUN	_	7	amod	_	_
+7	DEB	_	NOUN	NOUN	_	3	nmod	_	_
+8	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+
+1	Which	_	PRON	ADJ	_	8	nsubj	_	_
+2	of	_	ADP	ADP	_	4	case	_	_
+3	the	_	DET	DET	_	4	det	_	_
+4	following	_	ADJ	VERB	_	1	nmod	_	_
+5	could	_	AUX	VERB	_	8	aux	_	_
+6	be	_	VERB	VERB	_	8	cop	_	_
+7	a	_	DET	DET	_	8	det	_	_
+8	value	_	NOUN	NOUN	_	0	root	_	_
+9	of	_	ADP	ADP	_	10	case	_	_
+10	x	_	NOUN	SYM	_	8	nmod	_	_
+11	,	_	PUNCT	PUNCT	_	8	punct	_	_
+12	in	_	ADP	ADP	_	14	case	_	_
+13	the	_	DET	DET	_	14	det	_	_
+14	diagram	_	NOUN	NOUN	_	8	nmod	_	_
+15	above	_	ADV	ADV	_	14	advmod	_	_
+16	?	_	PUNCT	PUNCT	_	8	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	triangle	_	NOUN	NOUN	_	3	amod	_	_
+3	ABC	_	NOUN	NOUN	_	8	nmod	_	_
+4	,	_	PUNCT	PUNCT	_	8	punct	_	_
+5	line	_	NOUN	NOUN	_	6	amod	_	_
+6	DE	_	NOUN	NOUN	_	8	nsubj	_	_
+7	is	_	VERB	VERB	_	8	cop	_	_
+8	parallel	_	ADJ	ADJ	_	0	root	_	_
+9	with	_	ADP	ADP	_	11	case	_	_
+10	line	_	NOUN	NOUN	_	11	amod	_	_
+11	AC	_	NOUN	NOUN	_	8	nmod	_	_
+12	,	_	PUNCT	PUNCT	_	8	punct	_	_
+13	DB	_	NOUN	NOUN	_	14	nsubj	_	_
+14	=	_	SYM	SYM	_	8	conj	_	_
+15	4	_	NUM	NUM	_	14	dobj	_	_
+16	,	_	PUNCT	PUNCT	_	8	punct	_	_
+17	AD	_	NOUN	NOUN	_	18	nsubj	_	_
+18	=	_	SYM	SYM	_	8	conj	_	_
+19	8	_	NUM	NUM	_	18	dobj	_	_
+20	,	_	PUNCT	PUNCT	_	8	punct	_	_
+21	and	_	CONJ	CONJ	_	8	cc	_	_
+22	DE	_	NOUN	NOUN	_	23	nsubj	_	_
+23	=	_	SYM	SYM	_	8	conj	_	_
+24	5	_	NUM	NUM	_	23	dobj	_	_
+25	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+
+1	Which	_	PRON	ADJ	_	7	nsubj	_	_
+2	of	_	ADP	ADP	_	4	case	_	_
+3	the	_	DET	DET	_	4	det	_	_
+4	following	_	ADJ	VERB	_	1	nmod	_	_
+5	must	_	AUX	VERB	_	7	aux	_	_
+6	be	_	VERB	VERB	_	7	cop	_	_
+7	true	_	ADJ	ADJ	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+
+1	Which	_	PRON	ADJ	_	8	nsubj	_	_
+2	of	_	ADP	ADP	_	5	case	_	_
+3	the	_	DET	DET	_	5	det	_	_
+4	following	_	ADJ	VERB	_	5	amod	_	_
+5	statement	_	NOUN	NOUN	_	1	nmod	_	_
+6	is	_	VERB	VERB	_	8	cop	_	_
+7	not	_	PART	ADV	_	8	neg	_	_
+8	true	_	ADJ	ADJ	_	0	root	_	_
+9	?	_	PUNCT	PUNCT	_	8	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	diagram	_	NOUN	NOUN	_	12	nmod	_	_
+4	below	_	ADV	ADP	_	3	advmod	_	_
+5	of	_	ADP	ADP	_	7	case	_	_
+6	triangle	_	NOUN	NOUN	_	7	amod	_	_
+7	ABC	_	NOUN	NOUN	_	3	nmod	_	_
+8	,	_	PUNCT	PUNCT	_	12	punct	_	_
+9	D	_	NOUN	NOUN	_	12	nsubj	_	_
+10	is	_	VERB	VERB	_	12	cop	_	_
+11	a	_	DET	DET	_	12	det	_	_
+12	point	_	NOUN	NOUN	_	0	root	_	_
+13	on	_	ADP	ADP	_	15	case	_	_
+14	line	_	NOUN	NOUN	_	15	amod	_	_
+15	AB	_	NOUN	NOUN	_	12	nmod	_	_
+16	,	_	PUNCT	PUNCT	_	12	punct	_	_
+17	AC	_	NOUN	NOUN	_	18	nsubj	_	_
+18	=	_	SYM	SYM	_	12	conj	_	_
+19	7	_	NUM	NUM	_	18	dobj	_	_
+20	,	_	PUNCT	PUNCT	_	12	punct	_	_
+21	AD	_	NOUN	NOUN	_	22	nsubj	_	_
+22	=	_	SYM	SYM	_	12	conj	_	_
+23	6	_	NUM	NUM	_	22	dobj	_	_
+24	,	_	PUNCT	PUNCT	_	12	punct	_	_
+25	and	_	CONJ	CONJ	_	12	cc	_	_
+26	BC	_	NOUN	NOUN	_	27	nsubj	_	_
+27	=	_	SYM	SYM	_	12	conj	_	_
+28	18	_	NUM	NUM	_	27	dobj	_	_
+29	.	_	PUNCT	PUNCT	_	12	punct	_	_
+
+
+1	Find	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	value	_	NOUN	NOUN	_	1	dobj	_	_
+4	of	_	ADP	ADP	_	5	case	_	_
+5	x	_	NOUN	X	_	3	nmod	_	_
+6	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	Given	_	VERB	VERB	_	0	root	_	_
+2	tangent	_	NOUN	NOUN	_	3	amod	_	_
+3	AC	_	NOUN	NOUN	_	1	dobj	_	_
+4	to	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	circle	_	NOUN	NOUN	_	3	nmod	_	_
+7	shown	_	VERB	VERB	_	6	acl	_	_
+8	at	_	ADP	ADP	_	10	case	_	_
+9	the	_	DET	DET	_	10	det	_	_
+10	right	_	NOUN	NOUN	_	7	nmod	_	_
+11	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	In	_	ADP	ADP	_	4	case	_	_
+2	the	_	DET	DET	_	4	det	_	_
+3	accompanying	_	VERB	VERB	_	4	amod	_	_
+4	diagram	_	NOUN	NOUN	_	15	nmod	_	_
+5	of	_	ADP	ADP	_	7	case	_	_
+6	rhombus	_	NOUN	ADJ	_	7	amod	_	_
+7	ABCD	_	NOUN	NOUN	_	4	nmod	_	_
+8	,	_	PUNCT	PUNCT	_	15	punct	_	_
+9	the	_	DET	DET	_	10	det	_	_
+10	measure	_	NOUN	NOUN	_	15	nsubj	_	_
+11	of	_	ADP	ADP	_	13	case	_	_
+12	angle	_	NOUN	NOUN	_	13	amod	_	_
+13	CAB	_	NOUN	NOUN	_	10	nmod	_	_
+14	is	_	VERB	VERB	_	15	cop	_	_
+15	35	_	NUM	NUM	_	0	root	_	_
+16	.	_	PUNCT	PUNCT	_	15	punct	_	_
+
+
+1	In	_	ADP	ADP	_	4	case	_	_
+2	the	_	DET	DET	_	4	det	_	_
+3	accompanying	_	VERB	VERB	_	4	amod	_	_
+4	diagram	_	NOUN	NOUN	_	7	nmod	_	_
+5	,	_	PUNCT	PUNCT	_	7	punct	_	_
+6	BA	_	NOUN	NOUN	_	7	nsubj	_	_
+7	=	_	SYM	SYM	_	0	root	_	_
+8	BC	_	NOUN	NOUN	_	7	dobj	_	_
+9	and	_	CONJ	CONJ	_	7	cc	_	_
+10	x	_	NOUN	SYM	_	11	nsubj	_	_
+11	=	_	SYM	SYM	_	7	conj	_	_
+12	117	_	NUM	NUM	_	11	dobj	_	_
+13	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+
+1	In	_	ADP	ADP	_	4	case	_	_
+2	the	_	DET	DET	_	4	det	_	_
+3	accompanying	_	VERB	VERB	_	4	amod	_	_
+4	diagram	_	NOUN	NOUN	_	13	nmod	_	_
+5	of	_	ADP	ADP	_	7	case	_	_
+6	circle	_	NOUN	NOUN	_	7	amod	_	_
+7	O	_	NOUN	NOUN	_	4	nmod	_	_
+8	,	_	PUNCT	PUNCT	_	13	punct	_	_
+9	chords	_	NOUN	NOUN	_	10	amod	_	_
+10	AB	_	NOUN	NOUN	_	13	nsubj	_	_
+11	and	_	CONJ	CONJ	_	10	cc	_	_
+12	CD	_	NOUN	NOUN	_	10	conj	_	_
+13	intersect	_	VERB	NOUN	_	0	root	_	_
+14	at	_	ADP	ADP	_	15	case	_	_
+15	E	_	NOUN	NOUN	_	13	nmod	_	_
+16	and	_	CONJ	CONJ	_	13	cc	_	_
+17	AC	_	NOUN	NOUN	_	24	nsubj	_	_
+18	:	_	SYM	PUNCT	_	19	case	_	_
+19	CB	_	NOUN	NOUN	_	17	nmod	_	_
+20	:	_	SYM	PUNCT	_	21	case	_	_
+21	BD	_	NOUN	NOUN	_	17	nmod	_	_
+22	:	_	SYM	PUNCT	_	23	case	_	_
+23	DA	_	NOUN	NOUN	_	17	nmod	_	_
+24	=	_	SYM	SYM	_	13	conj	_	_
+25	4	_	NUM	NUM	_	24	dobj	_	_
+26	:	_	SYM	SYM	_	27	case	_	_
+27	2	_	NUM	NUM	_	25	nmod	_	_
+28	:	_	SYM	SYM	_	29	case	_	_
+29	6	_	NUM	NUM	_	25	nmod	_	_
+30	:	_	SYM	SYM	_	31	case	_	_
+31	8	_	NUM	NUM	_	25	nmod	_	_
+32	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+
+1	The	_	DET	DET	_	2	det	_	_
+2	diagram	_	NOUN	NOUN	_	6	nsubj	_	_
+3	at	_	ADP	ADP	_	5	case	_	_
+4	the	_	DET	DET	_	5	det	_	_
+5	right	_	NOUN	NOUN	_	2	nmod	_	_
+6	shows	_	VERB	VERB	_	0	root	_	_
+7	the	_	DET	DET	_	8	det	_	_
+8	construction	_	NOUN	NOUN	_	6	dobj	_	_
+9	of	_	ADP	ADP	_	11	case	_	_
+10	a	_	DET	DET	_	11	det	_	_
+11	perpendicular	_	NOUN	NOUN	_	8	nmod	_	_
+12	,	_	PUNCT	PUNCT	_	11	punct	_	_
+13	line	_	NOUN	NOUN	_	14	amod	_	_
+14	PX	_	NOUN	NOUN	_	11	appos	_	_
+15	,	_	PUNCT	PUNCT	_	11	punct	_	_
+16	to	_	ADP	ADP	_	19	case	_	_
+17	a	_	DET	DET	_	19	det	_	_
+18	line	_	NOUN	NOUN	_	19	amod	_	_
+19	l	_	NOUN	NOUN	_	11	nmod	_	_
+20	from	_	ADP	ADP	_	22	case	_	_
+21	point	_	NOUN	NOUN	_	22	amod	_	_
+22	P	_	NOUN	NOUN	_	11	nmod	_	_
+23	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+
+1	Given	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	circle	_	NOUN	NOUN	_	1	dobj	_	_
+4	at	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	right	_	NOUN	NOUN	_	3	nmod	_	_
+7	with	_	ADP	ADP	_	10	case	_	_
+8	two	_	NUM	NUM	_	10	nummod	_	_
+9	intersecting	_	VERB	VERB	_	10	amod	_	_
+10	chords	_	NOUN	NOUN	_	3	nmod	_	_
+11	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	If	_	SCONJ	ADP	_	6	mark	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	measure	_	NOUN	NOUN	_	6	nsubj	_	_
+4	of	_	ADP	ADP	_	5	case	_	_
+5	ABD	_	NOUN	NOUN	_	3	nmod	_	_
+6	=	_	SYM	SYM	_	36	advcl	_	_
+7	3	_	NUM	NUM	_	6	dobj	_	_
+8	*	_	SYM	PUNCT	_	9	case	_	_
+9	x	_	NOUN	PUNCT	_	7	nmod	_	_
+10	-	_	SYM	SYM	_	11	case	_	_
+11	4	_	NUM	NUM	_	9	nmod	_	_
+12	,	_	PUNCT	PUNCT	_	6	punct	_	_
+13	DBE	_	NOUN	NOUN	_	14	nsubj	_	_
+14	=	_	SYM	SYM	_	6	conj	_	_
+15	x	_	NOUN	PUNCT	_	14	dobj	_	_
+16	-	_	SYM	SYM	_	17	case	_	_
+17	3	_	NUM	NUM	_	15	nmod	_	_
+18	,	_	PUNCT	PUNCT	_	6	punct	_	_
+19	ABC	_	NOUN	NOUN	_	20	nsubj	_	_
+20	=	_	SYM	SYM	_	6	conj	_	_
+21	31	_	NUM	NUM	_	20	dobj	_	_
+22	,	_	PUNCT	PUNCT	_	6	punct	_	_
+23	and	_	CONJ	CONJ	_	6	cc	_	_
+24	EBC	_	NOUN	NOUN	_	25	nsubj	_	_
+25	=	_	SYM	SYM	_	6	conj	_	_
+26	2	_	NUM	NUM	_	25	dobj	_	_
+27	*	_	SYM	PUNCT	_	28	case	_	_
+28	x	_	NOUN	PUNCT	_	26	nmod	_	_
+29	-	_	SYM	SYM	_	30	case	_	_
+30	10	_	NUM	NUM	_	28	nmod	_	_
+31	,	_	PUNCT	PUNCT	_	36	punct	_	_
+32	then	_	ADV	ADV	_	36	advmod	_	_
+33	what	_	PRON	NOUN	_	36	nsubj	_	_
+34	is	_	VERB	VERB	_	36	cop	_	_
+35	the	_	DET	DET	_	36	det	_	_
+36	value	_	NOUN	NOUN	_	0	root	_	_
+37	of	_	ADP	ADP	_	38	case	_	_
+38	x	_	NOUN	PUNCT	_	36	nmod	_	_
+39	?	_	PUNCT	PUNCT	_	36	punct	_	_
+
+
+1	How	_	ADV	ADV	_	2	advmod	_	_
+2	many	_	ADJ	ADJ	_	3	amod	_	_
+3	circles	_	NOUN	NOUN	_	6	nsubjpass	_	_
+4	can	_	AUX	VERB	_	6	aux	_	_
+5	be	_	AUX	VERB	_	6	auxpass	_	_
+6	drawn	_	VERB	VERB	_	0	root	_	_
+7	with	_	ADP	ADP	_	9	case	_	_
+8	their	_	PRON	ADJ	_	9	nmod:poss	_	_
+9	centers	_	NOUN	NOUN	_	6	nmod	_	_
+10	on	_	ADP	ADP	_	12	case	_	_
+11	line	_	NOUN	NOUN	_	12	amod	_	_
+12	l	_	NOUN	NOUN	_	9	nmod	_	_
+13	and	_	CONJ	CONJ	_	9	cc	_	_
+14	that	_	PRON	ADJ	_	15	nsubj	_	_
+15	pass	_	VERB	VERB	_	9	conj	_	_
+16	through	_	ADP	ADP	_	18	case	_	_
+17	both	_	DET	CONJ	_	18	det	_	_
+18	A	_	NOUN	NOUN	_	15	nmod	_	_
+19	and	_	CONJ	CONJ	_	18	cc	_	_
+20	B	_	NOUN	NOUN	_	18	conj	_	_
+21	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+
+1	The	_	DET	DET	_	2	det	_	_
+2	arc	_	NOUN	NOUN	_	7	nsubj	_	_
+3	drawn	_	VERB	VERB	_	2	acl	_	_
+4	from	_	ADP	ADP	_	6	case	_	_
+5	point	_	NOUN	NOUN	_	6	amod	_	_
+6	P	_	NOUN	NOUN	_	3	nmod	_	_
+7	intersects	_	VERB	NOUN	_	0	root	_	_
+8	line	_	NOUN	NOUN	_	9	amod	_	_
+9	l	_	NOUN	NOUN	_	7	dobj	_	_
+10	at	_	ADP	ADP	_	11	case	_	_
+11	A	_	NOUN	NOUN	_	7	nmod	_	_
+12	and	_	CONJ	CONJ	_	11	cc	_	_
+13	B	_	NOUN	NOUN	_	11	conj	_	_
+14	,	_	PUNCT	PUNCT	_	7	punct	_	_
+15	and	_	CONJ	CONJ	_	7	cc	_	_
+16	the	_	DET	DET	_	17	det	_	_
+17	arcs	_	NOUN	NOUN	_	24	nsubj	_	_
+18	drawn	_	VERB	VERB	_	17	acl	_	_
+19	from	_	ADP	ADP	_	21	case	_	_
+20	points	_	NOUN	NOUN	_	21	amod	_	_
+21	A	_	NOUN	DET	_	18	nmod	_	_
+22	and	_	CONJ	CONJ	_	21	cc	_	_
+23	B	_	NOUN	NOUN	_	21	conj	_	_
+24	intersect	_	VERB	ADJ	_	7	conj	_	_
+25	line	_	NOUN	NOUN	_	26	amod	_	_
+26	PX	_	NOUN	NOUN	_	24	dobj	_	_
+27	at	_	ADP	ADP	_	28	case	_	_
+28	C	_	NOUN	NOUN	_	24	nmod	_	_
+29	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	figure	_	NOUN	NOUN	_	9	nmod	_	_
+4	below	_	ADV	ADV	_	3	advmod	_	_
+5	,	_	PUNCT	PUNCT	_	9	punct	_	_
+6	what	_	PRON	NOUN	_	9	nsubj	_	_
+7	is	_	VERB	VERB	_	9	cop	_	_
+8	the	_	DET	DET	_	9	det	_	_
+9	value	_	NOUN	NOUN	_	0	root	_	_
+10	of	_	ADP	ADP	_	11	case	_	_
+11	y	_	NOUN	PRON	_	9	nmod	_	_
+12	?	_	PUNCT	PUNCT	_	9	punct	_	_
+
+
+1	The	_	DET	DET	_	2	det	_	_
+2	diagram	_	NOUN	NOUN	_	8	nsubj	_	_
+3	at	_	ADP	ADP	_	5	case	_	_
+4	the	_	DET	DET	_	5	det	_	_
+5	right	_	NOUN	NOUN	_	2	nmod	_	_
+6	is	_	VERB	VERB	_	8	cop	_	_
+7	a	_	DET	DET	_	8	det	_	_
+8	construction	_	NOUN	NOUN	_	0	root	_	_
+9	involving	_	VERB	VERB	_	8	acl	_	_
+10	angle	_	NOUN	NOUN	_	11	amod	_	_
+11	ABC	_	NOUN	NOUN	_	9	dobj	_	_
+12	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+
+1	Which	_	PRON	ADJ	_	8	nsubj	_	_
+2	of	_	ADP	ADP	_	4	case	_	_
+3	the	_	DET	DET	_	4	det	_	_
+4	statements	_	NOUN	NOUN	_	1	nmod	_	_
+5	is	_	VERB	VERB	_	8	cop	_	_
+6	not	_	PART	ADV	_	7	neg	_	_
+7	always	_	ADV	ADV	_	8	advmod	_	_
+8	true	_	ADJ	ADJ	_	0	root	_	_
+9	about	_	ADP	ADP	_	11	case	_	_
+10	this	_	DET	DET	_	11	det	_	_
+11	construction	_	NOUN	NOUN	_	8	nmod	_	_
+12	?	_	PUNCT	PUNCT	_	8	punct	_	_
+
+
+1	In	_	ADP	ADP	_	4	case	_	_
+2	the	_	DET	DET	_	4	det	_	_
+3	accompanying	_	VERB	VERB	_	4	amod	_	_
+4	diagram	_	NOUN	NOUN	_	9	nmod	_	_
+5	,	_	PUNCT	PUNCT	_	9	punct	_	_
+6	line	_	NOUN	NOUN	_	7	amod	_	_
+7	FG	_	NOUN	NOUN	_	9	nsubj	_	_
+8	is	_	VERB	VERB	_	9	cop	_	_
+9	parallel	_	ADJ	ADJ	_	0	root	_	_
+10	with	_	ADP	ADP	_	12	case	_	_
+11	line	_	NOUN	NOUN	_	12	amod	_	_
+12	HI	_	NOUN	NOUN	_	9	nmod	_	_
+13	and	_	CONJ	CONJ	_	9	cc	_	_
+14	line	_	NOUN	NOUN	_	15	amod	_	_
+15	BC	_	NOUN	NOUN	_	19	nsubj	_	_
+16	and	_	CONJ	CONJ	_	15	cc	_	_
+17	line	_	NOUN	NOUN	_	18	amod	_	_
+18	AD	_	NOUN	NOUN	_	15	conj	_	_
+19	intersects	_	VERB	NOUN	_	9	conj	_	_
+20	at	_	ADP	ADP	_	21	case	_	_
+21	E	_	NOUN	NOUN	_	19	nmod	_	_
+22	,	_	PUNCT	PUNCT	_	9	punct	_	_
+23	GBE	_	NOUN	NOUN	_	24	nsubj	_	_
+24	=	_	SYM	SYM	_	9	conj	_	_
+25	3x	_	NUM	NUM	_	24	dobj	_	_
+26	+	_	SYM	SYM	_	27	case	_	_
+27	20	_	NUM	NUM	_	25	nmod	_	_
+28	,	_	PUNCT	PUNCT	_	9	punct	_	_
+29	and	_	CONJ	CONJ	_	9	cc	_	_
+30	ECD	_	NOUN	NOUN	_	31	nsubj	_	_
+31	=	_	SYM	SYM	_	9	conj	_	_
+32	x	_	NOUN	PUNCT	_	31	dobj	_	_
+33	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+
+1	AB	_	NOUN	NOUN	_	5	nsubj	_	_
+2	and	_	CONJ	CONJ	_	1	cc	_	_
+3	DE	_	NOUN	NOUN	_	1	conj	_	_
+4	are	_	VERB	VERB	_	5	cop	_	_
+5	parallel	_	ADJ	ADJ	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	figure	_	NOUN	NOUN	_	9	nmod	_	_
+4	above	_	ADV	ADV	_	3	advmod	_	_
+5	,	_	PUNCT	PUNCT	_	9	punct	_	_
+6	line	_	NOUN	NOUN	_	7	amod	_	_
+7	BE	_	NOUN	NOUN	_	9	nsubj	_	_
+8	is	_	VERB	VERB	_	9	cop	_	_
+9	perpendicular	_	ADJ	ADJ	_	0	root	_	_
+10	to	_	ADP	PART	_	12	case	_	_
+11	line	_	NOUN	VERB	_	12	amod	_	_
+12	AD	_	NOUN	NOUN	_	9	nmod	_	_
+13	and	_	CONJ	CONJ	_	9	cc	_	_
+14	line	_	NOUN	NOUN	_	15	amod	_	_
+15	CF	_	NOUN	NOUN	_	17	nsubj	_	_
+16	is	_	VERB	VERB	_	17	cop	_	_
+17	perpendicular	_	ADJ	ADJ	_	9	conj	_	_
+18	to	_	ADP	PART	_	20	case	_	_
+19	line	_	NOUN	VERB	_	20	amod	_	_
+20	AD	_	NOUN	NOUN	_	17	nmod	_	_
+21	and	_	CONJ	CONJ	_	9	cc	_	_
+22	AE	_	NOUN	NOUN	_	23	nsubj	_	_
+23	=	_	SYM	SYM	_	9	conj	_	_
+24	EF	_	NOUN	NOUN	_	23	dobj	_	_
+25	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+
+1	PQ	_	NOUN	NOUN	_	2	nsubj	_	_
+2	=	_	SYM	SYM	_	0	root	_	_
+3	8	_	NUM	NUM	_	2	dobj	_	_
+4	and	_	CONJ	CONJ	_	2	cc	_	_
+5	PS	_	NOUN	NOUN	_	6	nsubj	_	_
+6	=	_	SYM	SYM	_	2	conj	_	_
+7	6	_	NUM	NUM	_	6	dobj	_	_
+8	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+
+1	Find	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	measure	_	NOUN	NOUN	_	1	dobj	_	_
+4	of	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	arc	_	NOUN	NOUN	_	3	nmod	_	_
+7	designated	_	VERB	VERB	_	6	acl	_	_
+8	by	_	ADP	ADP	_	9	case	_	_
+9	x	_	NOUN	SYM	_	7	nmod	_	_
+10	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	What	_	PRON	NOUN	_	4	nsubj	_	_
+2	is	_	VERB	VERB	_	4	cop	_	_
+3	the	_	DET	DET	_	4	det	_	_
+4	value	_	NOUN	NOUN	_	0	root	_	_
+5	of	_	ADP	ADP	_	6	case	_	_
+6	x	_	NOUN	PUNCT	_	4	nmod	_	_
+7	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+
+1	Rectangle	_	NOUN	NOUN	_	2	amod	_	_
+2	ABCD	_	NOUN	NOUN	_	3	nsubj	_	_
+3	has	_	VERB	VERB	_	0	root	_	_
+4	a	_	DET	DET	_	5	det	_	_
+5	perimeter	_	NOUN	NOUN	_	3	dobj	_	_
+6	of	_	ADP	ADP	_	7	case	_	_
+7	26	_	NUM	NUM	_	5	nmod	_	_
+8	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+
+1	Find	_	VERB	VERB	_	0	root	_	_
+2	angle	_	NOUN	NOUN	_	1	dobj	_	_
+3	of	_	ADP	ADP	_	5	case	_	_
+4	arc	_	NOUN	NOUN	_	5	amod	_	_
+5	CA	_	NOUN	NOUN	_	2	nmod	_	_
+6	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	Given	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	circle	_	NOUN	NOUN	_	1	dobj	_	_
+4	at	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	right	_	NOUN	NOUN	_	3	nmod	_	_
+7	with	_	ADP	ADP	_	9	case	_	_
+8	designated	_	VERB	VERB	_	9	amod	_	_
+9	center	_	NOUN	NOUN	_	3	nmod	_	_
+10	,	_	PUNCT	PUNCT	_	12	punct	_	_
+11	designated	_	VERB	VERB	_	12	amod	_	_
+12	perpendicular	_	NOUN	NOUN	_	9	conj	_	_
+13	,	_	PUNCT	PUNCT	_	3	punct	_	_
+14	and	_	CONJ	CONJ	_	3	cc	_	_
+15	radius	_	NOUN	NOUN	_	3	conj	_	_
+16	5	_	NUM	NUM	_	15	nummod	_	_
+17	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+
+1	Given	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	circle	_	NOUN	NOUN	_	1	dobj	_	_
+4	at	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	right	_	NOUN	NOUN	_	3	nmod	_	_
+7	with	_	ADP	ADP	_	10	case	_	_
+8	the	_	DET	DET	_	10	det	_	_
+9	indicated	_	VERB	VERB	_	10	amod	_	_
+10	center	_	NOUN	NOUN	_	3	nmod	_	_
+11	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+
+1	Given	_	VERB	VERB	_	3	case	_	_
+2	triangle	_	NOUN	NOUN	_	3	amod	_	_
+3	ABC	_	NOUN	NOUN	_	23	advcl	_	_
+4	with	_	ADP	ADP	_	6	case	_	_
+5	base	_	NOUN	ADJ	_	6	amod	_	_
+6	AFEDC	_	NOUN	NOUN	_	3	nmod	_	_
+7	,	_	PUNCT	PUNCT	_	6	punct	_	_
+8	median	_	NOUN	ADJ	_	9	amod	_	_
+9	BF	_	NOUN	NOUN	_	6	conj	_	_
+10	,	_	PUNCT	PUNCT	_	6	punct	_	_
+11	altitude	_	NOUN	NOUN	_	12	amod	_	_
+12	BD	_	NOUN	NOUN	_	6	conj	_	_
+13	,	_	PUNCT	PUNCT	_	6	punct	_	_
+14	and	_	CONJ	CONJ	_	6	cc	_	_
+15	BE	_	NOUN	VERB	_	16	nsubj	_	_
+16	bisects	_	VERB	NOUN	_	6	conj	_	_
+17	angle	_	NOUN	NOUN	_	18	amod	_	_
+18	ABC	_	NOUN	NOUN	_	16	dobj	_	_
+19	,	_	PUNCT	PUNCT	_	23	punct	_	_
+20	which	_	DET	ADJ	_	21	det	_	_
+21	conclusion	_	NOUN	NOUN	_	23	nsubj	_	_
+22	is	_	VERB	VERB	_	23	cop	_	_
+23	valid	_	ADJ	ADJ	_	0	root	_	_
+24	?	_	PUNCT	PUNCT	_	23	punct	_	_
+
+
+1	In	_	ADP	ADP	_	3	case	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	figure	_	NOUN	NOUN	_	30	nmod	_	_
+4	above	_	ADV	ADV	_	3	advmod	_	_
+5	,	_	PUNCT	PUNCT	_	13	punct	_	_
+6	if	_	SCONJ	ADP	_	13	mark	_	_
+7	the	_	DET	DET	_	8	det	_	_
+8	measure	_	NOUN	NOUN	_	13	nsubj	_	_
+9	of	_	ADP	ADP	_	11	case	_	_
+10	angle	_	NOUN	NOUN	_	11	amod	_	_
+11	AOB	_	NOUN	NOUN	_	8	nmod	_	_
+12	is	_	VERB	VERB	_	13	cop	_	_
+13	40	_	NUM	NUM	_	30	advcl	_	_
+14	*	_	SYM	SYM	_	15	case	_	_
+15	\degree	_	NOUN	VERB	_	13	nmod	_	_
+16	and	_	CONJ	CONJ	_	13	cc	_	_
+17	the	_	DET	DET	_	18	det	_	_
+18	length	_	NOUN	NOUN	_	23	nsubj	_	_
+19	of	_	ADP	ADP	_	21	case	_	_
+20	arc	_	NOUN	NOUN	_	21	amod	_	_
+21	AB	_	NOUN	NOUN	_	18	nmod	_	_
+22	is	_	VERB	VERB	_	23	cop	_	_
+23	4	_	NUM	NUM	_	13	conj	_	_
+24	*	_	SYM	SYM	_	25	case	_	_
+25	\pi	_	NOUN	NOUN	_	23	nmod	_	_
+26	,	_	PUNCT	PUNCT	_	30	punct	_	_
+27	what	_	PRON	NOUN	_	30	nsubj	_	_
+28	is	_	VERB	VERB	_	30	cop	_	_
+29	the	_	DET	DET	_	30	det	_	_
+30	area	_	NOUN	NOUN	_	0	root	_	_
+31	of	_	ADP	ADP	_	34	case	_	_
+32	the	_	DET	DET	_	34	det	_	_
+33	sector	_	NOUN	NOUN	_	34	amod	_	_
+34	AOB	_	NOUN	NOUN	_	30	nmod	_	_
+35	?	_	PUNCT	PUNCT	_	30	punct	_	_
+
+
+1	Find	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	measure	_	NOUN	NOUN	_	1	dobj	_	_
+4	of	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	arc	_	NOUN	NOUN	_	3	nmod	_	_
+7	designated	_	VERB	VERB	_	6	acl	_	_
+8	by	_	ADP	ADP	_	9	case	_	_
+9	x	_	NOUN	SYM	_	7	nmod	_	_
+10	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	What	_	NOUN	NOUN	_	4	nsubj	_	_
+2	is	_	VERB	VERB	_	4	cop	_	_
+3	the	_	DET	DET	_	4	det	_	_
+4	perimeter	_	NOUN	NOUN	_	0	root	_	_
+5	of	_	ADP	ADP	_	7	case	_	_
+6	the	_	DET	DET	_	7	det	_	_
+7	parallelogram	_	NOUN	NOUN	_	4	nmod	_	_
+8	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+
+1	Given	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	circle	_	NOUN	NOUN	_	1	dobj	_	_
+4	at	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	right	_	NOUN	NOUN	_	3	nmod	_	_
+7	with	_	ADP	ADP	_	9	case	_	_
+8	two	_	NUM	NUM	_	9	nummod	_	_
+9	tangents	_	NOUN	NOUN	_	3	nmod	_	_
+10	to	_	ADP	ADP	_	12	case	_	_
+11	the	_	DET	DET	_	12	det	_	_
+12	circle	_	NOUN	NOUN	_	9	nmod	_	_
+13	from	_	ADP	ADP	_	17	case	_	_
+14	a	_	DET	DET	_	17	det	_	_
+15	common	_	ADJ	ADJ	_	17	amod	_	_
+16	external	_	ADJ	ADJ	_	17	amod	_	_
+17	point	_	NOUN	NOUN	_	9	nmod	_	_
+18	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+
+1	What	_	PRON	NOUN	_	4	nsubj	_	_
+2	is	_	VERB	VERB	_	4	cop	_	_
+3	the	_	DET	DET	_	4	det	_	_
+4	measure	_	NOUN	NOUN	_	0	root	_	_
+5	of	_	ADP	ADP	_	7	case	_	_
+6	angle	_	NOUN	NOUN	_	7	amod	_	_
+7	DAE	_	NOUN	NOUN	_	4	nmod	_	_
+8	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+
+1	Find	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	perimeter	_	NOUN	NOUN	_	1	dobj	_	_
+4	of	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	rhombus	_	NOUN	NOUN	_	3	nmod	_	_
+7	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	Express	_	VERB	ADJ	_	0	root	_	_
+2	answer	_	NOUN	NOUN	_	1	dobj	_	_
+3	to	_	ADP	ADP	_	7	case	_	_
+4	the	_	DET	DET	_	7	det	_	_
+5	nearest	_	ADJ	ADJ	_	7	amod	_	_
+6	square	_	ADJ	ADJ	_	7	amod	_	_
+7	foot	_	NOUN	NOUN	_	1	nmod	_	_
+8	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	Find	_	VERB	VERB	_	0	root	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	measure	_	NOUN	NOUN	_	1	dobj	_	_
+4	of	_	ADP	ADP	_	6	case	_	_
+5	the	_	DET	DET	_	6	det	_	_
+6	angle	_	NOUN	NOUN	_	3	nmod	_	_
+7	designated	_	VERB	VERB	_	6	acl	_	_
+8	by	_	ADP	ADP	_	9	case	_	_
+9	x	_	NOUN	SYM	_	7	nmod	_	_
+10	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+
+1	AB	_	NOUN	NOUN	_	3	nsubj	_	_
+2	is	_	VERB	VERB	_	3	cop	_	_
+3	parallel	_	ADJ	ADJ	_	0	root	_	_
+4	with	_	ADP	ADP	_	5	case	_	_
+5	CD	_	NOUN	NOUN	_	3	nmod	_	_
+6	and	_	CONJ	CONJ	_	3	cc	_	_
+7	AB	_	NOUN	NOUN	_	8	nsubj	_	_
+8	=	_	SYM	SYM	_	3	conj	_	_
+9	80	_	NUM	NUM	_	8	dobj	_	_
+10	*	_	SYM	PUNCT	_	11	case	_	_
+11	\degree	_	NOUN	VERB	_	9	nmod	_	_
+12	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+
+1	If	_	SCONJ	ADP	_	4	mark	_	_
+2	the	_	DET	DET	_	3	det	_	_
+3	window	_	NOUN	NOUN	_	4	nsubj	_	_
+4	is	_	VERB	VERB	_	18	advcl	_	_
+5	to	_	PART	PART	_	6	mark	_	_
+6	contain	_	VERB	VERB	_	4	xcomp	_	_
+7	three	_	NUM	NUM	_	10	nummod	_	_
+8	stained	_	ADJ	ADJ	_	9	compound	_	_
+9	glass	_	NOUN	NOUN	_	10	compound	_	_
+10	sections	_	NOUN	NOUN	_	6	dobj	_	_
+11	of	_	ADP	ADP	_	13	case	_	_
+12	equal	_	ADJ	ADJ	_	13	amod	_	_
+13	size	_	NOUN	NOUN	_	10	nmod	_	_
+14	,	_	PUNCT	PUNCT	_	18	punct	_	_
+15	what	_	PRON	NOUN	_	18	nsubj	_	_
+16	is	_	VERB	VERB	_	18	cop	_	_
+17	the	_	DET	DET	_	18	det	_	_
+18	area	_	NOUN	NOUN	_	0	root	_	_
+19	of	_	ADP	ADP	_	23	case	_	_
+20	each	_	DET	DET	_	23	det	_	_
+21	stained	_	ADJ	VERB	_	22	compound	_	_
+22	glass	_	NOUN	NOUN	_	23	compound	_	_
+23	section	_	NOUN	NOUN	_	18	nmod	_	_
+24	?	_	PUNCT	PUNCT	_	18	punct	_	_
+
+
+1	ABCD	_	NOUN	NOUN	_	4	nsubj	_	_
+2	is	_	VERB	VERB	_	4	cop	_	_
+3	a	_	DET	DET	_	4	det	_	_
+4	parallelogram	_	NOUN	NOUN	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+
+1	PQRS	_	NOUN	NOUN	_	4	nsubj	_	_
+2	is	_	VERB	VERB	_	4	cop	_	_
+3	a	_	DET	DET	_	4	det	_	_
+4	parallelogram	_	NOUN	NOUN	_	0	root	_	_
+5	and	_	CONJ	CONJ	_	4	cc	_	_
+6	ST	_	NOUN	NOUN	_	7	nsubj	_	_
+7	=	_	SYM	SYM	_	4	conj	_	_
+8	TR	_	NOUN	NOUN	_	7	dobj	_	_
+9	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+
+1	Diameter	_	NOUN	NOUN	_	2	amod	_	_
+2	AC	_	NOUN	NOUN	_	4	nsubj	_	_
+3	is	_	VERB	VERB	_	4	cop	_	_
+4	perpendicular	_	ADJ	ADJ	_	0	root	_	_
+5	to	_	ADP	PART	_	7	case	_	_
+6	chord	_	NOUN	VERB	_	7	amod	_	_
+7	BD	_	NOUN	NOUN	_	4	nmod	_	_
+8	at	_	ADP	ADP	_	9	case	_	_
+9	E	_	NOUN	NOUN	_	4	nmod	_	_
+10	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
