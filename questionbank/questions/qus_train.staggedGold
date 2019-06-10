@@ -1,0 +1,1328 @@
+By|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) whom|WP|S[wq]/(S[q]/NP) were|VBD|(S[q]/(S[pss]\NP))/NP they|PRP|NP founded|VBD|S[pss]\NP ?|.|.
+Developing|VBG|N/N nations|NNS|N comprise|VBP|(S[dcl]\NP)/NP what|WDT|(S[wq]\(S[dcl]/NP))/N percentage|NN|N of|IN|(N\N)/NP the|DT|NP[nb]/N world|NN|N 's|POS|(NP[nb]/N)\NP population|NN|N ?|.|.
+For|IN|(S[wq]/(S[q]/PP))/(S[wq]/(S[q]/NP)) whom|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N state|NN|N of|IN|(NP\NP)/NP Pennsylvania|NNP|N named|VBD|(S[pss]\NP)/PP ?|.|.
+George|NNP|N/N Bush|NNP|N purchased|VBD|((S[dcl]\NP)/PP)/NP a|DT|NP[nb]/N small|JJ|N/N interest|NN|N in|IN|PP/NP which|WDT|(S[wq]\(S[dcl]/NP))/N baseball|NN|N/N team|NN|N ?|.|.
+Horus|NNP|N is|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N god|NN|N of|IN|(NP\NP)/NP what|WP|S[wq]\(S[dcl]/NP) ?|.|.
+How|WRB|((S[wq]/(S[dcl]\NP))/N)/(NP/N) many|JJ|NP/N Kurds|NNP|N live|VBZ|(S[dcl]\NP)/PP in|IN|PP/NP Turkey|NNP|N ?|.|.
+How|WRB|((S[wq]/(S[dcl]\NP))/N)/(NP/N) much|JJ|NP/N gravity|NN|N exists|VBZ|(S[dcl]\NP)/PP on|IN|PP/NP Mars|NNP|N ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) many|JJ|NP/N Admirals|NNS|N are|VBP|(S[q]/NP)/NP there|RB|NP in|IN|(S[wq]\S[wq])/NP the|DT|NP[nb]/N U.S.|NNP|N/N Navy|NNP|N ?|.|.
+How|WRB|(((S[wq]/PP)/((S[q]/PP)/NP))/N)/(NP/N) many|JJ|NP/N black|JJ|N/N keys|NNS|N are|VBP|(S[q]/PP)/NP on|IN|PP/NP the|DT|NP[nb]/N piano|NN|N ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) many|JJ|NP/N children|NNS|N does|VBZ|(S[q]/(S[b]\NP))/NP she|PRP|NP have|VB|(S[b]\NP)/NP ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) many|JJ|NP/N employees|NNS|N does|VBZ|(S[q]/(S[b]\NP))/NP it|PRP|NP have|VB|(S[b]\NP)/NP ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) many|JJ|NP/N followers|NNS|N does|VBZ|(S[q]/(S[b]\NP))/NP he|PRP|NP have|VB|(S[b]\NP)/NP ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) many|JJ|NP/N followers|NNS|N does|VBZ|(S[q]/(S[b]\NP))/NP it|PRP|NP have|VB|(S[b]\NP)/NP ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) many|JJ|NP/N gallons|NNS|N of|IN|(N\N)/NP water|NN|N are|VBP|(S[q]/NP)/NP there|RB|NP in|IN|(S[wq]\S[wq])/NP a|DT|NP[nb]/N cubic|JJ|N/N foot|NN|N ?|.|.
+How|WRB|(((S[wq]/NP)/((S[q]/NP)/NP))/N)/(NP/N) many|JJ|NP/N justices|NNS|N are|VBP|(S[q]/NP)/NP members|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N court|NN|N ?|.|.
+How|WRB|(((S[wq]/PP)/((S[q]/PP)/NP))/N)/(NP/N) many|JJ|NP/N members|NNS|N are|VBP|((S[q]/PP)/NP)/NP there|RB|NP in|IN|PP/NP the|DT|NP[nb]/N singing|VBG|N/N group|NN|N the|DT|NP[nb]/N Wiggles|NNP|N ?|.|.
+How|WRB|(((S[wq]/PP)/((S[q]/PP)/NP))/N)/(NP/N) many|JJ|NP/N members|NNS|N were|VBD|(S[q]/PP)/NP in|IN|PP/NP the|DT|NP[nb]/N crew|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Challenger|NNP|N ?|.|.
+How|WRB|(((S[wq]/PP)/((S[q]/PP)/NP))/N)/(NP/N) many|JJ|NP/N ounces|NNS|N are|VBP|(S[q]/PP)/NP in|IN|PP/NP a|DT|NP[nb]/N gallon|NN|N ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) many|JJ|NP/N passengers|NNS|N does|VBZ|(S[q]/(S[b]\NP))/NP it|PRP|NP serve|VB|(S[b]\NP)/NP annually|RB|(S\NP)\(S\NP) ?|.|.
+How|WRB|(((S[wq]/PP)/((S[q]/PP)/NP))/N)/(NP/N) many|JJ|NP/N people|NNS|N did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP fire|VB|((S[b]\NP)/PP)/NP from|IN|PP/NP GE|NNP|N ?|.\|.
+How|WRB|(((S[wq]/PP)/((S[q]/PP)/NP))/N)/(NP/N) many|JJ|NP/N pounds|NNS|N are|VBP|(S[q]/PP)/NP in|IN|PP/NP a|DT|NP[nb]/N ton|NN|N ?|.|.
+How|WRB|(((S[wq]/PP)/((S[q]/PP)/NP))/N)/(NP/N) many|JJ|NP/N seats|NNS|N are|VBP|(S[q]/PP)/NP in|IN|PP/NP the|DT|NP[nb]/N cabin|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N Concorde|NNP|N ?|.|.
+How|WRB|(((S[wq]/(S[pss]\NP))/((S[q]/(S[pss]\NP))/NP))/N)/(NP/N) many|JJ|NP/N states|NNS|N were|VBD|(S[q]/(S[pss]\NP))/NP still|RB|(S\NP)/(S\NP) united|VBN|S[pss]\NP after|IN|((S\NP)\(S\NP))/S[dcl] the|DT|NP[nb]/N southern|JJ|N/N states|NNS|N seceded|VBD|S[dcl]\NP ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) many|JJ|NP/N stores|NNS|N are|VBP|(S[q]/NP)/NP there|RB|NP ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) much|JJ|NP/N area|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Everglades|NNPS|N cover|VB|(S[b]\NP)/NP ?|.|.
+How|WRB|(((S[wq]/PP)/((S[q]/PP)/NP))/N)/(NP/N) much|JJ|NP/N copper|NN|N is|VBZ|(S[q]/PP)/NP in|IN|PP/NP a|DT|NP[nb]/N penny|NN|N ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) much|JJ|NP/N money|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N U.S.|NNP|N/N supreme|JJ|N/N court|NN|N make|VB|(S[b]\NP)/NP ?|.|.
+How|WRB|(((S[wq]/PP)/((S[q]/PP)/NP))/N)/(NP/N) much|JJ|NP/N protein|NN|N is|VBZ|(S[q]/PP)/NP in|IN|PP/NP tofu|NN|N ?|.|.
+How|WRB|((S[wq]/(S[q]/NP))/N)/(NP/N) much|JJ|NP/N sleep|NN|N should|MD|(S[q]/(S[b]\NP))/NP a|DT|NP[nb]/N child|NN|N get|VB|(S[b]\NP)/NP at|IN|((S\NP)\(S\NP))/NP night|NN|N ?|.|.
+How|WRB|((S[wq]/PP)/N)/(NP/N) many|JJ|NP/N electoral|JJ|(N/N)/(N/N) college|NN|N/N votes|NNS|N in|IN|PP/NP Tennessee|NNP|NP ?|.|.
+How|WRB|(S[wq]/(S[dcl]\NP))/NP many|RB|NP of|IN|(NP\NP)/NP its|PRP$|NP[nb]/N members|NNS|N committed|VBD|(S[dcl]\NP)/NP suicide|NN|N ?|.|.
+How|WRB|(S[wq]/(S[dcl]\NP))/NP much|RB|NP of|IN|(NP\NP)/NP U.S.|NNP|N/N power|NN|N is|VBZ|(S[dcl]\NP)/PP from|IN|PP/NP nuclear|JJ|N/N energy|NN|N ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP of|IN|(NP\NP)/NP an|DT|NP[nb]/N apple|NN|N is|VBZ|(S[q]/NP)/NP water|NN|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) cold|JJ|S[adj]\NP should|MD|(S[q]/(S[b]\NP))/NP a|DT|NP[nb]/N refrigerator|NN|N be|VB|(S[b]\NP)/(S[adj]\NP) ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) deep|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP Crater|NNP|N/N Lake|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) far|JJ|(S[adj]\NP)/(S[adj]\NP) away|RB|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N moon|NN|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) far|JJ|(S[adj]\NP)/PP from|IN|PP/NP the|DT|NP[nb]/N earth|NN|N is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N sun|NN|N ?|.|.
+How|WRB|((S[wq]/PP)/((S[q]/PP)/(S[adj]\NP)))/(S[adj]\NP) far|JJ|S[adj]\NP is|VBZ|((S[q]/PP)/(S[adj]\NP))/NP[expl] it|PRP|NP[expl] from|IN|PP/NP Denver|NNP|N to|TO|(PP\PP)/NP Aspen|NNP|N ?|.|.
+How|WRB|((S[wq]/PP)/((S[q]/PP)/(S[adj]\NP)))/(S[adj]\NP) far|JJ|S[adj]\NP is|VBZ|((S[q]/PP)/(S[adj]\NP))/NP Pluto|NNP|N from|IN|PP/NP the|DT|NP[nb]/N sun|NN|N ?|.|.
+How|WRB|((S[wq]/PP)/((S[q]/PP)/(S[adj]\NP)))/(S[adj]\NP) far|JJ|S[adj]\NP is|VBZ|((S[q]/PP)/(S[adj]\NP))/NP the|DT|NP[nb]/N pitchers|NNS|N/N mound|NN|N from|IN|PP/NP home|NN|N/N plate|NN|N in|IN|(S[wq]\S[wq])/NP softball|NN|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) far|JJ|S[adj]\NP would|MD|(S[q]/(S[b]\NP))/NP you|PRP|NP run|VB|(S[b]\NP)/(S[adj]\NP) if|IN|(S[wq]\S[wq])/S[dcl] you|PRP|NP participate|VBP|(S[dcl]\NP)/PP in|IN|PP/NP a|DT|NP[nb]/N marathon|NN|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) fast|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP sound|NN|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) long|JJ|S[adj]\NP are|VBP|(S[q]/(S[adj]\NP))/NP Syrian|JJ|N/N presidential|JJ|N/N terms|NNS|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) long|JJ|S[adj]\NP did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Challenger|NNP|N/N flight|NN|N last|VB|(S[b]\NP)/(S[adj]\NP) before|IN|((S\NP)\(S\NP))/S[dcl] it|PRP|NP exploded|VBD|S[dcl]\NP ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) long|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N Columbia|NNP|N/N River|NNP|N in|IN|(S[wq]\S[wq])/NP miles|NNS|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP do|VBP|(S[q]/(S[b]\NP))/NP you|PRP|NP have|VB|(S[b]\NP)/(S[to]\NP) to|TO|(S[to]\NP)/(S[b]\NP) be|VB|(S[b]\NP)/(S[adj]\NP) to|TO|((S\NP)\(S\NP))/(S[b]\NP) get|VB|(S[b]\NP)/(S[pss]\NP) married|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP South|NNP|N/N Carolina|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N Red|NNP|N/N Pyramid|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N universe|NN|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP was|VBD|(S[q]/(S[adj]\NP))/NP Elvis|NNP|N/N Presley|NNP|N when|WRB|(S[wq]\S[wq])/S[dcl] he|PRP|NP died|VBD|S[dcl]\NP ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP was|VBD|(S[q]/(S[adj]\NP))/NP George|NNP|N/N Washington|NNP|N when|WRB|(S[wq]\S[wq])/S[dcl] he|PRP|NP died|VBD|S[dcl]\NP ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP was|VBD|(S[q]/(S[adj]\NP))/NP Joan|NNP|N of|IN|(NP\NP)/NP Arc|NNP|N when|WRB|(S[wq]\S[wq])/S[dcl] she|PRP|NP died|VBD|S[dcl]\NP ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP was|VBD|(S[q]/(S[adj]\NP))/NP Nolan|NNP|N/N Ryan|NNP|N when|WRB|(S[wq]\S[wq])/S[dcl] he|PRP|NP retired|VBD|S[dcl]\NP ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP was|VBD|(S[q]/(S[adj]\NP))/NP he|PRP|NP when|WRB|(S[wq]\S[wq])/S[dcl] he|PRP|NP won|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N title|NN|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP was|VBD|(S[q]/(S[adj]\NP))/NP he|PRP|NP when|WRB|(S[wq]\S[wq])/S[dcl] he|PRP|NP began|VBD|(S[dcl]\NP)/(S[ng]\NP) writing|VBG|S[ng]\NP ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP was|VBD|(S[q]/(S[adj]\NP))/NP she|PRP|NP when|WRB|(S[wq]\S[wq])/S[dcl] she|PRP|NP died|VBD|S[dcl]\NP ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) old|JJ|S[adj]\NP was|VBD|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N youngest|JJS|N/N president|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) tall|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP Allen|NNP|N/N Iverson|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) tall|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP Mike|NNP|N/N Tyson|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) tall|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP Mount|NNP|N/N McKinley|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) tall|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP Tom|NNP|N/N Cruise|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) tall|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N CNN|NNP|N/N Tower|NNP|N in|IN|(NP\NP)/NP Toronto|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) tall|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N Eiffel|NNP|N/N Tower|NNP|N in|IN|(NP\NP)/NP France|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) tall|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N Sears|NNP|N/N Building|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) tall|JJ|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N Sphinx|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) tall|JJ|S[adj]\NP was|VBD|(S[q]/(S[adj]\NP))/NP Judy|NNP|N/N Garland|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP many|RB|NP are|VBP|(S[q]/NP)/NP there|RB|N now|RB|S[wq]\S[wq] ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP are|VBP|(S[q]/NP)/NP tickets|NNS|N to|TO|(NP\NP)/NP Disney|NNP|N/N World|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP did|VBD|(S[q]/(S[b]\NP))/NP a|DT|NP[nb]/N quart|NN|N of|IN|(NP\NP)/NP milk|NN|N cost|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N 1930's|CD|N ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP did|VBD|(S[q]/(S[b]\NP))/NP it|PRP|NP cost|VB|(S[b]\NP)/NP to|TO|((S\NP)\(S\NP))/(S[b]\NP) build|VB|S[b]\NP ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP does|VBZ|(S[q]/(S[b]\NP))/NP it|PRP|NP cost|VB|(S[b]\NP)/NP to|TO|((S\NP)\(S\NP))/(S[b]\NP) register|VB|(S[b]\NP)/NP a|DT|NP[nb]/N car|NN|N in|IN|((S\NP)\(S\NP))/NP New|NNP|N/N Hampshire|NNP|N ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N human|JJ|N/N adult|JJ|N/N female|JJ|N/N brain|NN|N weigh|VB|(S[b]\NP)/NP ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP does|VBZ|(S[q]/(S[b]\NP))/NP water|NN|N weigh|VB|(S[b]\NP)/NP ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N Sacajawea|NNP|N/N coin|NN|N worth|JJ|(S[adj]\NP)/NP ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N international|JJ|N/N space|NN|N/N stations|NNS|N expected|VBD|(S[pss]\NP)/(S[to]\NP) to|TO|(S[to]\NP)/(S[b]\NP) cost|VB|(S[b]\NP)/NP ?|.|.
+How|WRB|(S[wq]/(S[q]/NP))/NP much|RB|NP was|VBD|(S[q]/NP)/NP a|DT|NP[nb]/N ticket|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N Titanic|NNP|N ?|.|.
+How|WRB|S[wq]/S[q] are|VBP|(S[q]/(S[pss]\NP))/NP they|PRP|NP treated|VBN|S[pss]\NP ?|.|.
+How|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Janice|NNP|N/N Joplin|NNP|N die|VB|S[b]\NP ?|.|.
+How|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Mahatma|NNP|N/N Gandhi|NNP|N die|VB|S[b]\NP ?|.|.
+How|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Molly|NNP|N/N Shannon|NNP|N 's|POS|(NP[nb]/N)\NP mother|NN|N die|VB|S[b]\NP ?|.|.
+How|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP die|VB|S[b]\NP ?|.|.
+How|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP they|PRP|NP commit|VB|(S[b]\NP)/NP suicide|NN|N ?|.|.
+How|WRB|S[wq]/S[q] do|VBP|(S[q]/(S[b]\NP))/NP you|PRP|NP measure|VB|(S[b]\NP)/NP earthquakes|NNS|N ?|.|.
+How|WRB|S[wq]/S[q] do|VBP|(S[q]/(S[b]\NP))/NP you|PRP|NP say|VB|(S[b]\NP)/NP "|LQU|LQU house|NN|N "|RQU|RQU in|IN|((S\NP)\(S\NP))/NP Spanish|NNP|N ?|.|.
+In|IN|(S/S)/NP Poland|NNP|N ,|,|, where|WRB|S[wq]/S[q] do|VBP|(S[q]/(S[b]\NP))/NP most|JJS|N/N people|NNS|N live|VB|S[b]\NP ?|.|.
+In|IN|(S/S)/NP the|DT|NP[nb]/N Bible|NNP|N ,|,|, who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Jacob|NNP|N 's|POS|(NP[nb]/N)\NP mother|NN|N ?|.|.
+In|IN|(S[wq]/(S[q]/NP))/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N countries|NNS|N has|VBZ|(S[q]/(S[pt]\NP))/NP he|PRP|NP operated|VBD|(S[pt]\NP)/PP from|IN|PP/NP ?|.|.
+Mexican|JJ|N/N pesos|NNS|N are|VBP|(S[dcl]\NP)/(S[adj]\NP) worth|JJ|(S[adj]\NP)/NP what|WP|S[wq]\(S[dcl]/NP) in|IN|(S[wq]\S[wq])/NP U.S.|NNP|N/N dollars|NNS|N ?|.|.
+On|IN|(S[wq]/(S[q]/PP))/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N continent|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP Egypt|NNP|N located|VBN|(S[pss]\NP)/PP ?|.|.
+The|DT|NP[nb]/N sun|NN|N 's|POS|(NP[nb]/N)\NP core|NN|N ,|,|, what|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N temperature|NN|N ?|.|.
+To|IN|(S[wq]/(S[q]/PP))/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N alien|NN|N/N race|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP he|PRP|NP belong|VB|(S[b]\NP)/PP ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N 1857|CD|N/N U.S.|NNP|(N/N)/(N/N) Supreme|NNP|(N/N)/(N/N) Court|NNP|N/N decision|NN|N denied|VBD|(S[dcl]\NP)/S[em] that|DT|S[em]/S[dcl] blacks|NNS|N were|VBD|(S[dcl]\NP)/NP citizens|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N 20th|JJ|(N/N)/(N/N) century|NN|N/N American|JJ|N/N president|NN|N died|VBD|S[dcl]\NP at|IN|((S\NP)\(S\NP))/NP Warm|NNP|N/N Springs|NNP|N ,|,|, Georgia|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N 3|CD|N/N countries|NNS|N other|JJ|S[adj]\NP than|IN|((S[adj]\NP)\(S[adj]\NP))/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N have|VBP|(S[dcl]\NP)/NP a|DT|NP[nb]/N vehicle|NN|((N/N)/(N/N))/((N/N)/(N/N)) emission|NN|(N/N)/(N/N) inspection|NN|N/N program|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N American|JJ|N/N general|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) buried|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP Salzburg|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N American|JJ|N/N landmark|NN|N stands|VBZ|S[dcl]\NP on|IN|((S\NP)\(S\NP))/NP Liberty|NNP|N/N Island|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N American|JJ|(N/N)/(N/N) revolutionary|JJ|N/N general|NN|N turned|VBD|(S[dcl]\NP)/PP over|IN|PP/NP West|NNP|N/N Point|NNP|N to|TO|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N British|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N American|JJ|N/N commodore|NN|N demanded|VBD|(S[dcl]\NP)/S[em] that|IN|S[em]/S[b] Japan|NNP|N trade|VBD|(S[b]\NP)/PP with|IN|PP/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N American|JJ|N/N composer|NN|N wrote|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N music|NN|N for|IN|(NP\NP)/NP "|LQU|LQU West|NNP|(N/N)/(N/N) Side|NNP|N/N Story|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N Bob|NNP|(N/N)/(N/N) Dylan|NNP|N/N song|NN|N is|VBZ|(S[dcl]\NP)/PP in|IN|PP/NP a|DT|NP[nb]/N Disney|NNP|N/N movie|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N Boston|NNP|(N/N)/(N/N) Red|NNP|(N/N)/(N/N) Sox|NNP|N/N infielder|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) given|VBN|(S[pss]\NP)/NP his|PRP$|NP[nb]/N father|NN|N 's|POS|(NP[nb]/N)\NP first|JJ|N/N name|NN|N ,|,|, with|IN|((NP\NP)/(S[pss]\NP))/NP the|DT|NP[nb]/N letters|NNS|N reversed|VBD|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N Canadian|JJ|N/N city|NN|N has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N largest|JJS|N/N population|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N Chinese|JJ|N/N provinces|NNS|N have|VBP|(S[dcl]\NP)/NP a|DT|NP[nb]/N McDonald|NNP|N 's|POS|(NP[nb]/N)\NP restaurant|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N Chinese|NNP|N/N Dynasty|NNP|N was|VBD|(S[dcl]\NP)/PP during|IN|PP/NP 1412-1431|CD|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N English|JJ|N/N word|NN|N contains|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N most|JJS|N/N letters|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N English|JJ|N/N word|NN|N has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N most|JJS|N/N letters|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N French|JJ|N/N ruler|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) defeated|VBN|(S[pss]\NP)/PP at|IN|PP/NP the|DT|NP[nb]/N battle|NN|N of|IN|(NP\NP)/NP Waterloo|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N President|NNP|N became|VBD|(S[dcl]\NP)/NP Chief|NNP|N/N Justice|NNP|N after|IN|((S\NP)\(S\NP))/NP his|PRP$|NP[nb]/N presidency|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N Shakespeare|NNP|N/N character|NN|N said|VBD|(S[dcl]\NP)/S[dcl] ,|,|, "|LQU|LQU ...|:|: the|DT|NP[nb]/N law|NN|N is|VBZ|(S[dcl]\NP)/NP an|DT|NP[nb]/N ass|N|N .|.|. "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N U.S.|NNP|(N/N)/(N/N) Government|NNP|N/N agency|NN|N registers|VBZ|(S[dcl]\NP)/NP trademarks|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N U.S.|NNP|N/N state|NN|N 's|POS|((S[wq]/(S[dcl]\NP))/N)\(S[wq]/(S[dcl]\NP)) motto|NN|N is|VBZ|(S[dcl]\NP)/(S[b]\NP) "|LQU|LQU Live|VB|(S[b]\NP)/(S[adj]\NP) free|JJ|S[adj]\NP or|CC|conj Die|VB|S[b]\NP "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N actor|NN|N first|RB|(S\NP)/(S\NP) portrayed|VBD|(S[dcl]\NP)/NP James|NNP|N/N Bond|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N actor|NN|N has|VBZ|(S[dcl]\NP)/NP a|DT|NP[nb]/N tattoo|NN|N on|IN|(NP\NP)/NP his|PRP$|NP[nb]/N right|JJ|N/N wrist|NN|N reading|VBG|(S[ng]\NP)/NP "|LQU|LQU Scotland|NNP|N forever|RB|NP\NP "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N actor|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) used|VBN|(S[pss]\NP)/PP as|IN|PP/NP his|PRP$|NP[nb]/N voice|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N actress|NN|N has|VBZ|(S[dcl]\NP)/(S[pt]\NP) received|VBN|(S[pt]\NP)/NP the|DT|NP[nb]/N most|RBS|N/N Oscar|NNP|N/N nominations|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N actress|NN|N played|VBD|(S[dcl]\NP)/NP Betsy|NNP|N in|IN|((S\NP)\(S\NP))/NP "|LQU|LQU Betsy|NNP|N 's|POS|(NP[nb]/N)\NP Weeding|NN|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N actress|NN|N starred|VBD|(S[dcl]\NP)/PP in|IN|PP/NP "|LQU|LQU The|DT|NP[nb]/N Lion|NNP|N in|IN|(NP\NP)/NP Winter|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N airlines|NNS|N have|VBP|(S[dcl]\NP)/NP Concordes|NNPS|N in|IN|((S\NP)\(S\NP))/NP their|PRP$|NP[nb]/N fleets|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N albums|NNS|N have|VBP|(S[q]/(S[pss]\NP))/NP they|PRP|NP made|VBN|(S[pss]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N album|NN|N became|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N greatest|RBS|(N/N)/(N/N) selling|VBG|N/N album|NN|N of|IN|(NP\NP)/NP all|DT|NP[nb]/N time|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N ancient|JJ|N/N tribe|NN|N of|IN|(N\N)/NP Mexico|NNP|N left|VBD|(S[dcl]\NP)/PP behind|IN|PP/NP huge|JJ|N/N stone|NN|N/N heads|NNS|N standing|VBG|(S[ng]\NP)/(S[adj]\NP) 6-11|CD|N/N feet|NNS|N tall|JJ|(S[adj]\NP)\NP ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N animal|NN|N can|MD|(S[dcl]\NP)/(S[b]\NP) go|VB|(S[b]\NP)/NP the|DT|NP[nb]/N longest|JJS|N without|IN|((S\NP)\(S\NP))/NP water|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N animal|NN|N has|VBZ|(S[dcl]\NP)/NP human-like|JJ|N/N fingerprints|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N animal|NN|N is|VBZ|(S[dcl]\NP)/(S[adj]\NP) responsible|JJ|(S[adj]\NP)/PP for|IN|PP/NP the|DT|NP[nb]/N most|JJS|N/N human|JJ|N/N deaths|NNS|N worldwide|NN|NP\NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N anniversary|NN|N is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N 20th|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N apostle|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) crucified|VBN|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N automobile|NN|N/N company|NN|N makes|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N Spider|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N baseball|NN|N/N team|NN|N was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|NN|N to|TO|(S[to]\NP)/(S[b]\NP) make|VB|((S[b]\NP)/NP)/NP numbers|NNS|N part|NN|N of|IN|(NP\NP)/NP their|PRP$|NP[nb]/N uniform|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N birthstone|NN|N is|VBZ|(S[q]/NP)/NP turquoise|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N branch|NN|N of|IN|(N\N)/NP the|DT|NP[nb]/N military|NN|N has|VBZ|((S[dcl]\NP)/PP)/NP its|PRP$|NP[nb]/N academy|NN|N in|IN|PP/NP Annapolis|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N breeds|NNS|N of|IN|(N\N)/NP dog|NN|N have|VBP|(S[dcl]\NP)/(S[pt]\NP) won|VBN|(S[pt]\NP)/NP the|DT|NP[nb]/N "|LQU|LQU Best|NNP|N in|IN|(NP\NP)/NP Show|NNP|N "|RQU|RQU award|NN|N at|IN|(NP\NP)/NP the|DT|NP[nb]/N Westminster|NNP|N/N Dog|NNP|N/N Show|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N breed|NN|N of|IN|(N\N)/NP horse|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) used|VBN|(S[pss]\NP)/(S[to]\NP) to|TO|(S[to]\NP)/(S[b]\NP) found|VB|(S[b]\NP)/NP the|DT|NP[nb]/N Lipizzaner|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N business|NN|N was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N source|NN|N of|IN|(NP\NP)/NP John|NNP|N/N D.|NNP|N/N Rockefeller|NNP|N 's|POS|(NP[nb]/N)\NP fortune|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N canal|NN|N is|VBZ|(S[dcl]\NP)/PP between|IN|PP/NP the|DT|NP[nb]/N Mediterranean|NNP|N/N Sea|NNP|N and|CC|conj the|DT|NP[nb]/N Red|NNP|N/N Sea|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N capital|NN|N is|VBZ|(S[dcl]\NP)/PP on|IN|PP/NP the|DT|NP[nb]/N Susquehanna|NNP|N/N River|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N card|NN|N/N company|NN|N sells|VBZ|(S[dcl]\NP)/NP Christmas|NNP|N/N ornaments|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N card|NN|N/N game|NN|N uses|VBZ|(S[dcl]\NP)/NP only|RB|(N/N)/(N/N) 48|CD|N/N cards|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N cathedral|NN|N is|VBZ|(S[dcl]\NP)/PP in|IN|PP/NP Claude|NNP|N/N Monet|NNP|N 's|POS|(NP[nb]/N)\NP paintings|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N chain|NN|N/N store|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) headquartered|VBN|(S[pss]\NP)/PP in|IN|PP/NP Bentonville|NNP|N ,|,|, Arkansas|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N chemical|NN|N is|VBZ|(S[dcl]\NP)/PP in|IN|PP/NP chocolate|NN|N that|WDT|(S[wq]\S[wq])/(S[dcl]\NP) helps|VBZ|(S[dcl]\NP)/PP with|\IN|PP/NP depression|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N cities|NNS|N in|IN|(N\N)/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N have|VBP|(S[dcl]\NP)/NP newspapers|NNS|N called|VBN|(S[pss]\NP)/NP the|DT|NP[nb]/N "|LQU|LQU Daily|NNP|N/N Journal|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N city|NN|N 's|POS|((S[wq]/(S[dcl]\NP))/N)\(S[wq]/(S[dcl]\NP)) airport|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) named|VBN|(S[pss]\NP)/NP Logan|NNP|N/N International|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N city|NN|N 's|POS|((S[wq]/(S[dcl]\NP))/N)\(S[wq]/(S[dcl]\NP)) newspaper|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) called|VBN|(S[pss]\NP)/NP "|LQU|LQU The|DT|NP[nb]/N Enquirer|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N city|NN|N has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N zip|NN|N/N code|NN|N of|IN|(NP\NP)/NP 35824|CD|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N city|NN|N hosted|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N 1936|CD|N/N Summer|NNP|N/N Olympics|NNPS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N city|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) served|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP McCarren|NNP|N/N Airport|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N city|NN|N is|VBZ|(S[dcl]\NP)/NP home|NN|N to|TO|(NP\NP)/NP almost|RB|N/N half|NN|N of|IN|(NP\NP)/NP Michelangelo|NNP|N 's|POS|(NP[nb]/N)\NP statues|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N city|NN|N is|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N home|NN|N to|TO|(NP\NP)/NP the|DT|NP[nb]/N Rock|NNP|N/N and|CC|conj Roll|NNP|N/N Hall|NNP|N of|IN|(NP\NP)/NP Fame|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N to|TO|(S[to]\NP)/(S[b]\NP) have|VB|(S[b]\NP)/NP a|DT|NP[nb]/N population|NN|N over|IN|(NP\NP)/NP one|CD|N/N million|CD|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N comic|JJ|(N/N)/(N/N) book|NN|N/N friend|NN|N of|IN|(N\N)/NP Archie|NNP|N wears|VBZ|(S[dcl]\NP)/NP a|DT|NP[nb]/N crown-shaped|JJ|N/N hat|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N common|JJ|N/N medicine|NN|N discovered|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP native|JJ|N/N Americans|NNPS|N is|VBZ|(S[dcl]\NP)/PP from|IN|PP/NP the|DT|NP[nb]/N bark|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N willow|NN|N/N tree|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N companies|NNS|N manufacture|VBP|(S[dcl]\NP)/NP golf|NN|N/N clubs|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N company|NN|N makes|VBZ|(S[dcl]\NP)/NP Bentley|NNP|N/N cars|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N company|NN|N manufactures|VBZ|(S[dcl]\NP)/NP Sinemet|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N company|NN|N manufactures|VBZ|(S[dcl]\NP)/NP Van|NNP|(N/N)/(N/N) Heusen|NNP|N/N shirts|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N company|NN|N owns|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N soft|JJ|(N/N)/(N/N) drink|NN|N/N brand|NN|N "|LQU|LQU Gatorade|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N company|NN|N produced|VBD|(S[dcl]\NP)/NP rotary|JJ|(N/N)/(N/N) engine|NN|N/N vehicles|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N company|NN|N sells|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N most|RBS|N/N greeting|NN|N/N cards|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N composer|NN|N wrote|VBD|(S[dcl]\NP)/NP "|LQU|LQU Die|NNP|NP[nb]/N Gotterdammerung|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N confederate|JJ|N/N general|NN|N was|VBD|(S[dcl]\NP)/(S[adj]\NP) responsible|JJ|(S[adj]\NP)/PP for|IN|PP/NP the|DT|NP[nb]/N defeat|NN|N at|IN|(NP\NP)/NP Gettysburg|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N continent|NN|N has|VBZ|(S[dcl]\NP)/(S[pt]\NP) discovered|VBN|(S[pt]\NP)/NP more|RBR|N/N meteorites|NNS|(N/N)/(N/N) landing|NN|N/N spots|NNS|N than|IN|(NP\NP)/NP any|DT|NP[nb]/N other|JJ|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N countries|NNS|N have|VBP|(S[dcl]\NP)/(S[pt]\NP) had|VBN|(S[pt]\NP)/NP school|NN|(N/N)/(N/N) bus|NN|N/N accidents|NNS|N that|WDT|(NP\NP)/(S[dcl]\NP) resulted|VBD|(S[dcl]\NP)/PP in|IN|PP/NP fatalities|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N countries|NNS|N have|VBP|(S[dcl]\NP)/(S[pt]\NP) won|VBN|(S[pt]\NP)/NP the|DT|NP[nb]/N men|NNS|N 's|POS|(NP[nb]/N)\NP World|NNP|N/N Cup|NNP|N for|IN|(NP\NP)/NP soccer|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N countries|NNS|N provided|VBD|(S[dcl]\NP)/NP troops|NNS|N or|CC|conj support|NN|N to|TO|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N NATO-led|JJ|N/N peacekeeping|NN|N/N mission|NN|N in|IN|(NP\NP)/NP Bosnia|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N 's|POS|((S[wq]/(S[dcl]\NP))/N)\(S[wq]/(S[dcl]\NP)) flag|NN|N flies|VBZ|(S[dcl]\NP)/PP over|IN|PP/NP the|DT|NP[nb]/N Canary|NNP|N/N Islands|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N 's|POS|((S[wq]/(S[dcl]\NP))/N)\(S[wq]/(S[dcl]\NP)) soldiers|NNS|N hid|VBD|(S[dcl]\NP)/PP in|IN|PP/NP the|DT|NP[nb]/N Trojan|JJ|N/N horse|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N celebrates|VBZ|(S[dcl]\NP)/NP Guy|NNP|(N/N)/(N/N) Fawkes|NNP|N/N Day|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N is|VBZ|(S[dcl]\NP)/NP home|NN|N to|TO|(NP\NP)/NP Sabena|NNP|N/N Airlines|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N largest|JJS|N in|IN|(NP\NP)/NP square|JJ|N/N miles|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N leading|VBG|N/N producer|NN|N of|IN|(NP\NP)/NP rubber|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N made|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Statue|NNP|N of|IN|(NP\NP)/NP Liberty|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N other|JJ|S[adj]\NP than|IN|((S[adj]\NP)\(S[adj]\NP))/NP Germany|NNP|N has|VBZ|((S[dcl]\NP)/PP)/NP German|NNP|N as|IN|PP/NP its|PRP$|NP[nb]/N official|JJ|N/N language|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N produces|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N most|JJS|N/N silk|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) formed|VBN|(S[pss]\NP)/PP in|IN|PP/NP 1948|CD|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) ruled|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP King|NNP|N/N Arthur|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N/N singer|NN|N 's|POS|((S[wq]/(S[dcl]\NP))/N)\(S[wq]/(S[dcl]\NP)) first|JJ|N/N album|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) titled|VBN|(S[pss]\NP)/NP "|LQU|LQU Storms|NNP|N of|IN|(NP\NP)/NP Life|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N culture|NN|N developed|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N idea|NN|N of|IN|(NP\NP)/NP potlatch|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N currency|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) used|VBN|(S[pss]\NP)/PP in|IN|PP/NP Algeria|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N daughter|NN|N of|IN|(N\N)/NP Czar|NNP|N/N Nicholas|NNP|N II|CD|N\N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) said|VBN|(S[pss]\NP)/(S[to]\NP) to|TO|(S[to]\NP)/(S[b]\NP) have|VB|(S[b]\NP)/(S[pt]\NP) escaped|VBN|(S[pt]\NP)/NP death|NN|N in|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N Russian|JJ|N/N revolution|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N day|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) known|VBN|(S[pss]\NP)/PP as|IN|PP/NP the|DT|NP[nb]/N "|LQU|LQU national|JJ|N/N day|NN|N of|IN|(NP\NP)/NP prayer|NN|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N department|NN|N is|VBZ|(S[dcl]\NP)/(S[adj]\NP) responsible|JJ|(S[adj]\NP)/PP for|IN|PP/(S[ng]\NP) regulating|VBG|(S[ng]\NP)/NP casino|NN|N/N gambling|NN|N in|IN|(NP\NP)/NP Mississippi|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N dessert|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) made|VBN|(S[pss]\NP)/PP with|IN|PP/NP poached|JJ|N/N peach|NN|N/N halves|NNS|N ,|,|, vanilla|NN|N/N ice|NN|N/N cream|NN|N ,|,|, and|CC|conj raspberry|NN|N/N sauce|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N duo|NN|N lost|VBD|(S[dcl]\NP)/NP their|PRP$|NP[nb]/N Grammy|NNP|N for|IN|(NP\NP)/NP best|JJS|N/N new|JJ|N/N artist|NN|N when|WRB|((S\NP)\(S\NP))/S[dcl] it|PRP|NP was|VBD|(S[dcl]\NP)/(S[pss]\NP) discovered|VBN|(S[pss]\NP)/S[em] that|IN|S[em]/S[dcl] they|PRP|NP lip-synched|VBD|(S[dcl]\NP)/NP their|PRP$|NP[nb]/N songs|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N engineer|NN|N designed|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Erie|NNP|N/N Canal|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N ethnic|JJ|N/N group|NN|N introduced|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N idea|NN|N of|IN|(NP\NP)/NP potlatch|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N famous|JJ|N/N Spanish|JJ|N/N poet|NN|N died|VBD|S[dcl]\NP in|IN|((S\NP)\(S\NP))/NP Spain|NNP|N 's|POS|(NP[nb]/N)\NP Civil|NNP|N/N War|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N female|JJ|N/N leader|NN|N succeeded|VBD|((S[dcl]\NP)/PP)/NP Ferdinand|NNP|N/N Marcos|NNP|N as|IN|PP/NP president|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Philippines|NNPS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N film|NN|N introduced|VBD|(S[dcl]\NP)/NP Jar|NNP|N/N Jar|NNP|N/N Binks|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N galaxy|NN|N is|VBZ|(S[dcl]\NP)/(S[adj]\NP) closest|JJS|(S[adj]\NP)/PP to|TO|PP/NP the|DT|NP[nb]/N milky|JJ|N/N way|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N gasses|NNS|N are|VBP|(S[dcl]\NP)/PP in|IN|PP/NP the|DT|NP[nb]/N troposphere|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N grapes|NNS|N are|VBP|(S[dcl]\NP)/(S[pss]\NP) used|VBN|(S[pss]\NP)/PP in|IN|PP/(S[ng]\NP) making|VBG|(S[ng]\NP)/NP wine|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N groups|NNS|N are|VBP|(S[dcl]\NP)/(S[pss]\NP) affected|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP it|PRP|NP ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N group|NN|N sang|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N song|NN|N "|LQU|LQU Happy|JJ|S[adj]\NP Together|RB|(S[adj]\NP)\(S[adj]\NP) "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N instrument|NN|N measures|VBZ|(S[dcl]\NP)/NP radioactivity|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N jurisdictions|NNS|N have|VBP|(S[dcl]\NP)/NP youth|NN|N/N symphony|NN|N/N orchestras|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N languages|NNS|N are|VBP|(S[dcl]\NP)/(S[pss]\NP) spoken|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP India|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N language|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) mostly|RB|(S\NP)/(S\NP) spoken|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP Brazil|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N major|JJ|((N/N)/(N/N))/((N/N)/(N/N)) league|NN|(N/N)/(N/N) baseball|NN|N/N player|NN|N has|VBZ|(S[dcl]\NP)/NP 511|CD|N/N pitching|NN|N/N victories|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N membrane|NN|N controls|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N amount|NN|N of|IN|(NP\NP)/NP light|NN|N entering|VBG|(S[ng]\NP)/NP the|DT|NP[nb]/N eye|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N metal|NN|N has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N highest|JJS|N/N melting|NN|N/N point|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N mineral|NN|N helps|VBZ|(S[dcl]\NP)/(S[b]\NP) prevent|VB|(S[b]\NP)/NP osteoporosis|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N modern|JJ|N/N country|NN|N is|VBZ|(S[dcl]\NP)/NP home|NN|NP/PP to|TO|PP/NP the|DT|NP[nb]/N ancient|JJ|N/N city|NN|N of|IN|(NP\NP)/NP Babylon|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N monastery|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) raided|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP Vikings|NNPS|N in|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N late|JJ|N/N eighth|JJ|N/N century|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N movie|NN|N won|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Academy|NNP|N/N Award|NNP|N for|IN|(NP\NP)/NP best|JJS|N/N picture|NN|N in|IN|((S\NP)\(S\NP))/NP 1989|CD|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N museum|NN|N in|IN|(N\N)/NP Philadelphia|NNP|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) used|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP "|LQU|LQU Rocky|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N name|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) given|VBN|(S[pss]\NP)/PP to|TO|PP/NP the|DT|NP[nb]/N science|NN|N of|IN|(NP\NP)/NP map-making|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N national|JJ|N/N monument|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) designated|VBN|(S[pss]\NP)/PP as|IN|PP/NP the|DT|NP[nb]/N first|JJ|N/N national|JJ|N/N monument|NN|N in|IN|((S\NP)\(S\NP))/NP 1906|CD|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N nation|NN|N is|VBZ|(S[dcl]\NP)/NP home|NN|NP/PP to|TO|PP/NP the|DT|NP[nb]/N Kaaba|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N newspaper|NN|N serves|VBZ|(S[dcl]\NP)/NP Salt|NNP|(N/N)/(N/N) Lake|NNP|N/N City|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N part|NN|N of|IN|(N\N)/NP the|DT|NP[nb]/N eye|NN|N continues|VBZ|(S[dcl]\NP)/(S[to]\NP) to|TO|(S[to]\NP)/(S[b]\NP) grow|VB|S[b]\NP throughout|IN|((S\NP)\(S\NP))/NP a|DT|NP[nb]/N person|NN|N 's|POS|(NP[nb]/N)\NP life|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N passage|NN|N has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N Ten|CD|N/N Commandments|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N peace|NN|N/N treaty|NN|N ended|VBD|(S[dcl]\NP)/NP WWI|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N percent|NN|N of|IN|(N\N)/NP Egypt|NNP|N 's|POS|(NP[nb]/N)\NP population|NN|N lives|NNS|(S[dcl]\NP)/PP in|IN|PP/NP Cairo|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N percent|NN|N of|IN|(N\N)/NP the|DT|NP[nb]/N U.S.|NNP|N is|VBZ|(S[dcl]\NP)/NP African|NNP|N/N American|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N person|NN|N developed|VBD|(S[dcl]\NP)/NP COBOL|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N planet|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) known|VBN|(S[pss]\NP)/PP as|IN|PP/NP the|DT|NP[nb]/N "|LQU|LQU red|JJ|N/N "|RQU|RQU planet|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N player|NN|N has|VBZ|(S[dcl]\NP)/(S[pt]\NP) been|VBN|(S[pt]\NP)/NP the|DT|NP[nb]/N home|NN|(N/N)/(N/N) run|NN|N/N champion|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N national|JJ|N/N league|NN|N seven|CD|((S\NP)\(S\NP))/((S\NP)\(S\NP)) times|NNS|(S\NP)\(S\NP) ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N player|NN|N on|IN|(N\N)/NP a|DT|NP[nb]/N basketball|NN|N/N team|NN|N usually|RB|(S\NP)/(S\NP) plays|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N post|NN|N/N or|CC|conj pivot|NN|N/N position|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N precious|JJ|N/N stone|NN|N is|VBZ|(S[dcl]\NP)/NP a|DT|NP[nb]/N form|NN|N of|IN|(NP\NP)/NP pure|JJ|N/N carbon|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N president|NN|N created|VBD|(S[dcl]\NP)/NP social|JJ|N/N security|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N president|NN|N declared|VBD|(S[dcl]\NP)/NP Mothers|NNPS|N '|POS|(NP[nb]/N)\NP Day|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N president|NN|N is|VBZ|(S[dcl]\NP)/PP on|IN|PP/NP a|DT|NP[nb]/N quarter|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N president|NN|N served|VBD|(S[dcl]\NP)/NP 2|CD|N/N nonconsecutive|JJ|N/N terms|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N researchers|NNS|N have|VBP|(S[dcl]\NP)/(S[pt]\NP) worked|VBN|(S[pt]\NP)/PP with|IN|PP/NP prions|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N river|NN|N in|IN|(N\N)/NP the|DT|NP[nb]/N US|NNP|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) known|VBN|(S[pss]\NP)/PP as|IN|PP/NP the|DT|NP[nb]/N Big|NNP|N/N Muddy|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N river|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) called|VBN|(S[pss]\NP)/NP "|LQU|LQU China|NNP|N 's|POS|(NP[nb]/N)\NP Sorrow|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N river|NN|N is|VBZ|(S[dcl]\NP)/PP under|IN|PP/NP New|NNP|N/N York|NNP|N 's|POS|(NP[nb]/N)\NP George|NNP|(N/N)/(N/N) Washington|NNP|N/N bridge|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N river|NN|N runs|VBZ|(S[dcl]\NP)/PP through|IN|PP/NP Rome|NNP|N ,|,|, Italy|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N river|NN|N runs|VBZ|(S[dcl]\NP)/PP through|IN|PP/NP Rowe|NNP|N ,|,|, Italy|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N rock|NN|N/N band|NN|N sang|VBD|(S[dcl]\NP)/NP "|LQU|LQU A|DT|NP[nb]/N Whole|NNP|(N/N)/(N/N) Lotta|NNP|N/N Love|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N roller|NN|N/N coaster|NN|N is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N fastest|JJS|N in|IN|((S/NP)\(S/NP))/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N soft|JJ|N/N drink|NN|N is|VBZ|(S[dcl]\NP)/(S[adj]\NP) most|RBS|(S[adj]\NP)/(S[adj]\NP) heavily|RB|(S[adj]\NP)/(S[adj]\NP) caffeinated|VBN|S[adj]\NP ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N soviet|NN|N/N seaport|NN|N is|VBZ|(S[dcl]\NP)/PP on|IN|PP/NP the|DT|NP[nb]/N Black|NNP|N/N Sea|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N sporting|JJ|N/N event|NN|N first|RB|(S\NP)/(S\NP) took|VBD|(S[dcl]\NP)/NP place|NN|N in|IN|((S\NP)\(S\NP))/NP 1903|CD|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N sports|NNS|N/N stadium|NN|N has|VBZ|(S[dcl]\NP)/(S[pt]\NP) been|VBN|(S[pt]\NP)/(S[pss]\NP) billed|VBN|(S[pss]\NP)/PP as|IN|PP/NP "|LQU|LQU the|DT|NP[nb]/N eighth|JJ|N/N wonder|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N states|NNS|N have|VBP|(S[dcl]\NP)/(S[pt]\NP) had|VBN|(S[pt]\NP)/NP problems|NNS|N with|IN|(NP\NP)/NP boll|JJ|N/N weevils|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N state|NN|N has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N least|JJS|N/N amount|NN|N of|IN|(NP\NP)/NP rain|NN|N per|IN|(NP\NP)/NP year|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N state|NN|N has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N most|RBS|N/N Indians|NNPS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N state|NN|N in|IN|(N\N)/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N covers|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N largest|JJS|N/N area|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N state|NN|N produces|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N best|JJS|N/N lobster|NN|N to|TO|(S[to]\NP)/(S[b]\NP) eat|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N strait|NN|N separates|VBZ|((S[dcl]\NP)/PP)/NP North|NNP|N/N America|NNP|N from|IN|PP/NP Asia|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N team|NN|N drafted|VBD|(S[dcl]\NP)/NP Brett|NNP|N/N Favre|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N time|NN|N of|IN|(N\N)/NP year|NN|N has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N most|JJS|N/N air|NN|N/N travel|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N two|CD|N/N European|JJ|N/N countries|NNS|N are|VBP|(S[dcl]\NP)/(S[pss]\NP) connected|VBN|(S[pss]\NP)/PP by|IN|PP/NP the|DT|NP[nb]/N St.|NNP|(N/N)/(N/N) Gotthard|NNP|N/N Tunnel|NNP|N under|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N Alps|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N type|NN|N of|IN|(N\N)/NP bee|NN|N drills|VBZ|(S[dcl]\NP)/NP holes|NNS|N in|IN|((S\NP)\(S\NP))/NP wood|NN|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N type|NN|N of|IN|(N\N)/NP currency|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) used|VBN|(S[pss]\NP)/PP in|IN|PP/NP Australia|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N type|NN|N of|IN|(N\N)/NP polymer|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) used|VBN|(S[pss]\NP)/PP for|IN|PP/NP bulletproof|JJ|N/N vests|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N war|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) connected|VBN|(S[pss]\NP)/PP with|IN|PP/NP the|DT|NP[nb]/N book|NN|N "|LQU|LQU Charge|NNP|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Light|NNP|N/N Brigade|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[dcl]\NP))/N wrestling|NN|N/N star|NN|N became|VBD|(S[dcl]\NP)/NP "|LQU|LQU The|DT|NP[nb]/N Incredible|JJ|N/N Hulk|NNP|N "|RQU|RQU ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N Broadway|NNP|N/N musical|NN|N is|VBZ|(S[q]/PP)/NP the|DT|NP[nb]/N song|NN|N "|LQU|LQU The|DT|NP[nb]/N Story|NNP|N is|VBZ|(S[dcl]\NP)/NP Me|PRP|NP "|RQU|RQU from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N Burns|NNP|N/N poem|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP "|LQU|LQU the|DT|NP[nb]/N best|JJS|N/N laid|VBN|N/N plans|NNS|N of|IN|(NP\NP)/NP mice|NNS|N and|CC|conj men|NNS|N "|RQU|RQU come|VBN|(S[b]\NP)/PP from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N English|JJ|N/N city|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N prime|JJ|N/N meridian|NN|N pass|VB|(S[b]\NP)/PP through|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N French|JJ|N/N province|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP cognac|NN|N produced|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N TV|NN|N/N series|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Pierce|NNP|N/N Brosnan|NNP|N play|VB|(S[b]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N amendment|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Roe|NNP|N vs.|FW|(NP\NP)/NP Wade|NNP|N affect|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N animal|NN|N do|VBP|(S[q]/(S[b]\NP))/NP buffalo|NN|N/N wings|NNS|N come|VBP|(S[b]\NP)/PP from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N animal|NN|N is|VBZ|(S[q]/PP)/NP veal|NN|N from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N band|NN|N did|VBD|(S[q]/(S[b]\NP))/NP former|JJ|N/N Red|NNP|((N/N)/(N/N))/((N/N)/(N/N)) Hot|NNP|(N/N)/(N/N) Chili|NNP|(N/N)/(N/N) Peppers|NNPS|N/N guitarist|NN|N Dave|NNP|N/N Navarro|NNP|N start|VB|(S[b]\NP)/PP out|RP|(S\NP)\(S\NP) with|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N band|NN|N was|VBD|(S[q]/PP)/NP Jerry|NNP|N/N Garcia|NNP|N with|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N band|NN|N was|VBD|(S[q]/PP)/NP Jimmy|NNP|N/N Page|NNP|N in|IN|PP/NP before|RB|((S/NP)\(S/NP))/NP Led|NNP|N/N Zeppelin|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N beach|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP "|LQU|LQU I|PRP|NP Dream|VB|(S[dcl]\NP)/PP of|IN|PP/NP Jeannie|NNP|N "|RQU|RQU filmed|VBN|(S[pss]\NP)/PP on|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N body|NN|N of|IN|(N\N)/NP water|NN|N are|VBP|(S[q]/PP)/NP the|DT|NP[nb]/N Canary|NNP|N/N Islands|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N body|NN|N of|IN|(N\N)/NP water|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Colorado|NNP|N/N River|NNP|N empty|VB|(S[b]\NP)/PP into|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N body|NN|N of|IN|(N\N)/NP water|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Colorado|NNP|N/N River|NNP|N flow|VB|(S[b]\NP)/PP into|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N body|NN|N of|IN|(N\N)/NP water|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Euphrates|NNP|N/N River|NNP|N empty|VB|(S[b]\NP)/PP into|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N books|NNS|N did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP author|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N books|NNS|N has|VBZ|(S[q]/(S[pt]\NP))/NP he|PRP|NP written|VBN|(S[pt]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N book|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Rachel|NNP|N/N Carson|NNP|N write|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP 1962|CD|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N branch|NN|N of|IN|(N\N)/NP the|DT|NP[nb]/N military|NN|N did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP serve|VB|(S[b]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N branch|NN|N of|IN|(N\N)/NP the|DT|NP[nb]/N service|NN|N did|VBD|(S[q]/(S[b]\NP))/NP she|PRP|NP serve|VB|(S[b]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N breed|NN|N of|IN|(N\N)/NP dog|NN|N was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N "|LQU|LQU Little|JJ|(N/N)/(N/N) Rascals|NNS|N/N "|RQU|RQU dog|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N breed|NN|N of|IN|(N\N)/NP hunting|NN|N/N dog|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Beverly|NNP|N/N Hillbillies|NNPS|N own|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N breed|NN|N was|VBD|(S[q]/NP)/NP Roy|NNP|N/N Rogers|NNP|N '|POS|(NP[nb]/N)\NP horse|NN|N Trigger|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N building|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Academy|NNP|N/N of|IN|((N/N)\(N/N))/NP Country|NNP|N/N Music|NNP|N Awards|NNP|N held|VBN|(S[pss]\NP)/PP in|RP|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N capital|NN|N/N city|NN|N do|VBP|(S[q]/(S[b]\NP))/NP you|PRP|NP see|VB|(S[b]\NP)/NP from|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N top|NN|N of|IN|(NP\NP)/NP Bunker|NNP|N/N Hill|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Duke|NNP|N/N Ellington|NNP|N live|VB|(S[b]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Flintstones|NNPS|N live|VB|(S[b]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP McCarren|NNP|N/N Airport|NNP|N serve|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP Massachusetts|NNP|N/N General|NNP|N/N Hospital|NNP|N located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N gateway|NN|N/N arch|NN|N located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N is|VBZ|(S[q]/PP)/NP Disneyland|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N is|VBZ|(S[q]/PP)/NP Duke|NNP|N/N University|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N is|VBZ|(S[q]/PP)/NP Lake|NNP|N/N Washington|NNP|N by|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N is|VBZ|(S[q]/PP)/NP Ole|NNP|(N/N)/(N/N) Mississippi|NNP|N/N University|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N is|VBZ|(S[q]/PP)/NP the|DT|NP[nb]/N Kentucky|NNP|N/N Horse|NNP|N/N Park|NNP|N near|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N city|NN|N is|VBZ|(S[q]/PP)/NP the|DT|NP[nb]/N Orange|NNP|N/N Bowl|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N class|NN|N of|IN|(N\N)/NP drug|NN|N is|VBZ|(S[q]/NP)/NP Xanax|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N college|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Allen|NNP|N/N Iverson|NNP|N attend|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N college|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Allen|NNP|N/N Iverson|NNP|N go|VB|(S[b]\NP)/PP to|TO|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N college|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Magic|NNP|N/N Johnson|NNP|N go|VB|(S[b]\NP)/PP to|TO|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N college|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Marcus|NNP|N/N Camby|NNP|N play|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N color|NN|N are|VBP|(S[q]/NP)/NP crickets|NNS|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N color|NN|N is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N giraffe|NN|N 's|POS|(NP[nb]/N)\NP tongue|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N color|NN|N is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N poison|NN|N/N arrow|NN|N/N frog|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N color|NN|N is|VBZ|(S[q]/NP)/NP indigo|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N color|NN|N is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N top|JJ|N/N stripe|NN|N on|IN|(NP\NP)/NP the|DT|NP[nb]/N U.S.|NNP|N/N flag|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N color|NN|N is|VBZ|(S[q]/NP)/NP yak|NN|N/N milk|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N color|NN|N/N hair|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Thomas|NNP|N/N Jefferson|NNP|N have|VB|(S[b]\NP)/NP before|RB|((S\NP)\(S\NP))/NP gray|JJ|NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N comedy|NN|N/N team|NN|N was|VBD|(S[q]/NP)/NP John|NNP|N/N Cleese|NNP|N part|NN|NP/PP of|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N companies|NNS|N has|VBZ|(S[q]/(S[pt]\NP))/NP AARP|NNP|N endorsed|VBN|(S[pt]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N companies|NNS|N has|VBZ|(S[q]/(S[pt]\NP))/NP he|PRP|NP invested|VBN|(S[pt]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N conflict|NN|N did|VBD|(S[q]/(S[b]\NP))/NP she|PRP|NP distinguish|VB|((S[b]\NP)/PP)/NP herself|PRP|NP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N continent|NN|N is|VBZ|(S[q]/PP)/NP Argentina|NNP|N on|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N continent|NN|N is|VBZ|(S[q]/PP)/NP Bolivia|NNP|N on|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N continent|NN|N is|VBZ|(S[q]/PP)/NP Togo|NNP|N on|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N countries|NNS|N is|VBZ|(S[q]/(S[pss]\NP))/NP Burger|NNP|N/N King|NNP|N located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N are|VBP|(S[q]/(S[pss]\NP))/NP Volvo|NNP|N/N automobiles|NNS|N made|VBD|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N are|VBP|(S[q]/PP)/NP Godiva|NNP|N/N chocolates|NNS|N from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Iraq|NNP|N invade|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP 1990|CD|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Marco|NNP|N/N Polo|NNP|N come|VB|(S[b]\NP)/PP from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Panama|NNP|N gain|VB|((S[b]\NP)/PP)/NP its|PRP$|NP[nb]/N independence|NN|N from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP Greenland|NNP|N belong|VB|(S[b]\NP)/PP to|TO|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP Aswan|NNP|N/N High|NNP|N/N Dam|NNP|N located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N holy|JJ|N/N city|NN|N of|IN|(NP\NP)/NP Mecca|NNP|N located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N is|VBZ|(S[q]/PP)/NP Hyundai|NNP|N from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N is|VBZ|(S[q]/PP)/NP Mt.|NNP|N/N Everest|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N is|VBZ|(S[q]/PP)/NP Pretoria|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Battle|NNP|N of|IN|(NP\NP)/NP Verdun|NNP|N fought|VBN|(S[pss]\NP)/PP in|RP|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N country|NN|N was|VBD|(S[q]/PP)/NP Catherine|NNP|N the|DT|NP[nb]/N Great|NNP|N from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N county|NN|N is|VBZ|(S[q]/PP)/NP Elmira|NNP|N ,|,|, NY|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N county|NN|N is|VBZ|(S[q]/PP)/NP Modesto|NNP|N ,|,|, California|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N county|NN|N is|VBZ|(S[q]/PP)/NP Phoenix|NNP|N ,|,|, AZ|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N county|NN|N is|VBZ|(S[q]/PP)/NP San|NNP|N/N Antonio|NNP|N ,|,|, Texas|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N county|NN|N is|VBZ|(S[q]/PP)/NP St.|NNP|N/N Paul|NNP|N ,|,|, Minnesota|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N county|NN|N is|VBZ|(S[q]/PP)/NP Wilmington|NNP|N ,|,|, Delaware|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N currency|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP Argentina|NNP|N use|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N currency|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP Luxembourg|NNP|N use|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N currency|NN|N do|VBP|(S[q]/(S[b]\NP))/NP they|PRP|NP use|VB|((S[b]\NP)/PP)/NP in|IN|PP/NP Brazil|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N date|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Declaration|NN|N of|IN|(NP\NP)/NP Independence|NN|N signed|VBN|(S[pss]\NP)/PP on|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N diseases|NNS|N are|VBP|(S[q]/(S[pss]\NP))/NP prions|NNS|N associated|VBN|(S[pss]\NP)/PP with|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N division|NN|N (|LRB|(N\N)/N weight|NN|N )|RRB|RRB did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP win|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N document|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Button|NNP|N/N Gwinnett|NNP|N sign|VB|(S[b]\NP)/NP on|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N upper|JJ|N/N left|JJ|(N/N)/(N/N) hand|NN|N/N side|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N dress|NN|N/N size|NN|N was|VBD|(S[q]/NP)/NP Marilyn|NNP|N/N Monroe|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N famous|JJ|N/N verse|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Sarah|NNP|N/N Hale|NNP|N write|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP 1830|CD|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N film|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Liza|NNP|N/N Minnelli|NNP|N win|VB|((S[b]\NP)/PP)/NP a|DT|NP[nb]/N best|JJS|(N/N)/(N/N) actress|NN|N/N Oscar|NNP|N for|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N film|NN|N or|CC|conj films|NNS|N has|VBZ|(S[q]/(S[pt]\NP))/NP Jude|NNP|N/N Law|NNP|N appeared|VBN|(S[pt]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N film|NN|N was|VBD|(S[q]/PP)/NP Jude|NNP|N/N Law|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N flavor|NN|N/N filling|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N original|JJ|N/N Twinkies|NNPS|N have|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N format|NN|N was|VBD|(S[q]/NP)/NP VHS|NNP|N 's|POS|(NP[nb]/N)\NP main|JJ|N/N competition|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N format|NN|N was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N major|JJ|N/N competition|NN|N of|IN|(NP\NP)/NP VHS|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N fruit|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP Melba|NNP|N/N sauce|NN|N made|VBD|(S[pss]\NP)/PP from|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N hair|NN|N/N color|NN|N can|MD|(S[q]/(S[b]\NP))/NP I|PRP|NP use|VB|(S[b]\NP)/NP to|TO|((S\NP)\(S\NP))/(S[b]\NP) just|RB|(S\NP)/(S\NP) cover|VB|(S[b]\NP)/NP a|DT|NP[nb]/N little|JJ|N/N gray|JJ|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N hemisphere|NN|N is|VBZ|(S[q]/PP)/NP the|DT|NP[nb]/N Philippines|NNPS|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N hockey|NN|N/N team|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Wayne|NNP|N/N Gretzky|NNP|N play|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N instrument|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Glenn|NNP|N/N Miller|NNP|N play|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N instrument|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Louis|NNP|N/N Armstrong|NNP|N play|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N instrument|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP Ray|NNP|N/N Charles|NNP|N play|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N instrument|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP Ray|NNP|N/N Charles|NNP|N best|JJS|(S\NP)/(S\NP) known|VBN|(S[pss]\NP)/PP for|IN|PP/(S[ng]\NP) playing|VBG|(S[ng]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N island|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N U.S.|NNP|N gain|VB|(S[b]\NP)/NP after|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N Spanish|JJ|N/N American|JJ|N/N war|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N island|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP Napoleon|NNP|N exiled|VBN|(S[pss]\NP)/PP to|TO|PP/NP after|IN|((S\NP)\(S\NP))/NP his|PRP$|NP[nb]/N defeat|NN|N at|IN|(NP\NP)/NP Waterloo|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N kind|NN|N of|IN|(N\N)/NP animal|NN|N is|VBZ|(S[q]/NP)/NP an|DT|NP[nb]/N agouti|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N kind|NN|N of|IN|(N\N)/NP a|DT|NP[nb]/N community|NN|N is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N Kibbutz|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N kind|NN|N of|IN|(N\N)/NP a|DT|NP[nb]/N particle|NN|N is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N quark|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N kind|NN|N of|IN|(N\N)/NP a|DT|NP[nb]/N sports|NNS|N/N team|NN|N is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Wisconsin|NNP|N/N Badgers|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N kind|NN|N of|IN|(N\N)/NP business|NN|N is|VBZ|(S[q]/NP)/NP Abercrombie|NNP|N and|CC|conj Fitch|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N kind|NN|N of|IN|(N\N)/NP cases|NNS|N does|VBZ|(S[q]/(S[b]\NP))/NP it|PRP|NP try|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N kind|NN|N of|IN|(N\N)/NP dog|NN|N was|VBD|(S[q]/NP)/NP Toto|NNP|N in|IN|((S/NP)\(S/NP))/NP the|DT|NP[nb]/N Wizard|NNP|N of|IN|(NP\NP)/NP Oz|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N kind|NN|N of|IN|(N\N)/NP insect|NN|N is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N boll|NN|N/N weevil|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N kind|NN|N of|IN|(N\N)/NP ship|NN|N is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Liberty|NNP|N/N Bell|NNP|N 7|CD|N\N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N language|NN|N do|VBP|(S[q]/(S[b]\NP))/NP they|PRP|NP speak|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP New|NNP|N/N Caledonia|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N leading|VBG|N/N men|NNS|N did|VBD|(S[q]/(S[b]\NP))/NP she|PRP|NP star|VB|((S[b]\NP)/PP)/NP opposite|NN|N of|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N magazines|NNS|N does|VBZ|(S[q]/(S[b]\NP))/NP Conde|NNP|N/N Nast|NNP|N publish|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N movies|NNS|N did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP appear|VB|(S[b]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N movie|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Madilyn|NNP|N/N Kahn|NNP|N star|VB|(S[b]\NP)/PP in|IN|PP/NP with|IN|((S\NP)\(S\NP))/NP Gene|NNP|N/N Wilder|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N name|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP horror|NN|N/N actor|NN|N William|NNP|N/N Henry|NNP|N/N Pratt|NNP|N better|RB|(S\NP)/(S\NP) known|VBN|(S[pss]\NP)/PP by|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N nationality|NN|N is|VBZ|(S[q]/NP)/NP he|PRP|NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N nationality|NN|N was|VBD|(S[q]/NP)/NP Jackson|NNP|N/N Pollock|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N number|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Michael|NNP|N/N Jordan|NNP|N wear|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N ocean|NN|N are|VBP|(S[q]/PP)/NP the|DT|NP[nb]/N Gilbert|NNP|N/N Islands|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N ocean|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Titanic|NNP|N sink|VB|(S[b]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N organizations|NNS|N has|VBZ|(S[q]/(S[pt]\NP))/NP he|PRP|NP donated|VBD|((S[pt]\NP)/PP)/NP money|NN|N to|TO|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N organization|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Paul|NNP|N/N Konerko|NNP|N first|JJ|(S\NP)/(S\NP) play|VB|((S[b]\NP)/PP)/NP major|JJ|(N/N)/(N/N) league|NN|N/N baseball|NN|N with|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N other|JJ|N/N countries|NNS|N do|VBP|(S[q]/(S[b]\NP))/NP Kurds|NNPS|N live|VB|(S[b]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N party|NN|N was|VBD|(S[q]/NP)/NP Winston|NNP|N/N Churchill|NNP|N a|DT|NP[nb]/N member|NN|N/PP of|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N peninsula|NN|N is|VBZ|(S[q]/NP)/NP Spain|NNP|N part|NN|NP/PP of|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N planets|NNS|N will|MD|(S[q]/(S[b]\NP))/NP it|PRP|NP pass|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N position|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Willie|NNP|N/N Davis|NNP|N play|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP baseball|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N primary|JJ|N/N colors|NNS|N do|VBP|(S[q]/(S[b]\NP))/NP you|PRP|NP mix|VB|(S[b]\NP)/NP to|TO|((S\NP)\(S\NP))/(S[b]\NP) make|VB|(S[b]\NP)/NP orange|NN|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N prison|NN|N is|VBZ|(S[q]/PP)/NP Charles|NNP|N/N Manson|NNP|N at|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N prizes|NNS|N or|CC|conj awards|NNS|N has|VBZ|(S[q]/(S[pt]\NP))/NP he|PRP|NP won|VBD|(S[pt]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N province|NN|N in|IN|(N\N)/NP Canada|NNP|N is|VBZ|(S[q]/(S[pss]\NP))/NP Niagara|NNP|N/N Falls|NNP|N located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N province|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP Calgary|NNP|N located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N province|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP Edmonton|NNP|N located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N province|NN|N is|VBZ|(S[q]/PP)/NP Montreal|NNP|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N radio|NN|N/N station|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Paul|NNP|N/N Harvey|NNP|N work|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N rank|NN|N did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP reach|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N rank|NN|N did|VBD|(S[q]/(S[b]\NP))/NP she|PRP|NP reach|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N record|NN|N/N company|NN|N is|VBD|(S[q]/PP)/NP he|PRP|NP with|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N schools|NNS|N did|VBD|(S[q]/(S[b]\NP))/NP she|PRP|NP attend|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N school|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Emmitt|NNP|N/N Smith|NNP|N go|VB|(S[b]\NP)/PP to|TO|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N site|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Lindbergh|NNP|N begin|VB|((S[b]\NP)/PP)/NP his|PRP$|NP[nb]/N flight|NN|N from|IN|PP/NP in|IN|((S\NP)\(S\NP))/NP 1927|CD|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N sport|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP Jennifer|NNP|N/N Capriati|NNP|N play|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N sport|NN|N do|VBP|(S[q]/(S[b]\NP))/NP they|PRP|NP play|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N stadium|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N televised|JJ|N/N MLB|NNP|N/N game|NN|N played|VBN|(S[pss]\NP)/PP in|RP|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N state|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Battle|NNP|N of|IN|(NP\NP)/NP Bighorn|NNP|N take|VBP|((S[b]\NP)/PP)/NP place|NN|N in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N state|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP MO|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N state|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP he|PRP|NP represent|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N state|NN|N is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Filenes|NNP|N/N store|NN|N located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N state|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP Amelia|NNP|N/N Earhart|NNP|N born|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N store|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP Martha|NNP|N/N Stewart|NNP|N advertise|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N style|NN|N of|IN|(N\N)/NP music|NN|N do|VBP|(S[q]/(S[b]\NP))/NP they|PRP|NP play|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N substance|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Charles|NNP|N/N Best|NNP|N and|CC|conj Frederick|NNP|N/N Banting|NNP|N discover|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP 1922|CD|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N task|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Bouvier|NNP|N/N breed|NN|N of|IN|(NP\NP)/NP dog|NN|N perform|VB|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N tribe|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Sacajawea|NNP|N belong|VB|(S[b]\NP)/PP to|TO|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N type|NN|N of|IN|(N\N)/NP bridge|NN|N is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Golden|NNP|(N/N)/(N/N) Gate|NNP|N/N Bridge|NNP|N ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N type|NN|N of|IN|(N\N)/NP hunting|NN|N are|VBP|(S[q]/(S[pss]\NP))/NP retrievers|NNS|N used|VBN|(S[pss]\NP)/PP for|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N university|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Thomas|NNP|N/N Jefferson|NNP|N found|VBD|(S[b]\NP)/NP ?|.|.
+What|WDT|(S[wq]/(S[q]/NP))/N university|NN|N was|VBD|(S[q]/NP)/NP Woodrow|NNP|N/N Wilson|NNP|N President|NNP|NP/PP of|IN|PP/NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/PP)/NP the|DT|NP[nb]/N first|JJ|N/N Concorde|NNP|N/N crash|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) 's|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N capacity|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Superdome|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) 's|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N final|JJ|N/N line|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N Edgar|NNP|(N/N)/(N/N) Allen|NNP|(N/N)/(N/N) Poe|NNP|N/N poem|NN|N "|LQU|LQU The|DT|NP[nb]/N Raven|NNP|N ?|.|. "|RQU|RQU
+What|WP|S[wq]/(S[q]/NP) 's|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP King|NNP|N/N Arthur|NNP|N 's|POS|(NP[nb]/N)\NP sword|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP Brazil|NNP|N 's|POS|(NP[nb]/N)\NP national|JJ|N/N colors|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP Burger|NNP|N/N King|NNP|N 's|POS|(NP[nb]/N)\NP gross|JJ|N/N sales|NNS|N today|RB|S[wq]\S[wq] ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP cities|NNS|N that|WDT|(NP\NP)/(S[dcl]\NP) have|VBP|(S[dcl]\NP)/NP an|DT|NP[nb]/N Amtrak|NNP|N/N terminal|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP famous|JJ|N/N people|NNS|N who|WP|(NP\NP)/(S[dcl]\NP) have|VBP|(S[dcl]\NP)/(S[pt]\NP) been|VBN|(S[pt]\NP)/NP Rhodes|NNP|N/N scholars|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP members|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N center|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP members|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N group|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP names|NNS|N of|IN|(NP\NP)/NP dirigibles|NNS|N (|LRB|(N\N)/N rigid|JJ|N/N airships|NNS|N )|RRB|RRB ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP their|PRP$|NP[nb]/N songs|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N Wiggles|NNP|N/N songs|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N birth|NN|N/N dates|NNS|N for|IN|(NP\NP)/NP scorpios|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N different|JJ|N/N types|NNS|N of|IN|(NP\NP)/NP quarks|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N measurements|NNS|N for|IN|(NP\NP)/NP a|DT|NP[nb]/N king-size|JJ|N/N bed|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N names|NNS|N of|IN|(NP\NP)/NP Jacques|NNP|N/N Cousteau|NNP|N 's|POS|(NP[nb]/N)\NP two|CD|N/N sons|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N names|NNS|N of|IN|(NP\NP)/NP boxers|NNS|N he|PRP|NP fought|VBD|(S[dcl]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N names|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N tourist|NN|N/N attractions|NNS|N in|IN|(NP\NP)/NP Reims|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N opening|VBG|N/N words|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Declaration|NNP|N of|IN|(NP\NP)/NP Independence|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N spots|NNS|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N two|CD|N/N houses|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Legislative|JJ|N/N branch|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N two|CD|N/N types|NNS|N of|IN|(NP\NP)/NP twins|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP titles|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N group|NN|N 's|POS|(NP[nb]/N)\NP releases|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP tourist|NN|N/N attractions|NNS|N in|IN|(NP\NP)/NP Reims|NNP|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) attracts|VBZ|(S[dcl]\NP)/NP tourists|NNS|N to|TO|((S\NP)\(S\NP))/NP Reims|NNS|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) caused|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N death|NN|N of|IN|(NP\NP)/NP Bob|NNP|N/N Marley|NNP|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) causes|VBZ|(S[dcl]\NP)/NP gray|JJ|N/N hair|NN|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) dissolves|VBZ|(S[dcl]\NP)/NP gold|NN|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) divides|VBZ|((S[dcl]\NP)/PP)/NP Haiti|NNP|N from|IN|PP/NP the|DT|NP[nb]/N Dominican|NNP|N/N Republic|NNP|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) happened|VBD|(S[dcl]\NP)/PP to|TO|PP/NP it|PRP|NP ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) is|VBZ|(S[dcl]\NP)/(S[adj]\NP) slang|NN|(S[adj]\NP)/PP for|IN|PP/NP a|DT|NP[nb]/N "|LQU|LQU five|CD|(N/N)/(N/N) dollar|NN|N/N bill|NN|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) is|VBZ|(S[dcl]\NP)/(S[adj]\NP) worth|JJ|(S[adj]\NP)/(S[ng]\NP) seeing|VBG|S[ng]\NP in|IN|((S\NP)\(S\NP))/NP Reims|NNP|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) is|VBZ|(S[dcl]\NP)/(S[pss]\NP) done|VBN|S[pss]\NP with|IN|((S\NP)\(S\NP))/NP worn|JJ|N/N or|CC|conj outdated|JJ|N/N flags|NNS|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) is|VBZ|(S[dcl]\NP)/(S[pss]\NP) measured|VBN|(S[pss]\NP)/PP in|IN|PP/NP curies|NNS|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) is|VBZ|(S[dcl]\NP)/(S[pss]\NP) written|VBN|(S[pss]\NP)/PP on|IN|PP/NP the|DT|NP[nb]/N U.S.|NNP|N/N tomb|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N unknown|JJ|N/N soldier|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Africa|NNP|N 's|POS|(NP[nb]/N)\NP largest|JJS|N/N country|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Al|NNP|N/N Jolson|NNP|N 's|POS|(NP[nb]/N)\NP real|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Australia|NNP|N 's|POS|(NP[nb]/N)\NP national|JJ|N/N flower|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Barbie|NNP|N 's|POS|(NP[nb]/N)\NP full|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Britney|NNP|N/N Spears|NNP|N '|POS|(NP[nb]/N)\NP middle|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Buzz|NNP|N/N Aldrin|NNP|N 's|POS|(NP[nb]/N)\NP real|JJ|N/N first|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP California|NNP|N 's|POS|(NP[nb]/N)\NP capital|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Canada|NNP|N 's|POS|(NP[nb]/N)\NP most|JJS|(N/N)/(N/N) populous|JJ|N/N city|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Carlos|NNP|N/N real|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Chiricahua|NNP|N the|DT|NP[nb]/N name|NN|N/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP David|NNP|N/N Lee|NNP|N/N Roth|NNP|N 's|POS|(NP[nb]/N)\NP birthday|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Dick|NNP|N/N Clark|NNP|N 's|POS|(NP[nb]/N)\NP birthday|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Dick|NNP|N/N Clark|NNP|N 's|POS|(NP[nb]/N)\NP date|NN|N of|IN|(NP\NP)/NP birth|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Dr.|NNP|N/N Ruth|NNP|N 's|POS|(NP[nb]/N)\NP last|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Elvis|NNP|N/N Presley|NNP|N 's|POS|(NP[nb]/N)\NP middle|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Eminem|NNP|N 's|POS|(NP[nb]/N)\NP real|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Frank|NNP|N/N Sinatra|NNP|N 's|POS|(NP[nb]/N)\NP nickname|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Hawaii|NNP|N 's|POS|(NP[nb]/N)\NP state|NN|N/N flower|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Horatio|NNP|N 's|POS|(NP[nb]/N)\NP relationship|NN|N to|TO|(NP\NP)/NP Hamlet|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Karl|NNP|N/N Malone|NNP|N 's|POS|(NP[nb]/N)\NP nickname|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Marilyn|NNP|N/N Monroe|NNP|N 's|POS|(NP[nb]/N)\NP real|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Martin|NNP|N/N Luther|NNP|N/N King|NNP|N Jr.|NNP|N\N 's|POS|(NP[nb]/N)\NP real|JJ|N/N birthday|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Maryland|NNP|N 's|POS|(NP[nb]/N)\NP state|NN|N/N bird|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Motley|NNP|N/N Crue|NNP|N 's|POS|(NP[nb]/N)\NP Nikki|NNP|N/N Sixx|NNP|N 's|POS|(NP[nb]/N)\NP real|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP New|NNP|N/N York|NNP|N 's|POS|(NP[nb]/N)\NP state|NN|N/N bird|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Nicholas|NNP|N/N Cage|NNP|N 's|POS|(NP[nb]/N)\NP occupation|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Richie|NNP|N 's|POS|(NP[nb]/N)\NP surname|NN|N on|IN|(NP\NP)/NP "|LQU|LQU Happy|JJ|N/N Days|NNS|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Ronald|NNP|N/N Reagan|NNP|N 's|POS|(NP[nb]/N)\NP favorite|JJ|N/N candy|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Shakespeare|NNP|N 's|POS|(NP[nb]/N)\NP nickname|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP South|NNP|N/N Africa|NNP|N 's|POS|(NP[nb]/N)\NP total|JJ|N/N population|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Susan|NNP|N/N B.|NNP|N/N Anthony|NNP|N 's|POS|(NP[nb]/N)\NP birthday|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Tina|NNP|N/N Turners|NNP|N real|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Ursa|NNP|N/N Major|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Valentine|NNP|N 's|POS|(NP[nb]/N)\NP Day|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Vilar|NNP|N 's|POS|(NP[nb]/N)\NP nationality|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP another|DT|NP[nb]/N name|NN|N for|IN|(NP\NP)/NP nearsightedness|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP another|DT|NP[nb]/N name|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N North|NNP|N/N Star|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP her|PRP$|NP[nb]/N nickname|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP his|PRP$|NP[nb]/N ethnic|JJ|N/N background|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP its|PRP$|NP[nb]/N purpose|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP one|CD|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N cities|NNS|N that|IN|(NP\NP)/(S[dcl]/NP) the|DT|NP[nb]/N University|NNP|N of|IN|(NP\NP)/NP Minnesota|NNP|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) located|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP one|CD|N/N national|JJ|N/N park|NN|N in|IN|(NP\NP)/NP Indiana|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP their|PRP$|NP[nb]/N annual|JJ|N/N revenue|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP their|PRP$|NP[nb]/N average|JJ|N/N life|NN|N/N span|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP their|PRP$|NP[nb]/N gang|NN|N/N color|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP their|PRP$|NP[nb]/N style|NN|N of|IN|(NP\NP)/NP music|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Bluegrass|NNP|N/N state|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Cav|NNP|N 's|POS|(NP[nb]/N)\NP arena|NN|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N English|JJ|N/N meaning|NN|N of|IN|(NP\NP)/NP caliente|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N English|JJ|N/N translation|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N word|NN|N "|LQU|LQU caliente|NN|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Illinois|NNP|N/N state|NN|N/N flower|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Islamic|JJ|N/N equivalent|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Red|NNP|N/N Cross|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Kama|NNP|N/N Sutra|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N "|LQU|LQU Playboy|NNP|N/N "|RQU|RQU logo|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N "|LQU|LQU Sunflower|NNP|N/N State|NNP|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Milky|NNP|N/N Way|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Moulin|NNP|N/N Rouge|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N National|NNP|N/N Park|NNP|N in|IN|(NP\NP)/NP Utah|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N North|JJ|(N/N)/(N/N) Korean|JJ|N/N national|JJ|N/N anthem|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N U.S.|NNP|N/N location|NN|N of|IN|(NP\NP)/NP Procter|NNP|N/N &|CC|conj Gamble|NNP|N/N corporate|JJ|N/N offices|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N abbreviation|NN|N for|IN|(NP\NP)/NP Original|NNP|N/N Equipment|NNP|N/N Manufacturer|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N abbreviation|NN|N for|IN|(NP\NP)/NP Texas|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N abbreviation|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N London|NNP|N/N stock|NN|N/N exchange|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N active|JJ|N/N ingredient|NN|N in|IN|(NP\NP)/NP Tylenol|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N active|JJ|N/N ingredient|NN|N in|IN|(NP\NP)/NP baking|NN|N/N soda|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N airport|NN|N/N code|NN|N for|IN|(NP\NP)/NP Los|NNP|(N/N)/(N/N) Angeles|NNP|N/N International|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N atomic|JJ|N/N number|NN|N of|IN|(NP\NP)/NP uranium|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N atomic|JJ|N/N weight|NN|N of|IN|(NP\NP)/NP silver|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N average|JJ|N/N body|NN|N/N temperature|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N average|JJ|N/N life|NN|N/N span|NN|N for|IN|(NP\NP)/NP a|DT|NP[nb]/N chicken|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N average|JJ|N/N speed|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N horses|NNS|N at|IN|(NP\NP)/NP the|DT|NP[nb]/N Kentucky|NNP|N/N Derby|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N average|JJ|N/N weight|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N Yellow|NNP|N/N Labrador|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N beginning|NN|N/N date|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N Hershey|NNP|N/N foods|NNS|N/N company|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N best-selling|JJ|N/N book|NN|N of|IN|(NP\NP)/NP all|DT|NP[nb]/N time|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N birthstone|NN|N for|IN|(NP\NP)/NP June|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N birthstone|NN|N of|IN|(NP\NP)/NP October|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N body|NN|N/N temperature|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N dog|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N boiling|VBG|N/N point|NN|N of|IN|(NP\NP)/NP water|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N busiest|JJS|N/N air|NN|(N/N)/(N/N) travel|NN|N/N season|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N capital|NN|N of|IN|(NP\NP)/NP Haiti|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N capital|NN|N of|IN|(NP\NP)/NP Mongolia|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N capital|NN|N of|IN|(NP\NP)/NP Persia|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N capital|NN|N of|IN|(NP\NP)/NP Victoria|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N capital|NN|N of|IN|(NP\NP)/NP Yugoslavia|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N capital|NN|N of|IN|(NP\NP)/NP Zimbabwe|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N capital|NN|N/N city|NN|N of|IN|(NP\NP)/NP Algeria|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N chemical|JJ|N/N formula|NN|N /|CC|(NP\NP)/NP name|NN|N for|IN|(NP\NP)/NP napalm|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N chemical|NN|N/N formula|NN|N for|IN|(NP\NP)/NP sulphur|NN|N/N dioxide|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N city|NN|N of|IN|(NP\NP)/NP brotherly|JJ|N/N love|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N coldest|JJS|N/N place|NN|N on|IN|(NP\NP)/NP earth|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N collective|JJ|N/N noun|NN|N for|IN|(NP\NP)/NP geese|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N collective|JJ|N/N term|NN|N for|IN|(NP\NP)/NP geese|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N conversion|NN|N/N rate|NN|N between|IN|(NP\NP)/NP dollars|NNS|N and|CC|conj pounds|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N cultural|JJ|N/N origin|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N ceremony|NN|N of|IN|(NP\NP)/NP potlatch|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N currency|NN|N used|VBD|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP China|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N daily|JJ|N/N requirement|NN|N of|IN|(NP\NP)/NP folic|JJ|N/N acid|NN|N for|IN|(NP\NP)/NP an|DT|NP[nb]/N expectant|JJ|N/N mother|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N date|NN|N of|IN|(NP\NP)/NP Bastille|NNP|N/N Day|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N date|NN|N of|IN|(NP\NP)/NP Boxing|NNP|N/N Day|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N date|NN|N of|IN|(NP\NP)/NP Mexico|NNP|N 's|POS|(NP[nb]/N)\NP independence|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N deepest|JJS|N/N lake|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N US|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N deepest|JJS|N/N lake|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N definition|NN|N of|IN|(NP\NP)/NP hazmat|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N democratic|JJ|(N/N)/(N/N) party|NN|N/N symbol|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N depth|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Nile|NNP|N/N river|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N diameter|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N golf|NN|N/N ball|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N difference|NN|N between|IN|(NP\NP)/NP AM|NN|(N/N)/(N/N) radio|NN|N/N stations|NNS|N and|CC|conj FM|NN|(N/N)/(N/N) radio|NN|N/N stations|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N distance|NN|N from|IN|(NP\NP)/NP Jupiter|NNP|N to|TO|(NP\NP)/NP the|DT|NP[nb]/N sun|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N distance|NN|N in|IN|(NP\NP)/NP miles|NNS|N from|IN|(NP\NP)/NP the|DT|NP[nb]/N earth|NN|N to|TO|(NP\NP)/NP the|DT|NP[nb]/N sun|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N earth|NN|N 's|POS|(NP[nb]/N)\NP diameter|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N elevation|NN|N of|IN|(NP\NP)/NP St.|NNP|N/N Louis|NNP|N ,|,|, MO|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N equivalent|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Red|NNP|N/N Cross|NNP|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N Middle|NNP|N/N East|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N federal|JJ|N/N minimum|NN|N/N wage|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N gestation|NN|N/N period|NN|N for|IN|(NP\NP)/NP a|DT|NP[nb]/N cat|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N gestation|NN|N/N period|NN|N for|IN|(NP\NP)/NP humans|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N gestation|NN|N/N period|NN|N for|IN|(NP\NP)/NP human|JJ|N/N pregnancies|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N gift|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N 20th|JJ|N/N anniversary|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N heaviest|JJS|N/N naturally|RB|(N/N)/(N/N) occurring|VBG|N/N element|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N height|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N tallest|JJS|N/N redwood|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N highest|JJS|N/N dam|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N U.S.|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N highest|JJS|N/N mountain|NN|N in|IN|(NP\NP)/NP South|NNP|N/N America|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N highest|JJS|N/N mountain|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N highest|JJS|N/N recorded|JJ|N/N temperature|NN|N in|IN|(NP\NP)/NP San|NNP|N/N Antonio|NNP|N ,|,|, TX|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N largest|JJS|N/N city|NN|N in|IN|(NP\NP)/NP Austria|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N largest|JJS|N/N city|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N U.S.|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N largest|JJS|N/N city|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N largest|JJS|N/N snake|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N legal|JJ|N/N age|NN|N to|TO|(S[to]\NP)/(S[b]\NP) vote|VB|S[b]\NP in|IN|((S\NP)\(S\NP))/NP Argentina|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N length|NN|N of|IN|(NP\NP)/NP Churchill|NNP|(N/N)/(N/N) Downs|NNP|N/N racetrack|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N lifespan|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N house|NN|N/N fly|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N life|NN|N/N expectancy|NN|N for|IN|(NP\NP)/NP crickets|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N life|NN|N/N expectancy|NN|N of|IN|(NP\NP)/NP an|DT|NP[nb]/N elephant|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N life|NN|N/N expectancy|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N dollar|NN|N/N bill|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N location|NN|N of|IN|(NP\NP)/NP Lake|NNP|N/N Champlain|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N location|NN|N of|IN|(NP\NP)/NP McCarren|NNP|N/N Airport|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N location|NN|N of|IN|(NP\NP)/NP Rider|NNP|N/N College|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N longest|JJS|N/N English|JJ|N/N word|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N longest|JJS|N/N bone|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N human|JJ|N/N body|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N longest|JJS|N/N river|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N longest|JJS|N/N suspension|NN|N/N bridge|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N U.S.|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N longest|JJS|N/N word|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N English|JJ|N/N language|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N lowest|JJS|N/N point|NN|N on|IN|(NP\NP)/NP earth|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N major|JJ|N/N crop|NN|N grown|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP Arizona|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N major|JJ|N/N fault|NN|N/N line|NN|N near|IN|(NP\NP)/NP Kentucky|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N meaning|NN|N of|IN|(NP\NP)/NP "|LQU|LQU CPR|NNP|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N meaning|NN|N of|IN|(NP\NP)/NP thalassemia|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N medical|JJ|N/N condition|NN|N shingles|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N melting|VBG|N/N point|NN|N of|IN|(NP\NP)/NP copper|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N melting|VBG|N/N point|NN|N of|IN|(NP\NP)/NP gold|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N monetary|JJ|N/N value|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N prize|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N money|NN|N they|PRP|NP use|VBP|(S[dcl]\NP)/NP in|IN|((S\NP)\(S\NP))/NP Zambia|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N most|RBS|((N/N)/(N/N))/((N/N)/(N/N)) frequently|RB|(N/N)/(N/N) spoken|VBN|N/N language|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N Netherlands|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N most|RBS|(N/N)/(N/N) common|JJ|N/N eye|NN|N/N color|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N most|RBS|(N/N)/(N/N) common|JJ|N/N kind|NN|N of|IN|(NP\NP)/NP skin|NN|N/N cancer|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N U.S.|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N most|RBS|(N/N)/(N/N) expensive|JJ|N/N car|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N most|RBS|((N/N)/(N/N))/((N/N)/(N/N)) heavily|RB|(N/N)/(N/N) caffeinated|JJ|N/N soft|JJ|N/N drink|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N most|RBS|(N/N)/(N/N) popular|JJ|N/N sport|NN|N in|IN|(NP\NP)/NP Japan|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N most|RBS|(N/N)/(N/N) populous|JJ|N/N city|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N motto|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N "|LQU|LQU New|NNP|(N/N)/(N/N) York|NNP|N/N Times|NNP|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N for|IN|(NP\NP)/NP clouds|NNS|N that|WDT|(NP\NP)/(S[dcl]\NP) produce|VBP|(S[dcl]\NP)/NP rain|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N given|VBN|(S[pss]\NP)/PP to|TO|PP/NP a|DT|NP[nb]/N collection|NN|N of|IN|(NP\NP)/NP poetry|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N given|VBN|(S[pss]\NP)/PP to|TO|PP/NP a|DT|NP[nb]/N group|NN|N of|IN|(NP\NP)/NP geese|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N given|VBN|(S[pss]\NP)/PP to|TO|PP/NP the|DT|NP[nb]/N Islamic|JJ|N/N counterpart|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Red|NNP|N/N Cross|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP Joan|NNP|N/N Jett|NNP|N 's|POS|(NP[nb]/N)\NP band|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP Ling|NNP|N/N Ling|NNP|N 's|POS|(NP[nb]/N)\NP mate|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP Neil|NNP|N/N Armstrong|NNP|N 's|POS|(NP[nb]/N)\NP wife|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP Roy|NNP|N/N Roger|NNP|N 's|POS|(NP[nb]/N)\NP dog|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP Scarlett|NNP|N/N O'Hara|NNP|N 's|POS|(NP[nb]/N)\NP house|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP William|NNP|N/N Penn|NNP|N 's|POS|(NP[nb]/N)\NP ship|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N Greek|JJ|N/N god|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N Salt|NNP|((N/N)/(N/N))/((N/N)/(N/N)) Lake|NNP|(N/N)/(N/N) City|NNP|N/N newspaper|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N newborn|JJ|N/N swan|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Islamic|JJ|N/N counterpart|NN|N to|TO|(NP\NP)/NP the|DT|NP[nb]/N Red|NNP|N/N Cross|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Jewish|JJ|N/N alphabet|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Lion|NNP|N/N King|NNP|N 's|POS|(NP[nb]/N)\NP son|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N movie|NN|N ,|,|, "|LQU|LQU The|DT|NP[nb]/N Lion|NNP|N/N King|NNP|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Michelangelo|NNP|N/N painting|NN|N that|WDT|(NP\NP)/(S[dcl]\NP) shows|VBZ|(S[dcl]\NP)/NP two|CD|N/N hands|NNS|N with|IN|(((S\NP)\(S\NP))/(S[ng]\NP))/NP fingers|NNS|N touching|VBG|S[ng]\NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N US|NNP|N/N military|JJ|N/N base|NN|N in|IN|(NP\NP)/NP Cuba|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N airport|NN|N in|IN|(NP\NP)/NP Amsterdam|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N art|NN|N of|IN|(NP\NP)/(S[ng]\NP) growing|VBG|(S[ng]\NP)/NP miniature|NN|N/N trees|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N ballpark|NN|N that|IN|(NP\NP)/(S[dcl]/NP) the|DT|NP[nb]/N Milwaukee|NNP|N/N Brewers|NNPS|N play|NN|(S[dcl]\NP)/PP at|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N canopy|NN|N at|IN|(NP\NP)/NP a|DT|NP[nb]/N Jewish|JJ|N/N wedding|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N chocolate|NN|N/N company|NN|N in|IN|(NP\NP)/NP San|NNP|N/N Francisco|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N company|NN|N he|PRP|NP founded|VBD|(S[dcl]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N company|NN|N that|WDT|(NP\NP)/(S[dcl]\NP) manufactures|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N "|LQU|LQU American|NNP|(N/N)/(N/N) Girl|NNP|N/N "|RQU|RQU doll|NN|N/N collection|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N country|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N Pyrenees|NNPS|N/N mountains|NNS|N between|IN|(NP\NP)/NP France|NNP|N and|CC|conj Spain|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N five|CD|(N/N)/(N/N) pointed|JJ|N/N star|NN|N commonly|RB|(S\NP)/(S\NP) used|VBN|(S[pss]\NP)/PP by|IN|PP/NP Satanists|NNPS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N heroine|NN|N in|IN|(NP\NP)/NP "|LQU|LQU Gone|VBN|(S[adj]\NP)/PP with|IN|PP/NP the|DT|NP[nb]/N Wind|NNP|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N inventor|NN|N of|IN|(NP\NP)/NP silly|JJ|N/N putty|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N leader|NN|N of|IN|(NP\NP)/NP Ireland|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N longest|JJS|N/N ruling|VBG|N/N dynasty|NN|N of|IN|(NP\NP)/NP Japan|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N official|JJ|N/N residence|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N President|NNP|N of|IN|(NP\NP)/NP France|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N professional|JJ|N/N baseball|NN|N/N team|NN|N in|IN|(NP\NP)/NP Myrtle|NNP|N/N Beach|NNP|N ,|,|, South|NNP|N/N Carolina|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N satellite|NN|N that|IN|(NP\NP)/(S[dcl]/NP) the|DT|NP[nb]/N Soviet|NNP|N/N Union|NNP|N sent|VBD|((S[dcl]\NP)/PP)/NP into|IN|PP/NP space|NN|N in|IN|((S\NP)\(S\NP))/NP 1957|CD|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N second|JJ|N/N space|NN|N/N shuttle|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N tallest|JJS|N/N mountain|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N unmanned|JJ|N/N space|NN|N/N craft|NN|N sent|VBN|(S[pss]\NP)/PP to|TO|PP/NP Mars|NNP|N by|IN|((S\NP)\(S\NP))/NP NASA|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N volcano|NN|N that|WDT|(NP\NP)/(S[dcl]\NP) destroyed|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N ancient|JJ|N/N city|NN|N of|IN|(NP\NP)/NP Pompeii|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N national|JJ|N/N airline|NN|N of|IN|(NP\NP)/NP Spain|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N national|JJ|N/N anthem|NN|N in|IN|(NP\NP)/NP England|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N nickname|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N state|NN|N of|IN|(NP\NP)/NP Mississippi|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N nickname|NN|N of|IN|(NP\NP)/NP Pennsylvania|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N nickname|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N British|JJ|N/N flag|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N nickname|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N state|NN|N of|IN|(NP\NP)/NP Mississippi|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N normal|JJ|N/N blood|NN|(N/N)/(N/N) sugar|NN|N/N range|NN|N for|IN|(NP\NP)/NP people|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N normal|JJ|N/N resting|VBG|N/N heart|NN|N/N rate|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N healthy|JJ|N/N adult|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N oldest|JJS|N/N city|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N oldest|JJS|N/N national|JJ|N/N park|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N U.S.|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N oldest|JJS|N/N sports|NNS|N/N trophy|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N oldest|JJS|N/N university|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N US|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N only|JJ|N/N artery|NN|N that|WDT|(NP\NP)/(S[dcl]\NP) carries|VBZ|(S[dcl]\NP)/NP blue|JJ|N/N blood|NN|N from|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N heart|NN|N to|TO|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N lungs|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N percentage|NN|N of|IN|(NP\NP)/NP water|NN|N/N content|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N human|JJ|N/N body|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP Australia|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP Canberra|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP China|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP Kansas|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP Mexico|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP Mozambique|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP Nigeria|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP Ohio|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP Seattle|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N population|NN|N of|IN|(NP\NP)/NP Venezuela|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N primary|JJ|N/N language|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Philippines|NNPS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N principle|NN|N/N port|NN|N in|IN|(NP\NP)/NP Ecuador|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N profession|NN|N of|IN|(NP\NP)/NP John|NNP|N/N Cusack|NNP|N 's|POS|(NP[nb]/N)\NP character|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N 1999|CD|N/N film|NN|N "|LQU|LQU Pushing|VBG|(S[ng]\NP)/NP Tin|NNP|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N purpose|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N car|NN|N/N bra|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N purpose|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N agreement|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N rainiest|JJS|N/N place|NN|N on|IN|(NP\NP)/NP Earth|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N ranger|NN|N 's|POS|(NP[nb]/N)\NP name|NN|N in|IN|(NP\NP)/NP Yogi|NNP|N/N Bear|NNP|N/N cartoons|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N real|JJ|N/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N singer|NN|N ,|,|, Madonna|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N religious|JJ|N/N affiliation|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Kurds|NNPS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N richest|JJS|N/N country|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N salary|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N U.S.|NNP|N/N Representative|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N sales|NNS|(N/N)/(N/N) tax|NN|N/N rate|NN|N in|IN|(NP\NP)/NP New|NNP|N/N York|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N scientific|JJ|N/N name|NN|N for|IN|(NP\NP)/NP elephant|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N scientific|JJ|N/N name|NN|N for|IN|(NP\NP)/NP leech|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N scientific|JJ|N/N name|NN|N for|IN|(NP\NP)/NP red|JJ|N/N ants|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N scientific|JJ|N/N name|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N zinnia|NN|N/N plant|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N scientific|JJ|N/N name|NN|N for|IN|(NP\NP)/NP tobacco|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N size|NN|N of|IN|(NP\NP)/NP Argentina|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N smallest|JJS|N/N bird|NN|N in|IN|(NP\NP)/NP Britain|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N source|NN|N of|IN|(NP\NP)/NP natural|JJ|N/N gas|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N southwestern-most|JJ|N/N tip|NN|N of|IN|(NP\NP)/NP England|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N speed|NN|N of|IN|(NP\NP)/NP light|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N state|NN|N with|IN|(NP\NP)/NP the|DT|NP[nb]/N smallest|JJS|N/N population|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N state|NN|N/N bird|NN|N of|IN|(NP\NP)/NP Alaska|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N state|NN|N/N nickname|NN|N of|IN|(NP\NP)/NP Mississippi|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N state|NN|N/N song|NN|N of|IN|(NP\NP)/NP Kansas|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N street|NN|N/N address|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N White|NNP|N/N House|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N telephone|NN|N/N number|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N University|NNP|N of|IN|(NP\NP)/NP Kentucky|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N temperature|NN|N at|IN|(NP\NP)/NP the|DT|NP[nb]/N center|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N earth|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N temperature|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N sun|NN|N 's|POS|(NP[nb]/N)\NP surface|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N term|NN|N for|IN|(NP\NP)/NP arable|JJ|N/N land|NN|N left|VBD|(S[pss]\NP)/(S[adj]\NP) unseeded|JJ|S[adj]\NP for|IN|((S\NP)\(S\NP))/NP one|CD|N/N season|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N term|NN|N for|IN|(NP\NP)/NP a|DT|NP[nb]/N group|NN|N of|IN|(NP\NP)/NP geese|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N width|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N football|NN|N/N field|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N wingspan|NN|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N condor|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N word|NN|N which|WDT|(NP\NP)/(S[dcl]\NP) means|VBZ|(S[dcl]\NP)/NP one|CD|N hiring|VBG|(S[ng]\NP)/NP his|PRP$|NP[nb]/N relatives|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N world|NN|N 's|POS|(NP[nb]/N)\NP highest|JJS|N/N peak|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N world|NN|N 's|POS|(NP[nb]/N)\NP largest|JJS|N/N coral|JJ|N/N reef|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N world|NN|N 's|POS|(NP[nb]/N)\NP population|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N world|NN|N 's|POS|(NP[nb]/N)\NP second|JJ|(N/N)/(N/N) largest|JJS|N/N island|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N zip|NN|N/N code|NN|N for|IN|(NP\NP)/NP Fremont|NNP|N ,|,|, CA|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N zip|NN|N/N code|NN|N for|IN|(NP\NP)/NP Parsippany|NNP|N ,|,|, NJ|NNP|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) killed|VBD|(S[dcl]\NP)/NP Bob|NNP|N/N Marley|NNP|N ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) made|VBD|((S[dcl]\NP)/(S[adj]\NP))/NP Jane|NNP|N/N Goodall|NNP|N famous|JJ|S[adj]\NP ?|.|.
+What|WP|S[wq]/(S[dcl]\NP) makes|VBZ|((S[dcl]\NP)/NP)/NP Black|NNP|N/N Hills|NNP|N ,|,|, South|NNP|N/N Dakota|NNP|N a|DT|NP[nb]/N tourist|NN|N/N attraction|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Andrew|NNP|N/N Jackson|NNP|N 's|POS|(NP[nb]/N)\NP wife|NN|N 's|POS|(NP[nb]/N)\NP name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Dale|NNP|N/N Evans|NNP|N '|POS|(NP[nb]/N)\NP horse|NN|N 's|POS|(NP[nb]/N)\NP name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Denzel|NNP|N/N Washington|NNP|N 's|POS|(NP[nb]/N)\NP first|JJ|N/N television|NN|N/N series|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Dr.|NNP|N/N Seuss|NNP|N '|POS|(NP[nb]/N)\NP real|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP FDR|NNP|N 's|POS|(NP[nb]/N)\NP dog|NN|N 's|POS|(NP[nb]/N)\NP name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Gekko|NNP|N 's|POS|(NP[nb]/N)\NP profession|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Jean|NNP|N/N Harlow|NNP|N 's|POS|(NP[nb]/N)\NP real|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Thailand|NNP|N 's|POS|(NP[nb]/N)\NP original|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP his|PRP$|NP[nb]/N original|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP his|PRP$|NP[nb]/N profession|NN|N prior|RB|(NP\NP)/PP to|TO|PP/(S[ng]\NP) assuming|VBG|(S[ng]\NP)/NP the|DT|NP[nb]/N Presidency|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Beatles|NNP|N '|POS|(NP[nb]/N)\NP first|JJ|N/N number|NN|(N/N)/(N/N) one|CD|N/N hit|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Hunchback|NNP|N of|IN|(NP\NP)/NP Notre|NNP|N/N Dame|NNP|N 's|POS|(NP[nb]/N)\NP real|JJ|N/N name|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N alternate|NN|N to|TO|(NP\NP)/NP VHS|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N cause|NN|N of|IN|(NP\NP)/NP Bob|NNP|N/N Marley|NNP|N 's|POS|(NP[nb]/N)\NP death|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N date|NN|N of|IN|(NP\NP)/NP CNN|NNP|N 's|POS|(NP[nb]/N)\NP first|JJ|N/N broadcast|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N death|NN|N/N toll|NN|N at|IN|(NP\NP)/NP the|DT|NP[nb]/N eruption|NN|N of|IN|(NP\NP)/NP Mount|NNP|N/N Pinatubo|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N distinguishing|VBG|N/N mark|NN|N on|IN|(NP\NP)/NP the|DT|NP[nb]/N "|LQU|LQU Little|NNP|N/N Rascals|NNPS|N "|RQU|RQU dog|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N satellite|NN|N to|TO|(S[to]\NP)/(S[b]\NP) go|VB|(S[b]\NP)/PP into|IN|PP/NP space|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N largest|JJS|N/N crowd|NN|N to|TO|(S[to]\NP)/(S[b]\NP) ever|RB|(S\NP)/(S\NP) come|VB|(S[b]\NP)/(S[b]\NP) see|VBP|(S[b]\NP)/NP Michael|NNP|N/N Jordan|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N last|JJ|N/N year|NN|N that|IN|(NP\NP)/S[dcl] the|DT|NP[nb]/N Chicago|NNP|N/N Cubs|NNP|N won|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N World|NNP|N/N Series|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N length|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Wright|NNP|N/N brothers|NNS|N '|POS|(NP[nb]/N)\NP first|JJ|N/N flight|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N main|JJ|N/N focus|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N scandal|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N man|NN|N 's|POS|(NP[nb]/N)\NP name|NN|N who|WP|(NP\NP)/(S[dcl]\NP) was|VBD|(S[dcl]\NP)/(S[pss]\NP) killed|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP a|DT|NP[nb]/N duel|NN|N with|IN|(NP\NP)/NP Aaron|NNP|N/N Burr|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N most|RBS|(N/N)/(N/N) popular|JJ|N/N toy|NN|N in|IN|(NP\NP)/NP 1957|CD|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP "|LQU|LQU The|DT|NP[nb]/N Muppets|NNPS|N "|RQU|RQU creator|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP Stonewall|NNP|N/N Jackson|NNP|N 's|POS|(NP[nb]/N)\NP horse|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N "|LQU|LQU Little|NNP|N/N Rascals|NNPS|N "|RQU|RQU dog|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Titanic|NNP|N 's|POS|(NP[nb]/N)\NP captain|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N famous|JJ|N/N battle|NN|N in|IN|(NP\NP)/NP 1836|CD|N between|IN|(NP\NP)/NP Texas|NNP|N and|CC|conj Mexico|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N first|JJ|N/N Russian|JJ|N/N astronaut|NN|N to|TO|(S[to]\NP)/(S[b]\NP) do|VB|(S[b]\NP)/NP a|DT|NP[nb]/N spacewalk|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N first|JJ|N/N U.S.|NNP|N/N satellite|NN|N sent|VBD|(S[pss]\NP)/PP into|IN|PP/NP space|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N first|JJ|N/N child|NN|N of|IN|(NP\NP)/NP English|JJ|N/N parents|NNS|N to|TO|(S[to]\NP)/(S[b]\NP) be|VB|(S[b]\NP)/(S[pss]\NP) born|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP America|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N movie|NN|N that|IN|(NP\NP)/(S[dcl]\NP) starred|VBD|(S[dcl]\NP)/NP Sharon|NNP|N/N Stone|NNP|N and|CC|conj Arnold|NNP|N/N Schwarzenegger|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N plane|NN|N Lindbergh|NNP|N flew|VBD|((S[dcl]\NP)/(S[adj]\NP))/NP solo|RB|S[adj]\NP across|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N Atlantic|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N plane|NN|N that|WDT|(NP\NP)/(S[dcl]\NP) dropped|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Atomic|NNP|N/N Bomb|NNP|N on|IN|((S\NP)\(S\NP))/NP Hiroshima|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N sitcom|NN|N that|IN|(NP\NP)/(S[dcl]/NP) Alyssa|NNP|N/N Milano|NNP|N starred|VBD|(S[dcl]\NP)/PP in|IN|PP/NP with|IN|((S\NP)\(S\NP))/NP Tony|NNP|N/N Danza|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N stage|NN|N/N play|NN|N that|IN|(NP\NP)/(S[dcl]/NP) A.|NNP|N/N Lincoln|NNP|N died|VBD|(S[dcl]\NP)/PP at|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N name|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N television|NN|N/N show|NN|N ,|,|, staring|VBG|(S[ng]\NP)/NP Karl|NNP|N/N Malden|NNP|N ,|,|, that|WDT|(NP\NP)/(S[dcl]\NP) had|VBD|(S[dcl]\NP)/NP San|NNP|N/N Francisco|NNP|N in|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N title|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N nationality|NN|N of|IN|(NP\NP)/NP Jackson|NNP|N/N Pollock|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N original|JJ|N/N name|NN|N before|IN|(NP\NP)/NP "|LQU|LQU The|DT|NP[nb]/N Star|NNP|(N/N)/(N/N) Spangled|NNP|N/N Banner|NNP|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N profession|NN|N of|IN|(NP\NP)/NP American|JJ|N/N patriot|NN|N Paul|NNP|N/N Revere|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N purpose|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Manhattan|NNP|N/N project|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) were|VBD|(S[q]/NP)/NP Christopher|NNP|N/N Columbus|NNP|N '|POS|(NP[nb]/N)\NP three|CD|N/N ships|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) were|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N most|JJS|N/N points|NNS|N Michael|NNP|N/N Jordan|NNP|N scored|VBD|(S[dcl]\NP)/NP in|IN|((S\NP)\(S\NP))/NP a|DT|NP[nb]/N game|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) were|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N names|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N three|CD|N/N ships|NNS|N used|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP Columbus|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP Cushman|NNP|N and|CC|conj Wakefield|NNP|N known|VBN|(S[pss]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP John|NNP|N/N C.|NNP|N/N Calhoun|NNP|N and|CC|conj Henry|NNP|N/N Clay|NNP|N known|VBN|(S[pss]\NP)/PP as|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP baby|NN|N/N turkeys|NNS|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP brake|JJ|N/N pads|NNS|N made|VBN|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP cigarettes|NNS|N made|VBN|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP hiccups|NNS|N caused|VBN|(S[pss]\NP)/PP by|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP pennies|NNS|N made|VBN|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP people|NNS|N born|VBN|(S[pss]\NP)/NP 1965|CD|N through|IN|(NP\NP)/NP 1980|CD|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP prions|NNS|N made|VBN|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP sounds|NNS|NP too|SO|(S[adj]\NP)/(S[adj]\NP) low|JJ|(S[adj]\NP)/S[for] for|IN|(S[for]/(S[to]\NP))/NP humans|NNS|N to|TO|(S[to]\NP)/(S[b]\NP) hear|VB|(S[b]\NP)/NP called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Black|NNP|N/N Hills|NNP|N known|VBN|(S[pss]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N animals|NNS|N that|WDT|(NP\NP)/(S[dcl]\NP) do|VBP|(S[dcl]\NP)/(S[b]\NP) n't|RB|(S\NP)\(S\NP) have|VB|(S[b]\NP)/NP backbones|NNS|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N spots|NNS|N on|IN|(NP\NP)/NP dominoes|NNS|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/(S[pss]\NP))/NP wavelengths|NNS|N measured|VBN|(S[pss]\NP)/PP in|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 10|CD|N/N U.S.|NNP|N/N cities|NNS|N that|WDT|(NP\NP)/(S[dcl]\NP) are|VBP|(S[dcl]\NP)/NP locations|NNS|N of|IN|(NP\NP)/NP homes|NNS|N designed|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP Frank|NNP|N/N Lloyd|NNP|N/N Wright|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 12|CD|N/N types|NNS|N of|IN|(NP\NP)/NP clams|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 3|CD|N/N currencies|NNS|N Brazil|NNP|N has|VBZ|(S[dcl]\NP)/(S[pt]\NP) used|VBN|(S[pt]\NP)/NP since|IN|((S\NP)\(S\NP))/NP 1980|CD|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 3|CD|N/N residences|NNS|N of|IN|(NP\NP)/NP Queen|NNP|N/N Elizabeth|NNP|N II|CD|N\N of|IN|(NP\NP)/NP the|DT|NP[nb]/N United|NNP|N/N Kingdom|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 4|CD|N/N U.S.|NNP|N/N national|JJ|N/N parks|NNS|N that|WDT|(NP\NP)/(S[dcl]\NP) permit|VBP|(S[dcl]\NP)/NP snowmobiles|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 5|CD|N/N books|NNS|N written|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP Mary|NNP|N/N Higgens|NNP|N/N Clark|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 6|CD|N/N names|NNS|N of|IN|(NP\NP)/NP navigational|JJ|N/N satellites|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 8|CD|N/N institutions|NNS|N that|WDT|(NP\NP)/(S[dcl]\NP) have|VBP|(S[dcl]\NP)/(S[pt]\NP) conferred|VBN|((S[pt]\NP)/PP)/NP an|DT|NP[nb]/N honorary|JJ|N/N degree|NN|N on|IN|PP/NP Nelson|NNP|N/N Mandela|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 9|CD|N/N novels|NNS|N written|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP John|NNP|N/N Updike|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP Aborigines|NNPS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP Canada|NNP|N 's|POS|(NP[nb]/N)\NP two|CD|N/N territories|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP Quaaludes|NNPS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP antacids|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP birds|NNS|N descendents|NNS|NP/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP capers|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP coral|JJ|N/N reefs|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP enzymes|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP ethics|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP fractals|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP geckos|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP invertebrates|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP pathogens|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP pediatricians|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP platelets|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP polymers|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP pomegranates|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP solar|JJ|N/N cells|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP sunspots|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N odds|NNS|N against|IN|(NP\NP)/(S[ng]\NP) getting|VBG|(S[ng]\NP)/(S[pss]\NP) struck|VBN|S[pss]\NP by|IN|((S\NP)\(S\NP))/NP lightning|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N speed|NN|N hummingbirds|NNS|N fly|VBP|(S[dcl]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N twin|JJ|N/N cities|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP triglycerides|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) can|MD|(S[q]/(S[b]\NP))/NP one|PRP|NP see|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP Reims|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) could|MD|(S[q]/(S[b]\NP))/NP I|PRP|NP see|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP Reims|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP Delilah|NNP|N do|VB|((S[b]\NP)/PP)/NP to|TO|PP/NP Samson|NNP|N 's|POS|(NP[nb]/N)\NP hair|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP George|NNP|N/N Washington|NNP|N call|VB|((S[b]\NP)/NP)/NP his|PRP$|NP[nb]/N house|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP Jesse|NNP|N/N Jackson|NNP|N organize|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP Osama|NNP|N/N bin|FW|N/N Laden|NNP|N 's|POS|(NP[nb]/N)\NP father|NN|N do|VB|(S[b]\NP)/NP for|IN|((S\NP)\(S\NP))/NP a|DT|NP[nb]/N living|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP Vasco|NNP|N/N da|FW|N/N Gama|NNP|N discover|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP Walter|NNP|N/N Cronkite|NNP|N say|VBP|(S[b]\NP)/NP at|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N end|NN|N of|IN|(NP\NP)/NP every|DT|NP[nb]/N show|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP brontosauruses|NNS|N eat|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP ACLU|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP CNN|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP CPR|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP DEA|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP DNA|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP EKG|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP Final|NNP|N/N Four|NNP|N refer|VB|(S[b]\NP)/PP to|TO|PP/NP in|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N sports|NNS|N/N world|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP HTML|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP I.V.|NN|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP "|LQU|LQU CBS|NNP|N "|RQU|RQU (|LRB|(N\N)/N television|NN|N/N network|NN|N )|RRB|RRB stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP "|LQU|LQU Sitting|NNP|N/N Shiva|NNP|N "|RQU|RQU mean|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP NAFTA|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP NASA|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP NASDAQ|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP Nicholas|NNP|N/N Cage|NNP|N do|VB|(S[b]\NP)/NP for|IN|((S\NP)\(S\NP))/NP a|DT|NP[nb]/N living|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP Phi|NNP|N/N Beta|NNP|N/N Kappa|NNP|N mean|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP TB|NN|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP in|IN|((S\NP)\(S\NP))/NP baseball|NN|N/N stats|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP USPS|NNP|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP an|DT|NP[nb]/N English|JJ|N/N stone|NN|N equal|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP a|DT|NP[nb]/N barometer|NN|N measure|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP a|DT|NP[nb]/N theodolite|NN|N measure|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP caliente|NN|N translate|VB|(S[b]\NP)/PP to|TO|PP/NP in|IN|((S\NP)\(S\NP))/NP English|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP cc|NN|N in|IN|((S\NP)/(S\NP))/NP engines|NNS|N mean|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP cc|NN|N mean|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP letter|NN|N/N writing|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP ciao|NN|N mean|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP hazmat|NN|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP laser|NN|N stand|VB|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N abbreviation|NN|N SOS|NN|N mean|VBP|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N abbreviation|NN|N WASP|NNP|N mean|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N acronym|NN|N NASA|NNP|N stand|NN|(S[b]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N bugler|NN|N play|VB|(S[b]\NP)/NP at|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N end|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N day|NN|N on|IN|((S\NP)\(S\NP))/NP a|DT|NP[nb]/N US|NNP|N/N military|JJ|N/N base|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N name|NN|N mean|VB|(S[b]\NP)/NP or|CC|conj come|VB|(S[b]\NP)/PP from|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N technical|JJ|N/N term|NN|N ISDN|NNP|N mean|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N word|NN|N fortnight|NN|N mean|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP bats|NNS|N eat|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP grasshoppers|NNS|N eat|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP ladybugs|NNS|N eat|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP meteorologists|NNS|N do|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP practitioners|NNS|N of|IN|(NP\NP)/NP Wicca|NNP|N worship|VB|(S[b]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N opposite|JJ|N/N sides|NNS|N of|IN|(NP\NP)/NP a|DT|NP[nb]/N die|NN|N add|VB|(S[b]\NP)/PP up|RP|(S\NP)\(S\NP) to|TO|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP you|PRP|NP call|VB|((S[b]\NP)/NP)/NP a|DT|NP[nb]/N bone|NN|N/N doctor|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP you|PRP|NP call|VB|((S[b]\NP)/NP)/NP a|DT|NP[nb]/N group|NN|N of|IN|(NP\NP)/NP geese|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP you|PRP|NP call|VB|((S[b]\NP)/NP)/NP a|DT|NP[nb]/N newborn|JJ|N/N kangaroo|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP you|PRP|NP call|VB|((S[b]\NP)/NP)/NP a|DT|NP[nb]/N word|NN|N that|WDT|(NP\NP)/(S[dcl]\NP) is|VBZ|(S[dcl]\NP)/(S[pss]\NP) spelled|VBN|(S[pss]\NP)/NP the|DT|NP[nb]/N same|JJ|N/N backwards|NNS|N and|CC|conj forwards|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[adj]\NP))/NP Archimedes|NNP|N famous|JJ|(S[adj]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[adj]\NP))/NP Black|NNP|N/N Hills|NNP|N ,|,|, South|NNP|N/N Dakota|NNP|N most|JJS|(S[adj]\NP)/(S[adj]\NP) famous|JJ|(S[adj]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[adj]\NP))/NP Florence|NNP|N/N Nightingale|NNP|N famous|JJ|(S[adj]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[adj]\NP))/NP Giorgio|NNP|N/N Vasari|NNP|N famous|JJ|(S[adj]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[adj]\NP))/NP Jane|NNP|N/N Goodall|NNP|N famous|JJ|(S[adj]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP Colin|NNP|N/N Powell|NNP|N best|JJS|(S\NP)/(S\NP) known|VBN|(S[pss]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP Corian|NNP|N made|VBN|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP Francis|NNP|N/N Scott|NNP|N/N Key|NNP|N best|JJS|(S\NP)/(S\NP) known|VBN|(S[pss]\NP)/PP for|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP an|DT|NP[nb]/N Indian|JJ|N/N flute|NN|N made|VBN|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP a|DT|NP[nb]/N baby|NN|N/N lion|NN|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP a|DT|NP[nb]/N female|JJ|N/N moose|NN|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP a|DT|NP[nb]/N female|JJ|N/N rabbit|NN|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP a|DT|NP[nb]/N group|NN|N of|IN|(NP\NP)/NP frogs|NNS|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP a|DT|NP[nb]/N mirror|NN|N made|VBN|(S[pss]\NP)/PP out|IN|PP/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP a|DT|NP[nb]/N word|NN|N spelled|VBN|(S[pss]\NP)/NP the|DT|NP[nb]/N same|JJ|N backward|RB|(S\NP)\(S\NP) and|CC|conj forward|RB|(S\NP)\(S\NP) called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP egg|NN|N/N white|NN|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP it|PRP|NP made|VBD|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP natural|JJ|N/N gas|NN|N composed|VBN|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP plastic|NN|N made|VBN|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP tequila|NN|N made|VBN|(S[pss]\NP)/PP from|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Jewish|JJ|N/N alphabet|NN|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Stanley|NNP|N/N Cup|NNP|N made|VBD|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N currency|NN|N of|IN|(NP\NP)/NP Bolivia|NNP|N called|VBD|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N fear|NN|N of|IN|(NP\NP)/NP lightning|NN|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N hair|NN|N/N style|NN|N called|VBD|(S[pss]\NP)/NP that|DT|(NP\NP)/(S[dcl]/NP) new|JJ|N/N military|JJ|N/N recruits|NNS|N receive|VBP|(S[dcl]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N inner|JJ|N/N peel|NN|N of|IN|(NP\NP)/NP an|DT|NP[nb]/N orange|NN|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N play|NN|N "|LQU|LQU West|NNP|(N/N)/(N/N) Side|NNP|N/N Story|NNP|N "|RQU|RQU based|VBN|(S[pss]\NP)/PP on|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N statue|NN|N of|IN|(NP\NP)/NP liberty|NN|N made|VBN|(S[pss]\NP)/PP of|IN|PP/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N study|NN|N of|IN|(NP\NP)/NP ants|NNS|N called|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Bausch|NNP|N &|CC|conj Lomb|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Bollywood|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Destiny|NNP|N 's|POS|(NP[nb]/N)\NP Child|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP ETA|NNP|N in|IN|(NP\NP)/NP Spain|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP El|NNP|N/N Shaddai|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Freddie|NNP|N/N Mac|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Friends|NNPS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Earth|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Iqra|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Java|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP "|LQU|LQU Nine|NNP|(N/N)/(N/N) Inch|NNP|N/N Nails|NNPS|N "|RQU|RQU ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Muscular|NNP|N/N Dystrophy|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Restorative|JJ|N/N Justice|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Schadenfreude|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP TB|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP acetaminophen|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP acetic|JJ|N/N acid|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP acid|JJ|N/N rain|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP acupuncture|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP amoxicillin|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP anise|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP an|DT|NP[nb]/N annuity|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP an|DT|NP[nb]/N antigen|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP an|DT|NP[nb]/N obtuse|JJ|N/N angle|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP autism|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N caldera|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N carcinogen|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N golden|JJ|N/N parachute|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N meerkat|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N nanometer|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N nematode|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N nickname|NN|N for|IN|(NP\NP)/NP Mississippi|NNP|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N parasite|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N peninsula|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N Philippines|NNPS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N shaman|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N synonym|NN|N for|IN|(NP\NP)/NP aspartame|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N tsunami|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP bandwidth|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP bangers|NNS|N and|CC|conj mash|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP bio-diversity|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP bipolar|JJ|N/N disorder|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP caffeine|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP carbon|NN|N/N dioxide|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP cholesterol|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP cribbage|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP diabetes|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP e-coli|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP feng|NN|N/N shui|NNS|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP fibromyalgia|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP foot|NN|N/N and|CC|conj mouth|NN|N/N disease|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP genocide|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP home|NN|N/N equity|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP hybridization|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP influenza|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP leukemia|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP metabolism|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP mold|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP molybdenum|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP myopia|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP naproxen|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP nepotism|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP neurology|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP neuropathy|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP nicotine|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP nuclear|JJ|N/N power|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP osteoporosis|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP ouzo|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP ozone|NN|N/N depletion|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP pandoro|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP pectin|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP peyote|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP platinum|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP poliomyelitis|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP pulmonary|JJ|N/N fibrosis|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP quicksilver|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP rheumatoid|JJ|N/N arthritis|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP sake|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP saltpeter|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP schizophrenia|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP sodium|NN|N/N chloride|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP sonar|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP thalassemia|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N chunnel|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N pH|NN|N/N scale|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N spirometer|NN|N/N test|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP titanium|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP tyvek|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP viscosity|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP witch|NN|N/N hazel|NN|N ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/(S[pss]\NP))/NP Darth|NNP|N/N Vader|NNP|N 's|POS|(NP[nb]/N)\NP son|NN|N named|VBN|(S[pss]\NP)/NP ?|.|.
+What|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N ball|NN|N/N game|NN|N of|IN|(NP\NP)/NP ancient|JJ|N/N Mayans|NNPS|N called|VBN|(S[pss]\NP)/NP ?|.|.
+When|WRB|(S/S)/S[dcl] a|DT|NP[nb]/N game|NN|N of|IN|(NP\NP)/NP baseball|NN|N is|VBZ|(S[dcl]\NP)/(S[pss]\NP) forfeited|VBN|S[pss]\NP ,|,|, what|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N score|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP cinnamon|NN|N come|VB|(S[b]\NP)/PP from|IN|PP/NP ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/PP)/NP the|DT|NP[nb]/N group|NN|N from|IN|PP/NP ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N Italian|JJ|N/N city|NN|N is|VBZ|(S[dcl]\NP)/NP home|NN|N to|TO|(NP\NP)/NP the|DT|NP[nb]/N Cathedral|NNP|N of|IN|(NP\NP)/NP Santa|NNP|N/N Maria|NNP|N/N del|FW|N/N Fiore|NNP|N or|CC|conj the|DT|NP[nb]/N Duomo|NN|N ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N U.S.A.|NN|N/N president|NN|N appeared|VBD|(S[dcl]\NP)/PP on|IN|PP/NP "|LQU|LQU Laugh-In|NNP|N "|RQU|RQU ?|.|.
+Which|WDT|(S[wq]/(S[q]/NP))/N U.S.|NNP|N/N state|NN|N is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N leading|VBG|N/N corn|NN|N/N producer|NN|N ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N baseball|NN|N/N star|NN|N stole|VBD|(S[dcl]\NP)/NP 130|CD|N/N bases|NNS|N in|IN|((S\NP)\(S\NP))/NP 1982|CD|N ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N cities|NNS|N have|VBP|(S[dcl]\NP)/NP Crip|NNP|N/N gangs|NNS|N ?|.|.
+Which|WDT|(S[wq]/(S[q]/NP))/N comedian|NN|N 's|POS|(NP[nb]/N)\NP signature|NN|N/N line|NN|N is|VBZ|(S[q]/NP)/S[q] "|LQU|LQU Can|MD|(S[q]/(S[b]\NP))/NP we|PRP|NP talk|VB|S[b]\NP "|RQU|RQU ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N colonized|VBN|(S[dcl]\NP)/NP Hong|NNP|N/N Kong|NNP|N ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N country|NN|N exports|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N most|RBS|N/N tea|NN|N ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N disciple|NN|N received|VBD|(S[dcl]\NP)/NP 30|CD|N/N pieces|NNS|N of|IN|(NP\NP)/NP silver|NN|N for|IN|(NP\NP)/(S[ng]\NP) betraying|VBG|(S[ng]\NP)/NP Jesus|NNP|N ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N film|NN|N received|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N first|JJ|N/N best|JJS|(N/N)/(N/N) picture|NN|N/N Academy|NNP|N/N Award|NNP|N ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N mountain|NN|N/N range|NN|N in|IN|(N\N)/NP North|NNP|N/N America|NNP|N stretches|VBZ|(S[dcl]\NP)/PP from|IN|PP/NP Maine|NNP|N to|TO|((S\NP)\(S\NP))/NP Georgia|NNP|N ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N president|NN|N was|VBD|(S[dcl]\NP)/(S[adj]\NP) unmarried|JJ|S[adj]\NP ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N president|NN|N was|VBD|(S[dcl]\NP)/(S[pss]\NP) sworn|VBN|(S[pss]\NP)/PP into|IN|PP/NP office|NN|N on|IN|((S\NP)\(S\NP))/NP an|DT|NP[nb]/N airplane|NN|N ?|.|.
+Which|WDT|(S[wq]/(S[dcl]\NP))/N state|NN|N has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N longest|JJS|N/N coastline|NN|N on|IN|(NP\NP)/NP the|DT|NP[nb]/N Atlantic|NNP|N/N Ocean|NNP|N ?|.|.
+Which|WDT|(S[wq]/(S[q]/NP))/N political|JJ|N/N party|NN|N is|VBZ|(S[q]/NP)/NP Lionel|NNP|N/N Jospin|NNP|N a|DT|NP[nb]/N member|NN|N/PP of|IN|PP/NP ?|.|.
+Which|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N movie|NN|N that|IN|(NP\NP)/(S[dcl]/NP) he|PRP|NP was|VBD|(S[dcl]\NP)/PP in|IN|PP/NP ?|.|.
+Whom|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP marry|VB|(S[b]\NP)/NP ?|.|.
+Whom|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP she|PRP|NP marry|VB|(S[b]\NP)/NP ?|.|.
+Whose|WP|(S[wq]/(S[q]/NP))/N business|NN|N/N slogan|NN|N is|VBZ|(S[q]/NP)/S[dcl] "|LQU|LQU Quality|NN|N is|VBZ|(S[dcl]\NP)/NP job|NN|N 1|CD|NP\NP "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 3|CD|N/N authors|NNS|N who|WP|(NP\NP)/(S[dcl]\NP) have|VBP|(S[dcl]\NP)/(S[pt]\NP) written|VBN|(S[pt]\NP)/NP books|NNS|N about|IN|(NP\NP)/NP near|JJ|(N/N)/(N/N) death|NN|N/N experiences|NNS|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP 6|CD|N/N actors|NNS|N who|WP|(NP\NP)/(S[dcl]\NP) have|VBP|(S[dcl]\NP)/(S[pt]\NP) played|VBN|(S[pt]\NP)/NP Tevye|NNP|N in|IN|((S\NP)\(S\NP))/NP "|LQU|LQU Fiddler|NNP|N on|IN|(NP\NP)/NP the|DT|NP[nb]/N Roof|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP doctors|NNS|N that|WDT|(NP\NP)/(S[dcl]\NP) have|VBP|(S[dcl]\NP)/(S[pt]\NP) performed|VBN|(S[pt]\NP)/NP cataract|JJ|N/N surgery|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N members|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Rat|NNP|N/N Pack|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N members|NNS|N of|IN|(NP\NP)/NP this|DT|NP[nb]/N group|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N members|NNS|N/N names|NNS|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) coined|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N name|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) composed|VBN|(S[dcl]\NP)/NP "|LQU|LQU The|DT|NP[nb]/N Messiah|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) defeated|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Spanish|JJ|N/N armada|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) developed|VBD|(S[dcl]\NP)/NP it|PRP|NP ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) developed|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Macintosh|NNP|N/N computer|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) developed|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N vaccination|NN|N against|IN|(NP\NP)/NP polio|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) directed|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N film|NN|N "|LQU|LQU Fail|NNP|N/N Safe|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) discovered|VBD|(S[dcl]\NP)/NP America|NNP|NP ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) discovered|VBD|(S[dcl]\NP)/NP oxygen|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) discovered|VBD|(S[dcl]\NP)/NP prions|NNS|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) discovered|VBD|(S[dcl]\NP)/NP radium|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) discovered|VBD|(S[dcl]\NP)/NP x-rays|NNS|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) established|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N awards|NNS|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) founded|VBD|(S[dcl]\NP)/NP American|NNP|N/N Red|NNP|N/N Cross|NNP|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) founded|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Black|NNP|(N/N)/(N/N) Panthers|NNPS|N/N organization|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) has|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N most|JJS|N/N no|DT|N/N hitters|NNS|N in|IN|(NP\NP)/NP major|JJ|(N/N)/(N/N) league|NN|N/N baseball|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) have|VBP|(S[dcl]\NP)/(S[pt]\NP) been|VBN|(S[pt]\NP)/NP members|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N organization|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) holds|VBZ|(S[dcl]\NP)/NP the|DT|NP[nb]/N record|NN|N as|IN|(NP\NP)/NP the|DT|NP[nb]/N highest|RBS|(N/N)/(N/N) paid|VBN|N/N child|NN|N/N performer|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) invented|VBD|(S[dcl]\NP)/NP Trivial|NNP|N/N Pursuit|NNP|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) invented|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N calculator|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) invented|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N cotton|NN|N/N gin|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) invented|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N hula|NN|N/N hoop|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) invented|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N instant|JJ|N/N Polaroid|NNP|N/N camera|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) invented|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N telephone|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP a|DT|NP[nb]/N German|JJ|N/N philosopher|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP her|PRP$|NP[nb]/N coach|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP its|PRP$|NP[nb]/N current|JJ|N/N head|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP its|PRP$|NP[nb]/N leader|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP its|PRP$|NP[nb]/N top|JJ|N/N official|NN|N or|CC|conj CEO|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Prime|NNP|N/N Minister|NNP|N of|IN|(NP\NP)/NP Canada|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N actress|NN|N known|VBN|(S[pss]\NP)/PP for|IN|PP/NP her|PRP$|NP[nb]/N role|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N movie|NN|N "|LQU|LQU Gypsy|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N author|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N poem|NN|N "|LQU|LQU The|DT|NP[nb]/N Midnight|NNP|N/N Ride|NNP|N of|IN|(NP\NP)/NP Paul|NNP|N/N Revere|NNP|N ?|.|. "|RQU|RQU
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N congressman|NN|N from|IN|(NP\NP)/NP state|NN|N of|IN|(NP\NP)/NP Texas|NNP|N on|IN|(NP\NP)/NP the|DT|NP[nb]/N armed|JJ|(N/N)/(N/N) forces|NNS|N/N committee|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N evil|JJ|N/N H.R.|NNP|N/N Director|NNP|N in|IN|(NP\NP)/NP "|LQU|LQU Dilbert|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N governor|NN|N of|IN|(NP\NP)/NP Colorado|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N governor|NN|N of|IN|(NP\NP)/NP Tennessee|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N lead|NN|N/N singer|NN|N /|CC|(NP\NP)/NP musician|NN|N in|IN|(NP\NP)/NP Nirvana|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N only|JJ|N/N president|NN|N to|TO|(S[to]\NP)/(S[b]\NP) serve|VB|(S[b]\NP)/NP 2|CD|N/N non-consecutive|JJ|N/N terms|NNS|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N owner|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N St.|NNP|(N/N)/(N/N) Petersburg|NNP|N/N Times|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N president|NN|N or|CC|conj chief|JJ|N/N executive|NN|N of|IN|(NP\NP)/NP Amtrak|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N president|NN|N pro|FW|(N\N)/N tempore|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N US|NNP|N/N Senate|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N sponsor|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N court|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N tallest|JJS|N/N man|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N world|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) killed|VBD|(S[dcl]\NP)/NP John|NNP|N/N F.|NNP|N/N Kennedy|NNP|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) lived|VBD|(S[dcl]\NP)/PP in|IN|PP/NP the|DT|NP[nb]/N Neuschwanstein|NNP|N/N castle|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) makes|VBZ|(S[dcl]\NP)/NP Magic|NNP|(N/N)/(N/N) Chef|NNP|N/N refrigerators|NNS|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) makes|VBZ|(S[dcl]\NP)/NP viagra|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) painted|VBD|(S[dcl]\NP)/NP "|LQU|LQU Sunflowers|NNPS|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) painted|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N ceiling|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Sistine|NNP|N/N Chapel|NNP|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) said|VBD|(S[dcl]\NP)/S[dcl] "|LQU|LQU Music|NN|N hath|VBZ|(S[dcl]\NP)/NP charm|NN|N to|TO|(S[to]\NP)/(S[b]\NP) soothe|VB|(S[b]\NP)/NP the|DT|NP[nb]/N savage|JJ|N/N beast|NN|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) signed|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Declaration|NNP|N of|IN|(NP\NP)/NP Independence|NNP|N from|IN|((S\NP)\(S\NP))/NP Vermont|NNP|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) stabbed|VBD|(S[dcl]\NP)/NP Monica|NNP|N/N Seles|NNP|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) starred|VBD|(S[dcl]\NP)/PP in|IN|PP/NP "|LQU|LQU The|DT|NP[nb]/N Poseidon|NNP|N/N Adventure|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) succeeded|VBD|(S[dcl]\NP)/NP Ferdinand|NNP|N/N Marcos|NNP|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) was|VBD|(S[dcl]\NP)/(S[pss]\NP) elected|VBN|(S[pss]\NP)/NP President|NNP|N of|IN|(NP\NP)/NP South|NNP|N/N Africa|NNP|N in|IN|((S\NP)\(S\NP))/NP 1994|CD|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) was|VBD|(S[dcl]\NP)/NP President|NNP|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N at|IN|(NP\NP)/NP the|DT|NP[nb]/N time|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Woodrow|NNP|N/N Wilson|NNP|N 's|POS|(NP[nb]/N)\NP First|NNP|N/N Lady|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP his|PRP$|NP[nb]/N father|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP his|PRP$|NP[nb]/N mother|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP its|PRP$|NP[nb]/N first|JJ|N/N leader|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP one|CD|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Egyptian|JJ|N/N gods|NNS|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP president|NN|N in|IN|(S[wq]\S[wq])/NP 1913|CD|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Roman|JJ|N/N god|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N sea|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N U.S.|NNP|N/N president|NN|N in|IN|(S[wq]\S[wq])/NP 1929|CD|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Union|NNP|N/N general|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N Battle|NNP|N of|IN|(NP\NP)/NP Winchester|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N baseball|NN|N/N player|NN|N given|VBN|(S[pss]\NP)/NP the|DT|NP[nb]/N nickname|NN|N "|LQU|LQU Mr.|NNP|N/N October|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N captain|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Titanic|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N African|NNP|N/N American|NNP|N to|TO|(S[to]\NP)/(S[b]\NP) win|VB|(S[b]\NP)/NP the|DT|NP[nb]/N Nobel|NNP|N/N Prize|NNP|N in|IN|(NP\NP)/NP literature|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N African|NNP|N/N American|NNP|N to|TO|(S[to]\NP)/(S[b]\NP) play|VB|(S[b]\NP)/PP for|IN|PP/NP the|DT|NP[nb]/N Brooklyn|NNP|N/N Dodgers|NNPS|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N US|NNP|N/N President|NNP|N to|TO|(S[to]\NP)/(S[b]\NP) ride|VB|S[b]\NP in|IN|((S\NP)\(S\NP))/NP an|DT|NP[nb]/N automobile|NN|N to|TO|((S\NP)\(S\NP))/NP his|PRP$|NP[nb]/N inauguration|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N black|JJ|N/N heavyweight|NN|N/N champion|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N female|JJ|N/N United|NNP|(N/N)/(N/N) States|NNPS|N/N Representative|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N governor|NN|N of|IN|(NP\NP)/NP Alaska|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N man|NN|N to|TO|(S[to]\NP)/(S[b]\NP) fly|VB|(S[b]\NP)/PP across|IN|PP/NP the|DT|NP[nb]/N Pacific|NNP|N/N Ocean|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N person|NN|N to|TO|(S[to]\NP)/(S[b]\NP) make|VB|(S[b]\NP)/NP the|DT|NP[nb]/N helicopter|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N person|NN|N to|TO|(S[to]\NP)/(S[b]\NP) reach|VB|(S[b]\NP)/NP the|DT|NP[nb]/N south|JJ|N/N pole|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N person|NN|N to|TO|(S[to]\NP)/(S[b]\NP) run|VB|(S[b]\NP)/NP the|DT|NP[nb]/N mile|NN|N in|IN|((S\NP)\(S\NP))/NP less|JJR|S[adj]\NP than|IN|((N/N)/(N/N))\(S[adj]\NP) four|CD|N/N minutes|NNS|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N president|NN|N to|TO|(S[to]\NP)/(S[b]\NP) speak|VB|(S[b]\NP)/PP on|IN|PP/NP the|DT|NP[nb]/N radio|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N vice|NN|N/N president|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N U.S.|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N woman|NN|N killed|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N Vietnam|NNP|N/N War|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N woman|NN|N to|TO|(S[to]\NP)/(S[b]\NP) run|VB|(S[b]\NP)/PP for|IN|PP/NP president|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N woman|NN|N/N governor|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N U.S.|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N leader|NN|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N cult|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N lead|NN|N/N singer|NN|N for|IN|(NP\NP)/NP the|DT|NP[nb]/N Commodores|NNPS|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N only|JJ|N/N golfer|NN|N to|TO|(S[to]\NP)/(S[b]\NP) win|VB|(S[b]\NP)/NP the|DT|NP[nb]/N U.S.|NNP|N/N and|CC|conj British|NNP|N/N Opens|NNPS|N and|CC|conj amateurs|NNS|N in|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N same|JJ|N/N year|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) were|VBD|(S[q]/NP)/NP leaders|NNS|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N Khmer|NNP|N/N Rouge|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) were|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N architects|NNS|N who|WP|(NP\NP)/(S[dcl]\NP) designed|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Empire|NNP|(N/N)/(N/N) State|NNP|N/N Building|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) were|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N key|JJ|N/N players|NNS|N in|IN|(NP\NP)/(S[ng]\NP) negotiating|VBG|(S[ng]\NP)/NP the|DT|NP[nb]/N agreement|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) were|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N major|JJ|N/N players|NNS|N involved|VBN|(S[pss]\NP)/PP in|IN|PP/NP the|DT|NP[nb]/N scandal|NN|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) won|VBD|(S[dcl]\NP)/NP Ms.|NNP|N/N American|NNP|N in|IN|((S\NP)\(S\NP))/NP 1989|CD|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) won|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N Nobel|NNP|N/N Peace|NNP|N/N Prize|NNP|N in|IN|((S\NP)\(S\NP))/NP 1992|CD|N ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) wrote|VBD|(S[dcl]\NP)/NP "|LQU|LQU The|DT|NP[nb]/N Devine|NNP|N/N Comedy|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[dcl]\NP) wrote|VBD|(S[dcl]\NP)/NP the|DT|NP[nb]/N hymn|NN|N "|LQU|LQU Amazing|NNP|N/N Grace|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP Scott|NNP|N/N Bakula|NNP|N play|VB|(S[b]\NP)/NP in|IN|((S\NP)\(S\NP))/NP "|LQU|LQU American|NNP|N/N Beauty|NNP|N "|RQU|RQU ?|.|.
+Who|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP beat|VB|(S[b]\NP)/NP to|TO|((S\NP)\(S\NP))/(S[b]\NP) win|VB|(S[b]\NP)/NP the|DT|NP[nb]/N title|NN|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP marry|VB|(S[b]\NP)/NP ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP Tom|NNP|N/N Cruise|NNP|N married|VBD|(S[pss]\NP)/PP to|TO|PP/NP ?|.|.
+Who|WP|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Duke|NNP|N/N Ellington|NNP|N ?|.|.
+Who|WP|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP Abraham|NNP|N/N Lincoln|NNP|N ?|.|.
+Why|WRB|S[wq]/S[q] in|IN|((S[wq]/S[q])\(S[wq]/S[q]))/NP tennis|NN|N are|VBP|(S[q]/(S[pss]\NP))/NP zero|CD|N/N points|NNS|N called|VBN|(S[pss]\NP)/NP love|NN|N ?|.|.
+Why|WRB|S[wq]/S[q] is|VBZ|(S[q]/(S[adj]\NP))/NP a|DT|NP[nb]/N ladybug|NN|N helpful|JJ|S[adj]\NP ?|.|.
+Why|WRB|S[wq]/S[q] is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N Tale|NNP|N of|IN|(NP\NP)/NP Genji|NNP|N famous|JJ|S[adj]\NP ?|.|.
+Why|WRB|S[wq]/S[q] is|VBZ|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N sun|NN|N yellow|JJ|S[adj]\NP ?|.|.
+With|IN|(S[wq]/(S[q]/PP))/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N country|NN|N are|VBP|(S[q]/(S[pss]\NP))/NP they|PRP|NP associated|VBN|(S[pss]\NP)/PP ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N National|NNP|N/N Archives|NNPS|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N Rocky|NNP|N/N Mountains|NNPS|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) are|VBP|(S[q]/NP)/NP the|DT|NP[nb]/N company|NN|N 's|POS|(NP[nb]/N)\NP headquarters|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N vice|NN|N/N president|NN|N live|VB|(S[b]\NP)/NP when|WRB|((S\NP)\(S\NP))/PP in|IN|PP/NP office|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) do|VBP|(S[q]/(S[b]\NP))/NP apple|NN|N/N snails|NNS|N live|VB|(S[b]\NP)/NP ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N center|NN|N located|VBN|(S[pss]\NP)/NP ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N company|NN|N located|VBN|(S[pss]\NP)/NP ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N national|JJ|N/N hurricane|NN|N/N center|NN|N located|VBN|(S[pss]\NP)/NP ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N volcano|NN|N Olympus|NNP|N/N Mons|NNP|N located|VBN|(S[pss]\NP)/NP ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP America|NNP|N 's|POS|(NP[nb]/N)\NP Stonehenge|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Anne|NNP|N/N Frank|NNP|N 's|POS|(NP[nb]/N)\NP diary|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Devil|NNP|N 's|POS|(NP[nb]/N)\NP Tower|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Georgetown|NNP|N/N University|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Hill|NNP|N/N Air|NNP|(N/N)/(N/N) Force|NNP|N/N Base|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP John|NNP|(N/N)/(N/N) Wayne|NNP|N/N airport|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Mesa|NNP|(N/N)/(N/N) Verde|NNP|N/N National|NNP|N/N park|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Milan|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Perth|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Prairie|NNP|(N/N)/(N/N) View|NNP|N/N A&M|NNP|N/N University|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Prince|NNP|(N/N)/(N/N) Edward|NNP|N/N Island|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP its|PRP$|NP[nb]/N headquarters|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Eiffel|NNP|N/N Tower|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Euphrates|NNP|N/N River|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N French|JJ|N/N consulate|NN|N in|IN|(NP\NP)/NP New|NNP|N/N York|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Grand|NNP|N/N Canyon|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Little|NNP|(N/N)/(N/N) League|NNP|N/N Museum|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Lourve|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Mall|NNP|N of|IN|(NP\NP)/NP the|DT|NP[nb]/N America|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Orinoco|NNP|N/N River|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Salton|NNP|N/N Sea|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Sea|NNP|N of|IN|(NP\NP)/NP Tranquility|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N Statue|NNP|N of|IN|(NP\NP)/NP Liberty|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N highest|JJS|N/N point|NN|N on|IN|(NP\NP)/NP earth|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N oldest|JJS|N/N synagogue|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N smallest|JJS|N/N bone|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N body|NN|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N volcano|NN|N Mauna|NNP|N/N Loa|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Andersonville|NNP|N/N Prison|NNP|N ?|.|.
+Where|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N golf|NN|N/N course|NN|N in|IN|(NP\NP)/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP Fashion|NNP|N/N week|NN|N in|IN|(NP\NP)/NP NYC|NNP|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP St.|NNP|N/N Patrick|NNP|N 's|POS|(NP[nb]/N)\NP Day|NNP|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) is|VBZ|(S[q]/NP)/NP the|DT|NP[nb]/N summer|NN|N/N solstice|NN|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP D-Day|NNP|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Boston|NNP|N/N tea|NN|N/N party|NN|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Challenger|NNP|(N/N)/(N/N) space|NN|(N/N)/(N/N) shuttle|NN|N/N disaster|NN|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Exxon|NNP|(N/N)/(N/N) Valdez|NNP|N/N Oil|NNP|N/N spill|NN|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Rosenberg|NNP|N/N trial|NN|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N battle|NN|N of|IN|(NP\NP)/NP Shiloh|NNP|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N flight|NN|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) was|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N first|JJ|N/N heart|NN|N/N transplant|NN|N ?|.|.
+When|WRB|S[wq]/(S[q]/NP) were|VBD|(S[q]/NP)/NP the|DT|NP[nb]/N Los|NNP|(N/N)/(N/N) Angeles|NNP|N/N riots|NNS|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP they|PRP|NP put|VB|(S[b]\NP)/NP Mir|NNP|N down|RP|(S\NP)\(S\NP) ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP "|LQU|LQU The|DT|NP[nb]/N Simpsons|NNPS|N "|RQU|RQU first|RB|(S\NP)/(S\NP) appear|VB|S[b]\NP on|IN|((S\NP)\(S\NP))/NP television|NN|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Alexandra|NNP|N/N Graham|NNP|N/N Bell|NNP|N invent|VB|(S[b]\NP)/NP the|DT|NP[nb]/N telephone|NN|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Amtrak|NNP|N begin|VB|(S[b]\NP)/NP operations|NNS|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Bob|NNP|N/N Marley|NNP|N die|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Elvis|NNP|N/N Presley|NNP|N die|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP George|NNP|N/N W.|NNP|N/N Bush|NNP|N get|VB|(S[b]\NP)/(S[pss]\NP) elected|VBN|(S[pss]\NP)/PP as|IN|PP/NP the|DT|NP[nb]/N governor|NN|N of|IN|(NP\NP)/NP Texas|NNP|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Hawaii|NNP|N become|VB|(S[b]\NP)/NP a|DT|NP[nb]/N state|NN|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Henry|NNP|N VIII|CD|N\N rule|VB|(S[b]\NP)/NP England|NNP|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Houdini|NNP|N die|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Idaho|NNP|N become|VB|(S[b]\NP)/NP a|DT|NP[nb]/N state|NN|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Jack|NNP|N/N Welch|NNP|N become|VB|(S[b]\NP)/NP chairman|NN|N of|IN|(NP\NP)/NP General|NNP|N/N Electric|NNP|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP James|NNP|N/N Dean|NNP|N die|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP John|NNP|N/N F.|NNP|N/N Kennedy|NNP|N get|VB|(S[b]\NP)/(S[pss]\NP) elected|VBN|(S[pss]\NP)/PP as|IN|PP/NP President|NNP|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Marian|NNP|N/N Anderson|NNP|N sing|VB|S[b]\NP at|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N Lincoln|NNP|N/N Memorial|NNP|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Marilyn|NNP|N/N Monroe|NNP|N commit|VB|(S[b]\NP)/NP suicide|NN|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Mike|NNP|N/N Tyson|NNP|N bite|VB|(S[b]\NP)/NP Holyfield|NNP|N 's|POS|(NP[nb]/N)\NP ear|NN|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Willis|NNP|N/N Haviland|NNP|N/N Carrier|NNP|N make|VB|(S[b]\NP)/NP the|DT|NP[nb]/N air|NN|N/N conditioner|NN|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Yankee|NNP|N/N Stadium|NNP|N first|RB|(S\NP)/(S\NP) open|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP retire|VB|(S[b]\NP)/PP from|IN|PP/NP GE|NNP|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP win|VB|(S[b]\NP)/NP the|DT|NP[nb]/N title|NN|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP president|NN|N/N Herbert|NNP|N/N Hoover|NNP|N die|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP she|PRP|NP die|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N 6-day|JJ|N/N war|NN|N begin|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Black|NNP|(N/N)/(N/N) Panther|NNP|N/N party|NN|N start|VB|S[b]\NP in|IN|((S\NP)\(S\NP))/NP California|NNP|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Golden|NNP|(N/N)/(N/N) Gate|NNP|N/N Bridge|NNP|N get|VB|(S[b]\NP)/(S[pt]\NP) finished|VBN|S[pt]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Hindenberg|NNP|N crash|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Klondike|NNP|N/N gold|NN|N/N rush|NN|N occur|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Persian|NNP|(N/N)/(N/N) Gulf|NNP|N/N War|NNP|N occur|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N enter|VBP|(S[b]\NP)/NP World|NNP|N/N War|NNP|N II|CD|N\N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Vietnam|NNP|N/N War|NNP|N end|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N battle|NN|N of|IN|(NP\NP)/NP Iwo|NNP|N/N Jima|NNP|N take|VB|(S[b]\NP)/NP place|NN|N ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N shootings|NNS|N at|IN|(NP\NP)/NP Columbine|NNP|N happen|VB|S[b]\NP ?|.|.
+When|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N story|NN|N of|IN|(NP\NP)/NP Romeo|NNP|N and|CC|conj Juliet|NNP|N take|VB|(S[b]\NP)/NP place|NN|N ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/NP)/NP Benjamin|NNP|N/N Disraeli|NNP|N prime|JJ|N/N minister|NN|N ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[dcl]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N Crip|NN|N/N gang|NN|N started|VBD|S[dcl]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Abraham|NNP|N/N Lincoln|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Abu|NNP|N/N Nidal|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Algeria|NNP|N colonized|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Davy|NNP|N/N Crockett|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP James|NNP|N/N Dean|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Julius|NNP|N/N Caesar|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP King|NNP|N/N Louis|NNP|N XIV|CD|N\N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Lyndon|NNP|N/N B.|NNP|N/N Johnson|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Martin|NNP|N/N Luther|NNP|N/N King|NNP|N Jr.|NNP|N\N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Nimitz|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP President|NNP|N/N Kennedy|NNP|N shot|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Rosa|NNP|N/N Parks|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Sputnik|NNP|N launched|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Thomas|NNP|N/N Jefferson|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Ulysses|NNP|N/N S.|NNP|N/N Grant|NNP|N born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Wendy|NNP|N 's|POS|NP\NP founded|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP he|PRP|NP born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP he|PRP|NP captured|VBD|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP he|PRP|NP first|RB|(S\NP)/(S\NP) elected|VBD|(S[pss]\NP)/PP to|TO|PP/NP the|DT|NP[nb]/N senate|NN|N ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP it|PRP|NP formed|VBD|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP it|PRP|NP founded|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP it|PRP|NP written|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP penicillin|NN|NP first|RB|(S\NP)/(S\NP) used|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP she|PRP|NP born|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Buckingham|NNP|N/N Palace|NNP|N built|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP London|NNP|N ,|,|, England|NNP|N ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N IFC|NNP|N established|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Khmer|NNP|N/N Rouge|NNP|N removed|VBN|(S[pss]\NP)/PP from|IN|PP/NP power|NN|N ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N USS|NNP|N/N Constitution|NNP|N commissioned|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N White|NNP|N/N House|NNP|N built|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N battle|NN|N of|IN|(NP\NP)/NP Chancellorsville|NNP|N fought|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N center|NN|N formed|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N comet|NN|N discovered|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N company|NN|N founded|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N Ford|NNP|N/N Mustang|NNP|N made|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N Wal-Mart|NNP|N/N store|NN|N opened|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N atomic|JJ|N/N bomb|NN|N dropped|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N jet|NN|N invented|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N patent|NN|N filed|VBN|S[pss]\NP on|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N ice|NN|(N/N)/(N/N) cream|NN|N/N cone|NN|N ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N internal|JJ|(N/N)/(N/N) combustion|NN|N/N engine|NN|N invented|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N organization|NN|N started|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP water|NN|N found|VBN|S[pss]\NP on|IN|((S\NP)\(S\NP))/NP Mars|NNP|N ?|.|.
+When|WRB|S[wq]/S[q] were|VBD|(S[q]/(S[pss]\NP))/NP they|PRP|NP discovered|VBD|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] were|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N awards|NNS|N first|RB|(S\NP)/(S\NP) given|VBN|S[pss]\NP ?|.|.
+When|WRB|S[wq]/S[q] were|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N postage|NN|N/N stamps|NNS|N issued|VBN|S[pss]\NP in|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N ?|.|.
+Where|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP David|NNP|N/N Ogden|NNP|N/N Stiers|NNP|N get|VB|(S[b]\NP)/NP his|PRP$|NP[nb]/N undergraduate|JJ|N/N degree|NN|N ?|.|.
+Where|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Dr.|NNP|N/N King|NNP|N give|VB|(S[b]\NP)/NP his|PRP$|NP[nb]/N speech|NN|N in|IN|(NP\NP)/NP Washington|NNP|N ?|.|.
+Where|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP Golda|NNP|N/N Meir|NNP|N grow|VB|S[b]\NP up|RP|(S\NP)\(S\NP) ?|.|.
+Where|WRB|S[wq]/S[q] did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP study|VB|(S[b]\NP)/NP architecture|NN|N ?|.|.
+Where|WRB|S[wq]/S[q] does|VBZ|(S[q]/(S[b]\NP))/NP she|PRP|NP live|VB|S[b]\NP ?|.|.
+Where|WRB|S[wq]/S[q] do|VBP|(S[q]/(S[b]\NP))/NP Rhodes|NNP|N/N scholars|NNS|N study|VB|S[b]\NP ?|.|.
+Where|WRB|S[wq]/S[q] is|VBZ|(S[q]/(S[pss]\NP))/NP Hitler|NNP|N buried|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] is|VBZ|(S[q]/(S[pss]\NP))/NP Mae|NNP|N/N West|NNP|N buried|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] is|VBZ|(S[q]/(S[pss]\NP))/NP bile|NN|N produced|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Abraham|NNP|N/N Lincoln|NNP|N born|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Bob|NNP|N/N Dylan|NNP|N born|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP C.|NNP|N/N S.|NNP|N/N Lewis|NNP|N born|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Durst|NNP|N born|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Franz|NNP|N/N Kafka|NNP|N born|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP Hans|NNP|N/N Christian|NNP|N/N Anderson|NNP|N born|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP President|NNP|N/N Lincoln|NNP|N buried|VBD|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP he|PRP|NP born|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP he|PRP|NP captured|VBD|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP it|PRP|NP established|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP it|PRP|NP founded|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP she|PRP|NP born|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N battle|NN|N of|IN|(NP\NP)/NP Alamo|NNP|N fought|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N Kibbutz|NNP|N founded|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N McDonalds|NNP|N built|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N restaurant|NN|N opened|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N movie|NN|N "|LQU|LQU Somewhere|NNP|N in|IN|(NP\NP)/NP Time|NNP|N "|RQU|RQU filmed|VBN|S[pss]\NP ?|.|.
+Where|WRB|S[wq]/S[q] are|VBP|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N British|JJ|N/N Crown|NNP|N/N jewels|NNS|N kept|VBN|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N date|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Neil|NNP|N/N Armstrong|NNP|N land|VB|S[b]\NP on|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N moon|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N date|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Thomas|NNP|N/N Jefferson|NNP|N die|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N date|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Lusitania|NNP|N sink|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N date|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N U.S.|NNP|N/N civil|JJ|N/N war|NN|N start|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N date|NN|N was|VBD|(S[q]/(S[b]\NP))/NP Dwight|NNP|N/N D.|NNP|N/N Eisenhower|NNP|N born|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N day|NN|N and|CC|conj month|NN|N did|VBD|(S[q]/(S[b]\NP))/NP John|NNP|N/N Lennon|NNP|N die|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N day|NN|N and|CC|conj month|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Nixon|NNP|N resign|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N day|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Neil|NNP|N/N Armstrong|NNP|N land|VB|S[b]\NP on|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N moon|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N time|NN|N of|IN|(N\N)/NP year|NN|N does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N peregrine|NN|N/N falcon|NN|N breed|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N time|NN|N of|IN|(N\N)/NP year|NN|N do|VBP|(S[q]/(S[b]\NP))/NP most|JJS|N/N people|NNS|N fly|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N time|NN|N of|IN|(N\N)/NP year|NN|N is|VBZ|(S[q]/NP)/NP air|NN|N/N travel|NN|N the|DT|NP[nb]/N heaviest|JJS|N ?|.|.
+What|WDT|(S[wq]/S[q])/N years|NNS|N did|VBD|(S[q]/(S[b]\NP))/NP she|PRP|NP accompany|VB|(S[b]\NP)/NP Lewis|NNP|N and|CC|conj Clark|NNP|N on|IN|((S\NP)\(S\NP))/NP their|PRP$|NP[nb]/N expedition|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Alaska|NNP|N become|VB|(S[b]\NP)/NP a|DT|NP[nb]/N state|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP California|NNP|N become|VB|(S[b]\NP)/NP a|DT|NP[nb]/N territory|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Canada|NNP|N join|VB|(S[b]\NP)/NP the|DT|NP[nb]/N United|NNP|N/N Nations|NNPS|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Ellis|NNP|N/N Island|NNP|N open|VBZ|((S[b]\NP)/PP)/NP its|PRP$|NP[nb]/N doors|NNS|N to|TO|PP/NP immigrants|NNS|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP General|NNP|N/N Montgomery|NNP|N lead|VBP|((S[b]\NP)/PP)/NP the|DT|NP[nb]/N Allies|NNPS|N to|TO|PP/NP a|DT|NP[nb]/N victory|NN|N over|IN|(NP\NP)/NP the|DT|NP[nb]/N Axis|NNP|N/N troops|NNS|N in|IN|(NP\NP)/NP North|NNP|N/N Africa|NNP|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Hitler|NNP|N die|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP "|LQU|LQU New|NNP|N/N Coke|NNP|N "|RQU|RQU come|VB|S[b]\NP out|RP|(S\NP)\(S\NP) ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP "|LQU|LQU Snow|NNP|N/N White|NNP|N "|RQU|RQU come|VBD|S[b]\NP out|RP|(S\NP)\(S\NP) ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Marco|NNP|N/N Polo|NNP|N travel|NN|(S[b]\NP)/PP to|TO|PP/NP Asia|NNP|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Montana|NNP|N become|VB|(S[b]\NP)/NP a|DT|NP[nb]/N state|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Mussolini|NNP|N seize|VB|(S[b]\NP)/NP power|NN|N in|IN|((S\NP)\(S\NP))/NP Italy|NNP|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Oklahoma|NNP|N become|VB|(S[b]\NP)/NP a|DT|NP[nb]/N state|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP South|NNP|N/N Dakota|NNP|N become|VBP|(S[b]\NP)/NP a|DT|NP[nb]/N state|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP WWII|NNP|N begin|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Wilt|NNP|N/N Chamberlain|NNP|N score|VB|(S[b]\NP)/NP 100|CD|N/N points|NNS|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Andy|NNP|(N/N)/(N/N) Griffith|NNP|N/N show|NN|N begin|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Milwaukee|NNP|N/N Braves|NNPS|N become|VBN|(S[b]\NP)/NP the|DT|NP[nb]/N Atlanta|NNP|N/N Braves|NNPS|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N NFL|NNP|N go|VBP|(S[b]\NP)/PP on|IN|PP/NP strike|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Teapot|NNP|(N/N)/(N/N) Dome|NNP|N/N scandal|NN|N take|VB|(S[b]\NP)/NP place|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Titanic|NNP|N start|VB|(S[b]\NP)/PP on|IN|PP/NP its|PRP$|NP[nb]/N journey|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N U.S.|NNP|N buy|VB|(S[b]\NP)/NP Alaska|NNP|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N United|NNP|N/N States|NNPS|N abolish|VB|(S[b]\NP)/NP the|DT|NP[nb]/N draft|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N American|JJ|N/N lighthouse|NN|N open|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N shuttle|NN|N Challenger|NNP|N explode|VB|S[b]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP Alaska|NNP|N purchased|VBN|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP Ebbets|NNP|N/N Field|NNP|N ,|,|, home|NN|N of|IN|(NP\NP)/NP Brooklyn|NNP|N/N Dodgers|NNPS|N ,|,|, built|VBN|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP Janet|NNP|N/N Jackson|NNP|N 's|POS|(NP[nb]/N)\NP first|JJ|N/N album|NN|N released|VBN|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP President|NNP|N/N Kennedy|NNP|N killed|VBD|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP Robert|NNP|N/N Frost|NNP|N born|VBN|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Avery|NNP|(N/N)/(N/N) Dennison|NNP|N/N company|NN|N founded|VBN|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N Mona|NNP|N/N Lisa|NNP|N painted|VBD|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N PC|NN|N invented|VBD|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N Macy|NNP|N 's|POS|(NP[nb]/N)\NP Thanksgiving|NNP|(N/N)/(N/N) Day|NNP|N/N Parade|NNP|N held|VBD|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N automobile|NN|N manufactured|VBN|S[pss]\NP ?|.|.
+What|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N movie|NN|N "|LQU|LQU Ole|NNP|N/N Yeller|NNP|N "|RQU|RQU made|VBD|S[pss]\NP ?|.|.
+During|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N war|NN|N did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP serve|VB|S[b]\NP ?|.|.
+For|IN|(S[wq]/S[q])/(S[wq]/(S[q]/(S[adj]\NP))) how|WRB|(S[wq]/(S[q]/(S[adj]\NP)))/(S[adj]\NP) long|RB|S[adj]\NP is|VBZ|(S[q]/(S[adj]\NP))/NP an|DT|NP[nb]/N elephant|NN|N pregnant|JJ|S[adj]\NP ?|.|.
+In|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N countries|NNS|N was|VBD|(S[q]/(S[adj]\NP))/NP the|DT|NP[nb]/N comet|NN|N visible|JJ|S[adj]\NP on|IN|((S\NP)\(S\NP))/NP its|PRP$|NP[nb]/N last|JJ|N/N return|NN|N ?|.|.
+In|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N country|NN|N did|VBD|(S[q]/(S[b]\NP))/NP this|DT|NP[nb]/N movement|NN|N take|VB|(S[b]\NP)/NP place|NN|N ?|.|.
+In|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N film|NN|N is|VBZ|(S[q]/NP)/NP Gordon|NNP|N/N Gekko|NNP|N the|DT|(NP\NP)/N main|JJ|N/N character|NN|N ?|.|.
+In|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N month|NN|N are|VBP|(S[q]/(S[pss]\NP))/NP the|DT|NP[nb]/N most|RBS|N/N babies|NNS|N born|VBN|S[pss]\NP ?|.|.
+In|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N spacecraft|NN|N did|VBD|(S[q]/(S[b]\NP))/NP U.S.|NNP|N/N astronaut|NN|N Alan|NNP|N/N Shepard|NNP|N make|VBP|(S[b]\NP)/NP his|PRP$|NP[nb]/N historic|JJ|N/N 1961|CD|N/N flight|NN|N ?|.|.
+In|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N states|NNS|N did|VBD|(S[q]/(S[b]\NP))/NP he|PRP|NP plant|VB|(S[b]\NP)/NP trees|NNS|N ?|.|.
+In|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N PLO|NNP|N condemn|VB|(S[b]\NP)/NP him|PRP|NP to|TO|((S\NP)\(S\NP))/NP death|NN|N ?|.|.
+In|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N year|NN|N did|VBD|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N first|JJ|N/N Concorde|NNP|N/N passenger|NN|N/N flight|NN|N take|VB|(S[b]\NP)/NP place|NN|N ?|.|.
+In|IN|(S[wq]/S[q])/(S[wq]/(S[q]/NP)) what|WDT|(S[wq]/(S[q]/NP))/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP their|PRP$|NP[nb]/N first|JJ|N/N major|JJ|N/N album|NN|N recorded|VBN|S[pss]\NP ?|.|.
+How|WRB|((S[wq]/S[q])/N)/(NP/N) many|JJ|NP/N years|NNS|N was|VBD|(S[q]/PP)/NP he|PRP|NP with|IN|PP/NP GE|NNP|N ?|.|.
+How|WRB|(S[wq]/S[q])/(S[adj]\NP) fast|JJ|S[adj]\NP does|VBZ|(S[q]/(S[b]\NP))/NP an|DT|NP[nb]/N Iguana|NNP|N travel|VB|S[b]\NP (|LRB|((S\NP)\(S\NP))/N mph|NN|N )|RRB|RRB ?|.|.
+How|WRB|(S[wq]/S[q])/(S[adj]\NP) fast|JJ|S[adj]\NP does|VBZ|(S[q]/(S[b]\NP))/NP a|DT|NP[nb]/N cheetah|NN|N run|VB|S[b]\NP ?|.|.
+How|WRB|(S[wq]/S[q])/(S[adj]\NP) fast|JJ|S[adj]\NP does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N Concorde|NNP|N fly|VB|S[b]\NP ?|.|.
+How|WRB|(S[wq]/S[q])/(S[adj]\NP) long|JJ|S[adj]\NP did|VBD|(S[q]/(S[b]\NP))/NP Rip|NNP|N/N Van|FW|N/N Winkle|NNP|N sleep|VB|S[b]\NP ?|.|.
+How|WRB|(S[wq]/S[q])/(S[adj]\NP) often|RB|S[adj]\NP does|VBZ|(S[q]/(S[b]\NP))/NP Old|NNP|N/N Faithful|NNP|N erupt|VB|S[b]\NP at|IN|((S\NP)\(S\NP))/NP Yellowstone|NNP|N/N National|NNP|N/N Park|NNP|N ?|.|.
+How|WRB|(S[wq]/S[q])/(S[adj]\NP) often|RB|S[adj]\NP does|VBZ|(S[q]/(S[b]\NP))/NP the|DT|NP[nb]/N United|NNP|(N/N)/(N/N) States|NNPS|N/N government|NN|N conduct|VB|(S[b]\NP)/NP an|DT|NP[nb]/N official|JJ|N/N population|NN|N/N census|NN|N ?|.|.
+The|DT|NP[nb]/N Hindenburg|NNP|N/N disaster|NN|N took|VBD|(S[dcl]\NP)/NP place|NN|N in|IN|((S\NP)\(S\NP))/NP 1937|CD|N in|IN|(S[wq]\S[dcl])/(S[wq]\(S[dcl]/NP)) which|WDT|(S[wq]\(S[dcl]/NP))/N New|NNP|(N/N)/(N/N) Jersey|NNP|N/N town|NN|N ?|.|.
+What|WDT|(S[wq]/S[q])/N day|NN|N did|VBD|(S[q]/(S[b]\NP))/NP Martin|NNP|N/N Luther|NNP|N/N King|NNP|N ,|,|, Jr.|NNP|N\N get|VB|(S[b]\NP)/(S[pss]\NP) assassinated|VBN|S[pss]\NP ?|.|.
+Mercury|NNP|N ,|,|, what|WDT|(S[wq]/S[q])/N year|NN|N was|VBD|(S[q]/(S[pss]\NP))/NP it|PRP|NP discovered|VBD|S[pss]\NP ?|.|.
+The|DT|NP[nb]/N U.S.|NNP|N/N Department|NNP|N of|IN|(NP\NP)/NP Treasury|NNP|N first|RB|(S\NP)/(S\NP) issued|VBD|(S[dcl]\NP)/NP paper|NN|N/N currency\|NN|N for|IN|((S\NP)\(S\NP))/NP the|DT|NP[nb]/N U.S.|NNP|N during|IN|(S[wq]\S[dcl])/(S[wq]\(S[dcl]/NP)) which|WDT|(S[wq]\(S[dcl]/NP))/N war|NN|N ?|.|.
