@@ -9,7 +9,6 @@
   },
   train_data_path: {
     ccgbank: 'http://cl.naist.jp/~masashi-y/resources/tagger_data/traindata.json',
-    // "tritrain": "http://cl.naist.jp/~masashi-y/resources/tagger_data/headfirst_filtered.json",
     auxiliary: '/home/cl/masashi-y/public_html/resources/tagger_data/geo-train_fix_np.json',
   },
   validation_data_path: 'http://cl.naist.jp/~masashi-y/resources/tagger_data/devdata.json',

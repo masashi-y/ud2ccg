@@ -10,11 +10,8 @@
   },
   train_data_path: {
     ccgbank: 'http://cl.naist.jp/~masashi-y/resources/tagger_data/traindata.json',
-    // "tritrain": "http://cl.naist.jp/~masashi-y/resources/tagger_data/headfirst_filtered.json",
     tritrain: '/home/cl/masashi-y/ud2ccg/questions/questions/qus_train.json',
     auxiliary: '/home/cl/masashi-y/public_html/resources/tagger_data/4000qs_fixed_and_filtered.quote_fixed.json',
-    // auxiliary: '/home/cl/masashi-y/public_html/resources/tagger_data/4000qs_fixed_and_filtered.t2t_not_tuned_for_questions.json'
   },
-  // validation_data_path: 'http://cl.naist.jp/~masashi-y/resources/tagger_data/devdata.json',
-  validation_data_path: '/home/cl/masashi-y/ud2ccg/questions/questions/qus_test.supertagger.json',
+  validation_data_path: 'http://cl.naist.jp/~masashi-y/resources/tagger_data/devdata.json',
 }
